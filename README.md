@@ -7,7 +7,7 @@
 
 A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Github](https://github.com/etheralpha/adoption)
 
-[Live](#live) &nbsp;|&nbsp; [In Development](#in-development)
+[Live](#live) &nbsp;|&nbsp; [In Development](#in-development) &nbsp;|&nbsp; [To Be Added](#to-be-added)
 
 
 <br>
@@ -62,7 +62,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 - [↑ Back to top ↑](#)
 
 
-<br><br><br>
+<br>
 
 
 ## In Development
@@ -75,10 +75,10 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 - [↑ Back to top ↑](#)
 
 
-<br><br><br>
+<br>
 
 
-### Yet to be Added
+## To Be Added
 - NFT brand stuff: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Adidas, Forever21, Porsche, Budweiser
 - Google address/ENS search + RPC service
 - https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258
