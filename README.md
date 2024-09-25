@@ -79,10 +79,19 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 
 ## To Be Added
-- NFT brand stuff: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Adidas, Forever21, Porsche, Budweiser
+- Brand NFT drops: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Adidas, Forever21, Porsche, Budweiser
 - Google address/ENS search + RPC service
-- https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258
+- <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
 - [↑ Back to top ↑](#)
+
+
+
+
+
+
+
+
+
 
 
 
