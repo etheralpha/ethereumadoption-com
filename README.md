@@ -18,7 +18,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 [2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4)
 
 ### 2024
-- Sept 25, 2024 - [PayPal Ethereum Trading For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
+- Sept 25, 2024 - [PayPal Ethereum Trading & External Transfers For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
 - Sept 18, 2024 - [WisdomTree RWA Platform](https://ir.wisdomtree.com/news-events/press-releases/detail/704/wisdomtree-launches-new-platform---wisdomtree-connect)
 - Sept 18, 2024 - [Google RPC Service](https://cloud.google.com/blog/topics/financial-services/introducing-blockchain-rpc-service-for-web3-builders/)
 - Sept 12, 2024 - [EVE MMO Onchain Apps](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game/)
@@ -58,7 +58,10 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 ### 2020
 - Oct 21, 2020 - [PayPal Ethereum Trading For Individuals](https://newsroom.paypal-corp.com/2020-10-21-PayPal-Launches-New-Service-Enabling-Users-to-Buy-Hold-and-Sell-Cryptocurrency)
+- Oct 14, 2020 - [Breitling Watch Certification NFT](https://medium.com/arianee/enhance-your-breitling-luxury-watch-experience-with-arianee-1427e540538e)
 - Sept 30, 2020 - [EY OpsChain Traceability](https://www.linkedin.com/pulse/unblocking-ey-opschain-premchand-kasi/)
+- Feb 10, 2020 - [Vermont Agency of Agriculture (VAAFM) Hemp Tracker](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/vaafm-will-employ-blockchain-tracking-technology-2020-hemp)
+- Jan 17, 2020 - [New Shore Invest Ship Financing Platform](https://www.securities.io/new-shore-invest-starts-a-new-ship-finance-platform/)
 - [↑ Back to top ↑](#)
 
 
@@ -79,7 +82,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 
 ## To Be Added
-- Brand NFT drops: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Adidas, Forever21, Porsche, Budweiser
+- Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Adidas, Forever21, Porsche, Budweiser
 - Google address/ENS search + RPC service
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
 - [↑ Back to top ↑](#)
@@ -93,7 +96,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 
 
-
+---
 
 <script>
 let currentURL = window.location.href.split("#")[0];
