@@ -15,7 +15,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 ## Live
 
-[2024](#2024) &nbsp;|&nbsp; [2023](#2023) &nbsp;|&nbsp; [2022](#2022) &nbsp;|&nbsp; [2021](#2021) &nbsp;|&nbsp; [2020](#2020)
+[2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4)
 
 ### 2024
 - Sept 25, 2024 - [PayPal Ethereum Trading For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
@@ -86,4 +86,11 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 
 
-
+<script>
+let currentURL = window.location.href.split("#")[0];
+document.querySelectorAll("a").forEach(link => {
+  if (!link.href.includes(currentURL)) {
+    link.target = "_blank";
+  }
+})
+</script>
