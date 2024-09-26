@@ -15,7 +15,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 ## Live
 
-[2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4)
+[2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5)
 
 ### 2024
 - Sept 25, 2024 - [PayPal Ethereum Trading & External Transfers For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
@@ -39,12 +39,15 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 - Jul 25, 2023 - [Singapore Government OpenAttestation Document Verification](https://oecd-opsi.org/innovations/openattestation/)
 - May 10 2023 - [EY OpsChain ESG Traceability](https://ey.com/en_gl/newsroom/2023/05/ey-launches-ey-opschain-esg-to-provide-a-trusted-platform-for-emissions-and-carbon-credit-traceability-through-tokenization)
 - Feb 25, 2023 - [Hennessy H3nsy Web3 Platform](https://bravenewcoin.com/insights/maison-hennessy-announces-the-launch-of-web3-platform-h3nsy)
+- Jan 13, 2023 - [Société Général MakerDAO Vauult](https://www.theblock.co/post/201972/investment-firm-societe-generale-mints-7-million-in-stablecoin-loan-from-makerdao)
 - Jan 9, 2023 - [Norwegian Government Shareholder Tracking, BRØK](https://medium.com/blockchangers/how-norway-is-using-ethereum-arbitrum-for-shareholder-management-500e59c586d3)
-- Nov 13, 2022 - [Nike NFT Platform](https://about.nike.com/en/newsroom/releases/nike-launches-swoosh-a-new-digital-community-and-experience)
-- Oct 28, 2022 - [Gucci Metaverse NFT Store](https://www.forbes.com/sites/kaleighmoore/2022/10/28/gucci-vault-opens-in-the-sandbox-bringing-luxury-fashion-into-the-metaverse/)
 - [↑ Back to top ↑](#)
 
 ### 2022
+- Nov 23, 2022 - [AWS RPC Srvice](https://aws.amazon.com/blogs/database/introducing-token-based-access-to-ethereum-node-apis-on-amazon-managed-blockchain/)
+- Nov 13, 2022 - [Nike NFT Platform](https://about.nike.com/en/newsroom/releases/nike-launches-swoosh-a-new-digital-community-and-experience)
+- Nov 1, 2022 - [Visa Masters of Movement NFT](https://www.businesswire.com/news/home/20221101005640/en/Visa-and-Crypto.com-Fuse-Football-Art-and-NFTs-for-Fan-Experience-Ahead-of-FIFA-World-Cup-Qatar-2022%E2%84%A2)
+- Oct 28, 2022 - [Gucci Metaverse NFT Store](https://www.forbes.com/sites/kaleighmoore/2022/10/28/gucci-vault-opens-in-the-sandbox-bringing-luxury-fashion-into-the-metaverse/)
 - Jun 7, 2022 - [PayPal Ethereum Transfers For Individuals](https://newsroom.paypal-corp.com/2022-06-07-PayPal-Users-Can-Now-Transfer-Send-and-Receive-Bitcoin-Ethereum-Bitcoin-Cash-and-Litecoin)
 - May 17, 2022 - [EY Nightfall Rollup](https://thedefiant.io/news/blockchains/ey-polygon-nightfall-beta)
 - Apr 22, 2022 - [Stripe USDC Payments](https://blockworks.co/news/payment-company-stripe-enables-crypto-payouts-in-usdc)
@@ -64,6 +67,9 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 - Jan 17, 2020 - [New Shore Invest Ship Financing Platform](https://www.securities.io/new-shore-invest-starts-a-new-ship-finance-platform/)
 - [↑ Back to top ↑](#)
 
+### 2019
+- Sept 12, 2019 - [Santander Bond](https://www.santander.com/en/press-room/press-releases/santander-launches-the-first-end-to-end-blockchain-bond)
+- [↑ Back to top ↑](#)
 
 <br>
 
@@ -83,7 +89,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 ## To Be Added
 - Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Adidas, Forever21, Porsche, Budweiser
-- Google address/ENS search + RPC service
+- Google address/ENS search
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
 - [↑ Back to top ↑](#)
 
