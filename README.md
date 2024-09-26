@@ -5,7 +5,7 @@
 
 # Ethereum Adoption
 
-A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Github](https://github.com/etheralpha/adoption)
+A list of high profile entities building on Ethereum &nbsp;|&nbsp; [Contribute on Github](https://github.com/etheralpha/adoption)
 
 [Live](#live) &nbsp;|&nbsp; [In Development](#in-development) &nbsp;|&nbsp; [To Be Added](#to-be-added)
 
@@ -15,7 +15,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 
 ## Live
 
-[2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5)
+[2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5) &nbsp;|&nbsp; [2018](#section-6)
 
 ### 2024
 - Sept 25, 2024 - [PayPal Ethereum Trading & External Transfers For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
@@ -51,6 +51,7 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 - Jun 7, 2022 - [PayPal Ethereum Transfers For Individuals](https://newsroom.paypal-corp.com/2022-06-07-PayPal-Users-Can-Now-Transfer-Send-and-Receive-Bitcoin-Ethereum-Bitcoin-Cash-and-Litecoin)
 - May 17, 2022 - [EY Nightfall Rollup](https://thedefiant.io/news/blockchains/ey-polygon-nightfall-beta)
 - Apr 22, 2022 - [Stripe USDC Payments](https://blockworks.co/news/payment-company-stripe-enables-crypto-payouts-in-usdc)
+- Feb 16, 2022 - [Twitter Tips](https://twitter.com/Support/status/1494008973581856768)
 - [↑ Back to top ↑](#)
 
 ### 2021
@@ -70,6 +71,11 @@ A growing list of entities building on Ethereum &nbsp;|&nbsp; [Contribute on Git
 ### 2019
 - Sept 12, 2019 - [Santander Bond](https://www.santander.com/en/press-room/press-releases/santander-launches-the-first-end-to-end-blockchain-bond)
 - [↑ Back to top ↑](#)
+
+### 2018
+- Nov 6, 2018 - [Spain BBVA Loan Records](https://archive.fo/cMRS2)
+- [↑ Back to top ↑](#)
+
 
 <br>
 
