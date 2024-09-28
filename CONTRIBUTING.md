@@ -1,4 +1,6 @@
-- Additions should use the following format: `- date - [title](link)`
+To add new entries please use the following guidelines and add the entry to [README.md](https://github.com/etheralpha/adoption/blob/main/README.md) under the appropriate section. 
+
+- Entry format: `- date - [title](link)`
   - Example: `- Sept 5, 2023 - [VISA B2B Settlements](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19881.html)`
 - `date` is the date of the linked source, should be in `MMM DD, YYYY` format where the month is the 3 letter abbreviation, day does not include a prepended 0, and the year is 4 digits
   - Example: `Sept 5, 2023`
