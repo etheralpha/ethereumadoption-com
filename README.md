@@ -45,7 +45,7 @@ A list of high profile entities building on Ethereum &nbsp;|&nbsp; [Contribute o
 - [↑ Back to top ↑](#)
 
 ### 2022
-- Nov 23, 2022 - [AWS RPC Srvice](https://aws.amazon.com/blogs/database/introducing-token-based-access-to-ethereum-node-apis-on-amazon-managed-blockchain/)
+- Nov 23, 2022 - [AWS RPC Service](https://aws.amazon.com/blogs/database/introducing-token-based-access-to-ethereum-node-apis-on-amazon-managed-blockchain/)
 - Nov 14, 2022 - [Nike .SWOOSH NFT Platform](https://about.nike.com/en/newsroom/releases/nike-launches-swoosh-a-new-digital-community-and-experience)
 - Nov 1, 2022 - [Visa Masters of Movement NFT](https://www.businesswire.com/news/home/20221101005640/en/Visa-and-Crypto.com-Fuse-Football-Art-and-NFTs-for-Fan-Experience-Ahead-of-FIFA-World-Cup-Qatar-2022%E2%84%A2)
 - Oct 28, 2022 - [Gucci Metaverse NFT Store](https://www.forbes.com/sites/kaleighmoore/2022/10/28/gucci-vault-opens-in-the-sandbox-bringing-luxury-fashion-into-the-metaverse/)
