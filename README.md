@@ -39,22 +39,28 @@ A list of high profile entities building on Ethereum &nbsp;|&nbsp; [Contribute o
 - Jul 25, 2023 - [Singapore Government OpenAttestation Document Verification](https://oecd-opsi.org/innovations/openattestation/)
 - May 10 2023 - [EY OpsChain ESG Traceability](https://ey.com/en_gl/newsroom/2023/05/ey-launches-ey-opschain-esg-to-provide-a-trusted-platform-for-emissions-and-carbon-credit-traceability-through-tokenization)
 - Feb 25, 2023 - [Hennessy H3nsy Web3 Platform](https://bravenewcoin.com/insights/maison-hennessy-announces-the-launch-of-web3-platform-h3nsy)
-- Jan 13, 2023 - [Société Général MakerDAO Vauult](https://www.theblock.co/post/201972/investment-firm-societe-generale-mints-7-million-in-stablecoin-loan-from-makerdao)
+- Feb 22, 2023 - [Spotify NFT-Gated Playlists](https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/)
+- Jan 13, 2023 - [Société Général MakerDAO Vault](https://www.theblock.co/post/201972/investment-firm-societe-generale-mints-7-million-in-stablecoin-loan-from-makerdao)
 - Jan 9, 2023 - [Norwegian Government Shareholder Tracking, BRØK](https://medium.com/blockchangers/how-norway-is-using-ethereum-arbitrum-for-shareholder-management-500e59c586d3)
 - [↑ Back to top ↑](#)
 
 ### 2022
 - Nov 23, 2022 - [AWS RPC Srvice](https://aws.amazon.com/blogs/database/introducing-token-based-access-to-ethereum-node-apis-on-amazon-managed-blockchain/)
-- Nov 13, 2022 - [Nike NFT Platform](https://about.nike.com/en/newsroom/releases/nike-launches-swoosh-a-new-digital-community-and-experience)
+- Nov 14, 2022 - [Nike .SWOOSH NFT Platform](https://about.nike.com/en/newsroom/releases/nike-launches-swoosh-a-new-digital-community-and-experience)
 - Nov 1, 2022 - [Visa Masters of Movement NFT](https://www.businesswire.com/news/home/20221101005640/en/Visa-and-Crypto.com-Fuse-Football-Art-and-NFTs-for-Fan-Experience-Ahead-of-FIFA-World-Cup-Qatar-2022%E2%84%A2)
 - Oct 28, 2022 - [Gucci Metaverse NFT Store](https://www.forbes.com/sites/kaleighmoore/2022/10/28/gucci-vault-opens-in-the-sandbox-bringing-luxury-fashion-into-the-metaverse/)
+- Jun 22, 2022 - [Shopify NFT Stores](https://decrypt.co/103584/shopify-adds-nft-gated-option-for-online-retailers)
 - Jun 7, 2022 - [PayPal Ethereum Transfers For Individuals](https://newsroom.paypal-corp.com/2022-06-07-PayPal-Users-Can-Now-Transfer-Send-and-Receive-Bitcoin-Ethereum-Bitcoin-Cash-and-Litecoin)
 - May 17, 2022 - [EY Nightfall Rollup](https://thedefiant.io/news/blockchains/ey-polygon-nightfall-beta)
 - Apr 22, 2022 - [Stripe USDC Payments](https://blockworks.co/news/payment-company-stripe-enables-crypto-payouts-in-usdc)
+- Feb 17, 2022 - [Universal Music Group NFTs](https://www.universalmusic.com/universal-music-group-partners-with-curio-to-develop-nft-fan-collections-for-its-record-labels-and-artists/)
 - Feb 16, 2022 - [Twitter Tips](https://twitter.com/Support/status/1494008973581856768)
 - [↑ Back to top ↑](#)
 
 ### 2021
+- Dec 17, 2021 - [Adidas Into the Metaverse NFTs](https://www.adidas.com/us/blog/825513-into-the-metaverse-lets-go)
+- Dec 13, 2021 - [L’Oréal Reds of Worth NFTs](https://www.bwconfidential.com/loreal-paris-usa-launches-nfts/)
+- Nov 29, 2021 - [Budweiser Budverse NFTs](https://decrypt.co/87175/budweiser-nfts-key-to-budverse)
 - May 17, 2021 - [Birra Peroni Utilizes EY OpsChain Traceability](https://publish-ey-prod-cdn.adobecqms.net/en_nz/news/2021/05/birra-peroni-is-the-first-industrial-organization-to-mint-unique-non-fungible-tokens-using-ey-opschain-traceability)
 - Apr 28, 2021 - [European Investment Bank (EIB) Bonds](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
 - Mar 29, 2021 - [Visa USDC Settlement](https://usa.visa.com/visa-everywhere/blog/bdp/2021/03/26/digital-currency-comes-1616782388876.html)
@@ -94,7 +100,7 @@ A list of high profile entities building on Ethereum &nbsp;|&nbsp; [Contribute o
 
 
 ## To Be Added
-- Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Adidas, Forever21, Porsche, Budweiser
+- Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Forever21, Porsche, Walmart, Gap, Verizon, Hulu, PWC, Atari
 - Google address/ENS search
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
 - [↑ Back to top ↑](#)
