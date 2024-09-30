@@ -5,13 +5,13 @@
 
 # Ethereum Adoption
 
-A list of high profile entities building on Ethereum &nbsp;|&nbsp; [Contribute on Github](https://github.com/etheralpha/adoption/blob/main/CONTRIBUTING.md)
+A list of high profile entities building on Ethereum
 
 
 <br>
 
 
-[Live](#live) &nbsp;|&nbsp; [In Development](#in-development) &nbsp;|&nbsp; [To Be Added](#to-be-added)
+[Live](#live) &nbsp;|&nbsp; [In Development](#in-development) &nbsp;|&nbsp; [To Be Added](#to-be-added) &nbsp;|&nbsp; [Contribute](https://github.com/etheralpha/adoption/blob/main/CONTRIBUTING.md)
 
 
 ## Live
