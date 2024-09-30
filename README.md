@@ -7,11 +7,10 @@
 
 A list of high profile entities building on Ethereum
 
+[Live](#live) &nbsp;|&nbsp; [In Development](#in-development) &nbsp;|&nbsp; [To Be Added](#to-be-added) &nbsp;|&nbsp; [Contribute](https://github.com/etheralpha/adoption/blob/main/CONTRIBUTING.md)
+
 
 <br>
-
-
-[Live](#live) &nbsp;|&nbsp; [In Development](#in-development) &nbsp;|&nbsp; [To Be Added](#to-be-added) &nbsp;|&nbsp; [Contribute](https://github.com/etheralpha/adoption/blob/main/CONTRIBUTING.md)
 
 
 ## Live
