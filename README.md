@@ -122,6 +122,23 @@ A list of high profile entities building on Ethereum
 
 ---
 
+
+
+
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6B2PQRVVJR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6B2PQRVVJR');
+</script>
+
 <script>
 let currentURL = window.location.href.split("#")[0];
 document.querySelectorAll("a").forEach(link => {
