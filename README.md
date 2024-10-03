@@ -103,6 +103,7 @@ A list of high profile entities building on Ethereum
 ## To Be Added
 - Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Forever21, Porsche, Walmart, Gap, Verizon, Hulu, PWC, Atari
 - Google address/ENS search
+- christie's ownership certificates
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
 - <https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/>
 - <https://bravenewcoin.com/insights/ubisoft-launches-new-ethereum-based-collectible-game-supporting-unicef>
