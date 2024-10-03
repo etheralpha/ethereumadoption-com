@@ -64,6 +64,7 @@ A list of high profile entities building on Ethereum
 - May 17, 2021 - [Birra Peroni Utilizes EY OpsChain Traceability](https://publish-ey-prod-cdn.adobecqms.net/en_nz/news/2021/05/birra-peroni-is-the-first-industrial-organization-to-mint-unique-non-fungible-tokens-using-ey-opschain-traceability)
 - Apr 28, 2021 - [European Investment Bank (EIB) Bonds](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
 - Mar 29, 2021 - [Visa USDC Settlement](https://usa.visa.com/visa-everywhere/blog/bdp/2021/03/26/digital-currency-comes-1616782388876.html)
+- Feb 10, 2021- [Mastercard Integrated Payments](https://www.mastercard.com/news/perspectives/2021/why-mastercard-is-bringing-crypto-onto-our-network/)
 - [↑ Back to top ↑](#)
 
 ### 2020
@@ -103,6 +104,10 @@ A list of high profile entities building on Ethereum
 - Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Forever21, Porsche, Walmart, Gap, Verizon, Hulu, PWC, Atari
 - Google address/ENS search
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
+- <https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/>
+- <https://bravenewcoin.com/insights/ubisoft-launches-new-ethereum-based-collectible-game-supporting-unicef>
+- <https://fortune.com/2021/11/01/burger-king-robinhood-bitcoin-dogecoin-ethereum/>
+- <https://www.pymnts.com/nfts/2022/samsung-adds-nft-platform-to-smart-tv-lineup/>
 - [↑ Back to top ↑](#)
 
 
