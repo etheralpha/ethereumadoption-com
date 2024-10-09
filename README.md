@@ -18,6 +18,7 @@ A list of high profile entities building on Ethereum
 [2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5) &nbsp;|&nbsp; [2018](#section-6)
 
 ### 2024
+- Oct 2, 2024 - [Christie's Ownership Certificates](https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/)
 - Sept 25, 2024 - [PayPal Ethereum Trading & External Transfers For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
 - Sept 18, 2024 - [WisdomTree RWA Platform](https://ir.wisdomtree.com/news-events/press-releases/detail/704/wisdomtree-launches-new-platform---wisdomtree-connect)
 - Sept 18, 2024 - [Google RPC Service](https://cloud.google.com/blog/topics/financial-services/introducing-blockchain-rpc-service-for-web3-builders/)
@@ -29,12 +30,15 @@ A list of high profile entities building on Ethereum
 - Jun 18, 2024 - [Fox Corporation Verify Protocol](https://polygon.technology/blog/update-fox-corporation-to-upgrade-verify-beta-to-dedicated-l2-built-with-polygon-cdk-announces-time-as-first-publishing-partner)
 - Apr 4, 2024 - [PayPal Xoom Cross Border Payments Platform](https://newsroom.paypal-corp.com/2024-04-04-Xoom-Enables-PayPal-USD-as-a-Funding-Option-for-Cross-Border-Money-Transfers)
 - Apr 4, 2024 - [Canadian Blood Services Utilizes EY OpsChain Traceability](https://healthcare-digital.com/procurement-and-supply-chain/ey-blood-donation-blockchain-pilot-healthcare-breakthrough)
+- Mar 22, 2024 - [Google ENS Search](https://cointelegraph.com/news/ens-data-etherscan-visible-google-search)
 - Mar 20, 2024 - [BlackRock BUIDL Fund](https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network)
 - Feb 28, 2024 - [VanEck SegMint RWA Platform](https://www.vaneck.com/us/en/press-releases/vaneck-launches-segmint-digital-assets-management-platform.pdf)
 - [↑ Back to top ↑](#)
 
 ### 2023
+- Nov 14, 2023 - [Disney Pinnacle NFT Platform](https://cointelegraph.com/news/disney-metaverse-launches-nft-web3-platform-dapper-labs)
 - Sept 5, 2023 - [VISA B2B Settlements](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19881.html)
+- Sept 4, 2023 - [Porsche 911 NFT](https://www.porsche.com/stories/innovation/how-to-buy-a-porsche-nft/)
 - Aug 7, 2023 - [PayPal PYUSD Stablecoin](https://www.coindesk.com/business/2023/08/07/paypal-to-issue-dollar-pegged-crypto-stablecoin-bloomberg/)
 - Jul 25, 2023 - [Singapore Government OpenAttestation Document Verification](https://oecd-opsi.org/innovations/openattestation/)
 - May 10 2023 - [EY OpsChain ESG Traceability](https://ey.com/en_gl/newsroom/2023/05/ey-launches-ey-opschain-esg-to-provide-a-trusted-platform-for-emissions-and-carbon-credit-traceability-through-tokenization)
@@ -49,21 +53,28 @@ A list of high profile entities building on Ethereum
 - Nov 14, 2022 - [Nike .SWOOSH NFT Platform](https://about.nike.com/en/newsroom/releases/nike-launches-swoosh-a-new-digital-community-and-experience)
 - Nov 1, 2022 - [Visa Masters of Movement NFT](https://www.businesswire.com/news/home/20221101005640/en/Visa-and-Crypto.com-Fuse-Football-Art-and-NFTs-for-Fan-Experience-Ahead-of-FIFA-World-Cup-Qatar-2022%E2%84%A2)
 - Oct 28, 2022 - [Gucci Metaverse NFT Store](https://www.forbes.com/sites/kaleighmoore/2022/10/28/gucci-vault-opens-in-the-sandbox-bringing-luxury-fashion-into-the-metaverse/)
+- Oct 11, 2022 - [Google Address Search](https://cointelegraph.com/news/you-can-now-search-eth-addresses-on-google-but-what-about-bitcoin)
+- Sept 9, 2022 - [Disney Golden Moments NFTs](https://www.veve.me/collectibles/en/series/69f2ca17-ebc6-4f55-b3fa-5c299e5a81f3)
+- Aug 25, 2022 - [Atari Anniversary NFT](https://atari.com/blogs/newsroom/atari%C2%AE-reveals-50-years-of-atari-nft-collaboration-with-artist-butcher-billy)
+- Jul 11, 2022 - [Topps All-Star Activities NFTs](https://it.topps.com/blog/topps-announces-2022-mlb-all-star-activities-with-nft-collection-on-site-exclusives-and-collectibles.html)
 - Jun 22, 2022 - [Shopify NFT Stores](https://decrypt.co/103584/shopify-adds-nft-gated-option-for-online-retailers)
 - Jun 7, 2022 - [PayPal Ethereum Transfers For Individuals](https://newsroom.paypal-corp.com/2022-06-07-PayPal-Users-Can-Now-Transfer-Send-and-Receive-Bitcoin-Ethereum-Bitcoin-Cash-and-Litecoin)
 - May 17, 2022 - [EY Nightfall Rollup](https://thedefiant.io/news/blockchains/ey-polygon-nightfall-beta)
 - Apr 22, 2022 - [Stripe USDC Payments](https://blockworks.co/news/payment-company-stripe-enables-crypto-payouts-in-usdc)
 - Feb 17, 2022 - [Universal Music Group NFTs](https://www.universalmusic.com/universal-music-group-partners-with-curio-to-develop-nft-fan-collections-for-its-record-labels-and-artists/)
 - Feb 16, 2022 - [Twitter Tips](https://twitter.com/Support/status/1494008973581856768)
+- Jan 2, 2022 - [Samsung TV NFT Platform](https://www.pymnts.com/nfts/2022/samsung-adds-nft-platform-to-smart-tv-lineup/)
 - [↑ Back to top ↑](#)
 
 ### 2021
 - Dec 17, 2021 - [Adidas Into the Metaverse NFTs](https://www.adidas.com/us/blog/825513-into-the-metaverse-lets-go)
 - Dec 13, 2021 - [L’Oréal Reds of Worth NFTs](https://www.bwconfidential.com/loreal-paris-usa-launches-nfts/)
 - Nov 29, 2021 - [Budweiser Budverse NFTs](https://decrypt.co/87175/budweiser-nfts-key-to-budverse)
+- Nov 1, 2021 - [Burger King Rewards Program](https://cointelegraph.com/news/burger-king-serves-up-free-doge-with-meal-purchases)
 - May 17, 2021 - [Birra Peroni Utilizes EY OpsChain Traceability](https://publish-ey-prod-cdn.adobecqms.net/en_nz/news/2021/05/birra-peroni-is-the-first-industrial-organization-to-mint-unique-non-fungible-tokens-using-ey-opschain-traceability)
 - Apr 28, 2021 - [European Investment Bank (EIB) Bonds](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
 - Mar 29, 2021 - [Visa USDC Settlement](https://usa.visa.com/visa-everywhere/blog/bdp/2021/03/26/digital-currency-comes-1616782388876.html)
+- Mar 21, 2022 - [Verizon NFT-Gated Benefits](https://www.verizon.com/about/news/verizon-live-nation-launch-groundbreaking-partnership)
 - Feb 10, 2021- [Mastercard Integrated Payments](https://www.mastercard.com/news/perspectives/2021/why-mastercard-is-bringing-crypto-onto-our-network/)
 - [↑ Back to top ↑](#)
 
@@ -71,6 +82,7 @@ A list of high profile entities building on Ethereum
 - Oct 21, 2020 - [PayPal Ethereum Trading For Individuals](https://newsroom.paypal-corp.com/2020-10-21-PayPal-Launches-New-Service-Enabling-Users-to-Buy-Hold-and-Sell-Cryptocurrency)
 - Oct 14, 2020 - [Breitling Watch Certification NFT](https://medium.com/arianee/enhance-your-breitling-luxury-watch-experience-with-arianee-1427e540538e)
 - Sept 30, 2020 - [EY OpsChain Traceability](https://www.linkedin.com/pulse/unblocking-ey-opschain-premchand-kasi/)
+- Jun 18, 2020 - [Ubisoft Rabbids NFT Game](https://bravenewcoin.com/insights/ubisoft-launches-new-ethereum-based-collectible-game-supporting-unicef)
 - Feb 10, 2020 - [Vermont Agency of Agriculture (VAAFM) Hemp Tracker](https://agriculture.vermont.gov/agency-agriculture-food-markets-news/vaafm-will-employ-blockchain-tracking-technology-2020-hemp)
 - Jan 17, 2020 - [New Shore Invest Ship Financing Platform](https://www.securities.io/new-shore-invest-starts-a-new-ship-finance-platform/)
 - [↑ Back to top ↑](#)
@@ -101,14 +113,9 @@ A list of high profile entities building on Ethereum
 
 
 ## To Be Added
-- Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Forever21, Porsche, Walmart, Gap, Verizon, Hulu, PWC, Atari
-- Google address/ENS search
-- christie's ownership certificates
+- Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Forever21, Walmart, Gap
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
 - <https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/>
-- <https://bravenewcoin.com/insights/ubisoft-launches-new-ethereum-based-collectible-game-supporting-unicef>
-- <https://fortune.com/2021/11/01/burger-king-robinhood-bitcoin-dogecoin-ethereum/>
-- <https://www.pymnts.com/nfts/2022/samsung-adds-nft-platform-to-smart-tv-lineup/>
 - [↑ Back to top ↑](#)
 
 
