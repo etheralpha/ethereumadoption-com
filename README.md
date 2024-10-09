@@ -41,7 +41,10 @@ A list of high profile entities building on Ethereum
 - Sept 4, 2023 - [Porsche 911 NFT](https://www.porsche.com/stories/innovation/how-to-buy-a-porsche-nft/)
 - Aug 7, 2023 - [PayPal PYUSD Stablecoin](https://www.coindesk.com/business/2023/08/07/paypal-to-issue-dollar-pegged-crypto-stablecoin-bloomberg/)
 - Jul 25, 2023 - [Singapore Government OpenAttestation Document Verification](https://oecd-opsi.org/innovations/openattestation/)
+- Jun 6, 2023 - [Louis Vuitton Treasure Trunks NFTs](https://blockworks.co/news/louis-vuitton-luxury-nfts)
 - May 10 2023 - [EY OpsChain ESG Traceability](https://ey.com/en_gl/newsroom/2023/05/ey-launches-ey-opschain-esg-to-provide-a-trusted-platform-for-emissions-and-carbon-credit-traceability-through-tokenization)
+- Apr 4, 2023 - [Ralph Lauren Crypto Payments](https://decrypt.co/125424/ralph-lauren-debuts-in-store-crypto-payments-amid-miami-focused-web3-push)
+- Mar 27, 2023 - [Adidas, Coach, Diesel, Tommy Hilfiger Metaverse Fashion Week](https://www.glossy.co/fashion/adidas-and-tommy-hilfiger-to-intro-cross-platform-digital-fashion-at-metaverse-fashion-week/)
 - Feb 25, 2023 - [Hennessy H3nsy Web3 Platform](https://bravenewcoin.com/insights/maison-hennessy-announces-the-launch-of-web3-platform-h3nsy)
 - Feb 22, 2023 - [Spotify NFT-Gated Playlists](https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/)
 - Jan 13, 2023 - [Société Général MakerDAO Vault](https://www.theblock.co/post/201972/investment-firm-societe-generale-mints-7-million-in-stablecoin-loan-from-makerdao)
@@ -58,9 +61,11 @@ A list of high profile entities building on Ethereum
 - Aug 25, 2022 - [Atari Anniversary NFT](https://atari.com/blogs/newsroom/atari%C2%AE-reveals-50-years-of-atari-nft-collaboration-with-artist-butcher-billy)
 - Jul 11, 2022 - [Topps All-Star Activities NFTs](https://it.topps.com/blog/topps-announces-2022-mlb-all-star-activities-with-nft-collection-on-site-exclusives-and-collectibles.html)
 - Jun 22, 2022 - [Shopify NFT Stores](https://decrypt.co/103584/shopify-adds-nft-gated-option-for-online-retailers)
+- Jun 8, 2022 - [Salesforce NFT Cloud](https://techcrunch.com/2022/06/08/salesforce-takes-crypto-plunge-with-new-nft-cloud/)
 - Jun 7, 2022 - [PayPal Ethereum Transfers For Individuals](https://newsroom.paypal-corp.com/2022-06-07-PayPal-Users-Can-Now-Transfer-Send-and-Receive-Bitcoin-Ethereum-Bitcoin-Cash-and-Litecoin)
 - May 17, 2022 - [EY Nightfall Rollup](https://thedefiant.io/news/blockchains/ey-polygon-nightfall-beta)
 - Apr 22, 2022 - [Stripe USDC Payments](https://blockworks.co/news/payment-company-stripe-enables-crypto-payouts-in-usdc)
+- Mar 24, 2022 - [Dolce & Gabbana, Estee Lauder, Tommy Hilfiger, Forever 21 Metaverse Fashion Week](https://www.ledgerinsights.com/forever-21-estee-lauder-part-of-decentalands-metaverse-fashion-week/)
 - Feb 17, 2022 - [Universal Music Group NFTs](https://www.universalmusic.com/universal-music-group-partners-with-curio-to-develop-nft-fan-collections-for-its-record-labels-and-artists/)
 - Feb 16, 2022 - [Twitter Tips](https://twitter.com/Support/status/1494008973581856768)
 - Jan 2, 2022 - [Samsung TV NFT Platform](https://www.pymnts.com/nfts/2022/samsung-adds-nft-platform-to-smart-tv-lineup/)
@@ -71,6 +76,7 @@ A list of high profile entities building on Ethereum
 - Dec 13, 2021 - [L’Oréal Reds of Worth NFTs](https://www.bwconfidential.com/loreal-paris-usa-launches-nfts/)
 - Nov 29, 2021 - [Budweiser Budverse NFTs](https://decrypt.co/87175/budweiser-nfts-key-to-budverse)
 - Nov 1, 2021 - [Burger King Rewards Program](https://cointelegraph.com/news/burger-king-serves-up-free-doge-with-meal-purchases)
+- Aug 4, 2021 - [Burberry B Series NFTs](https://www.coindesk.com/markets/2021/08/04/british-fashion-brand-burberry-releases-first-nfts/)
 - May 17, 2021 - [Birra Peroni Utilizes EY OpsChain Traceability](https://publish-ey-prod-cdn.adobecqms.net/en_nz/news/2021/05/birra-peroni-is-the-first-industrial-organization-to-mint-unique-non-fungible-tokens-using-ey-opschain-traceability)
 - Apr 28, 2021 - [European Investment Bank (EIB) Bonds](https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain)
 - Mar 29, 2021 - [Visa USDC Settlement](https://usa.visa.com/visa-everywhere/blog/bdp/2021/03/26/digital-currency-comes-1616782388876.html)
@@ -113,9 +119,10 @@ A list of high profile entities building on Ethereum
 
 
 ## To Be Added
-- Brand NFTs: Ralph Lauren, Louis Vuitton, Burberry, Tommy Hilfiger, Forever21, Walmart, Gap
+- Brand NFTs: 
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
 - <https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/>
+- metaverse fashion week november 20-24
 - [↑ Back to top ↑](#)
 
 
