@@ -18,6 +18,7 @@ A list of high profile entities building on Ethereum
 [2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5) &nbsp;|&nbsp; [2018](#section-6)
 
 ### 2024
+- Oct 22, 2024 - [Buenos Aires Digital Identity](https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg)
 - Oct 2, 2024 - [Christie's Ownership Certificates](https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/)
 - Sept 25, 2024 - [PayPal Ethereum Trading & External Transfers For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
 - Sept 18, 2024 - [WisdomTree RWA Platform](https://ir.wisdomtree.com/news-events/press-releases/detail/704/wisdomtree-launches-new-platform---wisdomtree-connect)
