@@ -43,6 +43,7 @@ A list of high profile entities building on Ethereum
 ### 2023
 - Sept 5, 2023 - [VISA B2B Settlements (Ethereum)](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19881.html)
 - Sept 4, 2023 - [Porsche 911 NFTs (Ethereum)](https://www.porsche.com/stories/innovation/how-to-buy-a-porsche-nft/)
+- Oct 2, 2023 - [UBS VCC Fund (Ethereum)](https://www.ubs.com/global/en/media/display-page-ndp/en-20230927-first-blockchain-native.html)
 - Aug 7, 2023 - [PayPal PYUSD Stablecoin (Ethereum)](https://www.coindesk.com/business/2023/08/07/paypal-to-issue-dollar-pegged-crypto-stablecoin-bloomberg/)
 - Jul 25, 2023 - [Singapore Government OpenAttestation Document Verification (Ethereum)](https://oecd-opsi.org/innovations/openattestation/)
 - Jun 6, 2023 - [Louis Vuitton Treasure Trunks NFTs (Ethereum)](https://blockworks.co/news/louis-vuitton-luxury-nfts)
