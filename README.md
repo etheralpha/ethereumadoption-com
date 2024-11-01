@@ -18,6 +18,7 @@ A list of high profile entities building on Ethereum
 [2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5) &nbsp;|&nbsp; [2018](#section-6)
 
 ### 2024
+- Nov 1, 2024 - [UBS uMINT Fund (Ethereum)](https://www.ubs.com/global/tc/media/display-page-ndp/en-20241101-first-tokenized-investment-fund.html)
 - Oct 31, 2024 - [Franklin Templeton FOBXX Fund, BENJI Token (Base)](https://cryptobriefing.com/franklin-templeton-tokenized-money-fund/)
 - Oct 22, 2024 - [Buenos Aires Digital Identity (ZKsync)](https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg)
 - Oct 2, 2024 - [Christie's Ownership Certificates (Base)](https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/)
@@ -110,6 +111,7 @@ A list of high profile entities building on Ethereum
 
 ## In Development
 
+- Oct 28, 2024 - [RD Technologoes Hong Kong Stablecoin HKDR (Ethereum)](https://cryptonews.com/news/hong-kongs-ethereum-based-stablecoin-hkdr-to-launch-on-hashkey-exchange/#:~:text=The%20HKDR%20stablecoin%20is%20designed,trading%2C%20and%20efficient%20payment%20solutions.)
 - Sept 25, 2024 - [Visa VTAP RWA Platform](https://beincrypto.com/visa-pushes-into-tokenized-rwas/)
 - Jun 19, 2024 - [Toyota Mobility-Oriented Account (MOA)](https://www.toyota-blockchain-lab.org/library/how-to-introduce-mobility-into-the-public-blockchain)
 - Aug 31, 2023 - [SWIFT Settlement](https://www.swift.com/news-events/press-releases/swift-unlocks-potential-tokenisation-successful-blockchain-experiments)
