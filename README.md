@@ -62,7 +62,7 @@ A list of high profile entities building on Ethereum
 - Oct 11, 2022 - [Google Address Search](https://cointelegraph.com/news/you-can-now-search-eth-addresses-on-google-but-what-about-bitcoin)
 - Sept 9, 2022 - [Disney Golden Moments NFTs (Immutable)](https://www.veve.me/collectibles/en/series/69f2ca17-ebc6-4f55-b3fa-5c299e5a81f3)
 - Jul 11, 2022 - [Topps All-Star Activities NFTs](https://it.topps.com/blog/topps-announces-2022-mlb-all-star-activities-with-nft-collection-on-site-exclusives-and-collectibles.html)
-- - Jul 5, 2022 - [LimeWire Originals NFTs (Ethereum)](https://lmwr.com/timeline)
+- Jul 5, 2022 - [LimeWire Originals NFTs (Ethereum)](https://lmwr.com/timeline)
 - Jun 22, 2022 - [Shopify NFT Stores (Ethereum)](https://decrypt.co/103584/shopify-adds-nft-gated-option-for-online-retailers)
 - Jun 8, 2022 - [Salesforce NFT Cloud](https://techcrunch.com/2022/06/08/salesforce-takes-crypto-plunge-with-new-nft-cloud/)
 - Jun 7, 2022 - [PayPal Ethereum Transfers For Individuals](https://newsroom.paypal-corp.com/2022-06-07-PayPal-Users-Can-Now-Transfer-Send-and-Receive-Bitcoin-Ethereum-Bitcoin-Cash-and-Litecoin)
