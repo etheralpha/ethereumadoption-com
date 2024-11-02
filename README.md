@@ -39,14 +39,17 @@ A list of high profile entities building on Ethereum
 - Mar 22, 2024 - [Google ENS Search (Ethereum)](https://cointelegraph.com/news/ens-data-etherscan-visible-google-search)
 - Mar 20, 2024 - [BlackRock BUIDL Fund (Ethereum)](https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network)
 - Feb 28, 2024 - [VanEck SegMint RWA Platform (Ethereum)](https://www.vaneck.com/us/en/press-releases/vaneck-launches-segmint-digital-assets-management-platform.pdf)
+- Feb 7, 2024 - [UBS Tokenized Warrant (Ethereum)](https://www.ubs.com/global/en/media/display-page-ndp/en-20240207-tokenized-warrant.html)
 - [↑ Back to top ↑](#)
 
 ### 2023
+- Nov 15, 2023 - [UBS/SBI/DBS Cross-Border Bond Repo (Ethereum)](https://www.ubs.com/global/en/media/display-page-ndp/en-20231115-ubs-sbi-dbs-completed-worlds-first-cross-border.html)
 - Sept 5, 2023 - [VISA B2B Settlements (Ethereum)](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19881.html)
 - Sept 4, 2023 - [Porsche 911 NFTs (Ethereum)](https://www.porsche.com/stories/innovation/how-to-buy-a-porsche-nft/)
-- Oct 2, 2023 - [UBS VCC Fund (Ethereum)](https://www.ubs.com/global/en/media/display-page-ndp/en-20230927-first-blockchain-native.html)
+- Oct 2, 2023 - [UBS/SBI VCC Fund (Ethereum)](https://www.ubs.com/global/en/media/display-page-ndp/en-20230927-first-blockchain-native.html)
 - Aug 7, 2023 - [PayPal PYUSD Stablecoin (Ethereum)](https://www.coindesk.com/business/2023/08/07/paypal-to-issue-dollar-pegged-crypto-stablecoin-bloomberg/)
 - Jul 25, 2023 - [Singapore Government OpenAttestation Document Verification (Ethereum)](https://oecd-opsi.org/innovations/openattestation/)
+- Jun 9, 2023 - [Bank of China Tokenized Notes (Ethereum)](https://www.ubs.com/global/en/media/display-page-ndp/en-20230609-tokenized-notes.html)
 - Jun 6, 2023 - [Louis Vuitton Treasure Trunks NFTs (Ethereum)](https://blockworks.co/news/louis-vuitton-luxury-nfts)
 - May 10 2023 - [EY OpsChain ESG Traceability (Ethereum)](https://ey.com/en_gl/newsroom/2023/05/ey-launches-ey-opschain-esg-to-provide-a-trusted-platform-for-emissions-and-carbon-credit-traceability-through-tokenization)
 - Apr 4, 2023 - [Ralph Lauren Crypto Payments (Ethereum)](https://decrypt.co/125424/ralph-lauren-debuts-in-store-crypto-payments-amid-miami-focused-web3-push)
