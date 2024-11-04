@@ -18,6 +18,8 @@ A list of high profile entities building on Ethereum
 [2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5) &nbsp;|&nbsp; [2018](#section-6)
 
 ### 2024
+- Nov 4, 2024 - [Robinhood USDG Stablecoin (Mainnet)](https://www.theblock.co/post/324413/anchorage-digital-bullish-galaxy-digital-kraken-nuvei-paxos-and-robinhood-partner-to-introduce-global-dollar-network)
+- Nov 4, 2024 - [Citi CIDAP Platform (Mainnet)](https://www.lfdecentralizedtrust.org/case-studies/citi-transforms-transaction-banking-services-with-besu)
 - Nov 1, 2024 - [UBS uMINT Fund (Mainnet)](https://www.ubs.com/global/tc/media/display-page-ndp/en-20241101-first-tokenized-investment-fund.html)
 - Oct 31, 2024 - [Franklin Templeton FOBXX Fund, BENJI Token (Base)](https://cryptobriefing.com/franklin-templeton-tokenized-money-fund/)
 - Oct 22, 2024 - [Buenos Aires Digital Identity (ZKsync)](https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg)
