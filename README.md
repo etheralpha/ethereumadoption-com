@@ -34,6 +34,7 @@ A list of high profile entities building on Ethereum
 - Jul 23, 2024 - [Atari Onchain Arcade (Base)](https://thedefiant.io/news/nfts-and-web3/atari-launches-onchain-arcade-on-base-network)
 - Jun 18, 2024 - [Fox Corporation Verify Protocol (Polygon CDK)](https://polygon.technology/blog/update-fox-corporation-to-upgrade-verify-beta-to-dedicated-l2-built-with-polygon-cdk-announces-time-as-first-publishing-partner)
 - Jun 6, 2024 - [Franklin Templeton FOBXX Fund, BENJI Token (Arbitrum)](https://www.franklintempleton.com/press-releases/news-room/2024/franklin-templeton-enables-usdc-conversions-on-benji-investments-platform)
+- May 14, 2024 - [Deutche Bank DAMA Tokenization Platform (ZKchain)](https://www.db.com/news/detail/20240514-deutsche-bank-joins-project-guardian-to-explore-asset-tokenization-applications)
 - Apr 25, 2024 - [LimeWire Token (Base)](https://basescan.org/tx/0xe34da14bad4575e7d953c8d654dc4ea96d103ce03f559966236a237c34affd94)
 - Apr 4, 2024 - [PayPal Xoom Cross Border Payments Platform](https://newsroom.paypal-corp.com/2024-04-04-Xoom-Enables-PayPal-USD-as-a-Funding-Option-for-Cross-Border-Money-Transfers)
 - Apr 4, 2024 - [Canadian Blood Services Utilizes EY OpsChain Traceability (Mainnet)](https://healthcare-digital.com/procurement-and-supply-chain/ey-blood-donation-blockchain-pilot-healthcare-breakthrough)
