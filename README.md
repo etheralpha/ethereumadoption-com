@@ -133,10 +133,8 @@ A list of high profile entities building on Ethereum
 
 
 ## To Be Added
-- Brand NFTs: 
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
-- <https://www.coindesk.com/business/2021/11/18/time-magazine-to-hold-eth-on-balance-sheet-as-part-of-galaxy-digital-metaverse-deal/>
-- metaverse fashion week november 20-24
+- metaverse fashion week november 20-24, 2024
 - [↑ Back to top ↑](#)
 
 
