@@ -23,6 +23,7 @@ A list of high profile entities building on Ethereum
 - Nov 1, 2024 - [UBS uMINT Fund (Mainnet)](https://www.ubs.com/global/tc/media/display-page-ndp/en-20241101-first-tokenized-investment-fund.html)
 - Oct 31, 2024 - [Franklin Templeton FOBXX Fund, BENJI Token (Base)](https://cryptobriefing.com/franklin-templeton-tokenized-money-fund/)
 - Oct 22, 2024 - [Buenos Aires Digital Identity (ZKsync)](https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg)
+- Oct 21, 2024 - [Stripe Bridge](https://cointelegraph.com/news/stripe-acquires-stablecoin-platform-bridge-techcrunch-founder)
 - Oct 2, 2024 - [Christie's Ownership Certificates (Base)](https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/)
 - Sept 25, 2024 - [PayPal Ethereum Trading & External Transfers For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
 - Sept 18, 2024 - [WisdomTree RWA Platform (Mainnet)](https://ir.wisdomtree.com/news-events/press-releases/detail/704/wisdomtree-launches-new-platform---wisdomtree-connect)
