@@ -18,7 +18,7 @@ A list of high profile entities building on Ethereum
 [2024](#section) &nbsp;|&nbsp; [2023](#section-1) &nbsp;|&nbsp; [2022](#section-2) &nbsp;|&nbsp; [2021](#section-3) &nbsp;|&nbsp; [2020](#section-4) &nbsp;|&nbsp; [2019](#section-5) &nbsp;|&nbsp; [2018](#section-6)
 
 ### 2024
-- Nov 25, 2024 - [ZA BanK Ethereum Trading Services](https://life.mingpao.com/general/article?issue=20241125&nodeid=1732473625133)
+- Nov 25, 2024 - [Hong Kong ZA Bank Ethereum Trading Services](https://life.mingpao.com/general/article?issue=20241125&nodeid=1732473625133)
 - Nov 14, 2024 - [Franklin Templeton FOBXX Fund, BENJI Token (Mainnet)](https://www.theblock.co/post/326575/franklin-templeton-expands-tokenized-money-market-fund-to-ethereum)
 - Nov 13, 2024 - [BlackRock BUIDL Fund (Arbitrum, Optimism)](https://www.theblock.co/post/326288/blackrock-buidl-aptos-arbitrum-avalanche-optimism-polygon)
 - Nov 4, 2024 - [Robinhood USDG Stablecoin (Mainnet)](https://www.theblock.co/post/324413/anchorage-digital-bullish-galaxy-digital-kraken-nuvei-paxos-and-robinhood-partner-to-introduce-global-dollar-network)
@@ -138,6 +138,7 @@ A list of high profile entities building on Ethereum
 
 ## To Be Added
 - <https://gist.github.com/hanniabu/57d577260dc19e41f4874682c10cc258>
+- watch: [Singapore Gulf Bank Stablecoin Payment Rail Acquisition](https://twitter.com/BSCNheadlines/status/1861011845882008015)
 - metaverse fashion week november 20-24, 2024
 - [↑ Back to top ↑](#)
 
