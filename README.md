@@ -26,6 +26,7 @@ A list of high profile entities building on Ethereum
 - Oct 31, 2024 - [Franklin Templeton FOBXX Fund, BENJI Token (Base)](https://cryptobriefing.com/franklin-templeton-tokenized-money-fund/)
 - Oct 22, 2024 - [Buenos Aires Digital Identity (ZKsync)](https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg)
 - Oct 21, 2024 - [Stripe Bridge](https://cointelegraph.com/news/stripe-acquires-stablecoin-platform-bridge-techcrunch-founder)
+- Oct 3, 2024 - [Visa VTAP RWA Platform](https://investor.visa.com/news/news-details/2024/Visa-Introduces-the-Visa-Tokenized-Asset-Platform/default.aspx) <!-- https://beincrypto.com/visa-pushes-into-tokenized-rwas/ -->
 - Oct 3, 2024 - [SAP Digital Currency Hub](https://community.sap.com/t5/financial-management-blogs-by-sap/payments-without-boundaries-embark-on-the-future-of-payments-with-sap/ba-p/13875432) <!-- https://community.sap.com/t5/technology-blogs-by-sap/cross-border-payments-made-easy-with-digital-money-experience-the-future/ba-p/13560384 -->
 - Oct 2, 2024 - [Christie's Ownership Certificates (Base)](https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/)
 - Sept 25, 2024 - [PayPal Ethereum Trading & External Transfers For Businesses](https://newsroom.paypal-corp.com/2024-09-25-PayPal-Enables-Business-Accounts-to-Buy,-Hold-and-Sell-Cryptocurrency)
@@ -52,6 +53,7 @@ A list of high profile entities building on Ethereum
 ### 2023
 - Nov 15, 2023 - [UBS/SBI/DBS Cross-Border Bond Repo (Mainnet)](https://www.ubs.com/global/en/media/display-page-ndp/en-20231115-ubs-sbi-dbs-completed-worlds-first-cross-border.html)
 - Sept 5, 2023 - [VISA B2B Settlements (Mainnet)](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19881.html)
+- Sept 4, 2024 - [Palau Digital Residency ID (Mainnet)](https://www.mbjguam.com/palau-mints-its-first-decentralized-identification-card)
 - Sept 4, 2023 - [Porsche 911 NFTs (Mainnet)](https://www.porsche.com/stories/innovation/how-to-buy-a-porsche-nft/)
 - Oct 2, 2023 - [UBS/SBI VCC Fund (Mainnet)](https://www.ubs.com/global/en/media/display-page-ndp/en-20230927-first-blockchain-native.html)
 - Aug 7, 2023 - [PayPal PYUSD Stablecoin (Mainnet)](https://www.coindesk.com/business/2023/08/07/paypal-to-issue-dollar-pegged-crypto-stablecoin-bloomberg/)
@@ -124,7 +126,6 @@ A list of high profile entities building on Ethereum
 ## In Development
 
 - Oct 28, 2024 - [RD Technologoes Hong Kong Stablecoin HKDR (Mainnet)](https://cryptonews.com/news/hong-kongs-ethereum-based-stablecoin-hkdr-to-launch-on-hashkey-exchange/#:~:text=The%20HKDR%20stablecoin%20is%20designed,trading%2C%20and%20efficient%20payment%20solutions.)
-- Sept 25, 2024 - [Visa VTAP RWA Platform](https://beincrypto.com/visa-pushes-into-tokenized-rwas/)
 - Jun 19, 2024 - [Toyota Mobility-Oriented Account (MOA)](https://www.toyota-blockchain-lab.org/library/how-to-introduce-mobility-into-the-public-blockchain)
 - Aug 31, 2023 - [SWIFT Settlement](https://www.swift.com/news-events/press-releases/swift-unlocks-potential-tokenisation-successful-blockchain-experiments)
 - Mar 2, 2023 - [Reserve Bank of Australia CBDC, eAUD](https://www.rba.gov.au/media-releases/2023/mr-23-06.html)
