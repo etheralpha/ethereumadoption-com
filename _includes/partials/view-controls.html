@@ -8,15 +8,3 @@
   <input type="radio" class="btn-check" name="view" id="byNetwork" value="networkGroup" autocomplete="off" onclick="applyView(this)">
   <label class="btn btn-sm" for="byNetwork">Network</label>
 </div>
-
-<script type="text/javascript">
-  function applyView(view) {
-    let dateGroup = document.getElementById("dateGroup");
-    let entityGroup = document.getElementById("entityGroup");
-    let networkGroup = document.getElementById("networkGroup");
-    dateGroup.classList.add("d-none");
-    entityGroup.classList.add("d-none");
-    networkGroup.classList.add("d-none");
-    document.querySelector(`#${view.value}`).classList.remove("d-none");
-  }
-</script>

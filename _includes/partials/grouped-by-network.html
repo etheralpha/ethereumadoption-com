@@ -10,7 +10,8 @@
 <div class="mb-2">
   {%- for network in networks -%}
     {%- if network != ""  -%}
-      <a href="#{{network}}" class="btn btn-sm me-1 mb-1">{{network}}</a>
+      {%- assign network_id = network | downcase | trim | replace: ' ', '-' -%}
+      <a href="#network-{{network_id}}" class="btn btn-sm me-1 mb-1">{{network}}</a>
     {%- endif -%}
   {%- endfor -%}
 </div>
@@ -20,7 +21,8 @@
 {%- assign adoption = site.data.adoption | sort: "date" | reverse -%}
 {%- for network in networks -%}
   {%- if network != ""  -%}
-    <div id="{{network}}" class="group-header">
+    {%- assign network_id = network | downcase | trim | replace: ' ', '-' -%}
+    <div id="network-{{network_id}}" class="group-header">
       {%- assign filename = network | downcase | trim | replace: ' ', '-' -%}
       <img class="network" src="/assets/img/networks/{{filename}}.webp" title="{{network}}">
       {{network}}

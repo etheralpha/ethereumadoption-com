@@ -1,7 +1,87 @@
 ---
 ---
 
+
+window.onload = load();
+
+function load() {
+  // if params detected, set active view
+  let params = getQueryParameters();
+  if ("view" in params) {
+    setView(params.view)
+  }
+  updateLinkTargets();
+  enableTooltips();
+}
+
 window.onload = updateLinkTargets();
+
+
+
+
+
+// update the url parameters (does not trigger page refresh)
+function setQueryParameters(params=false) {
+  // pass params as string; "x=i&y=j&z=k"
+  params = params ? params : "";
+  if (params != "") {
+    params = "?" + params;
+  }
+  let viewSelection = document.querySelector('input[name="view"]:checked').value;
+  let anchor = window.location.href.split("#")[1];
+  if (anchor != undefined) {
+    if (anchor.includes("year-") && viewSelection != "dateGroup") {
+      anchor = "";
+    }
+    if (anchor.includes("entity-") && viewSelection != "entityGroup") {
+      anchor = "";
+    }
+    if (anchor.includes("network-") && viewSelection != "networkGroup") {
+      anchor = "";
+    }
+  }
+  anchor = (anchor == "" || anchor == undefined) ? "" : `#${anchor}`;
+  let url = `{{site.url}}/${params}${anchor}`;
+  url = url.replace("localhost", "127.0.0.1");
+  window.history.replaceState(null, "", url);
+}
+// gets the url parameters
+function getQueryParameters() {
+  try {
+    let queryString = location.search.slice(1), params = {};
+    queryString.replace(/([^=]*)=([^&]*)&*/g, (_, key, value) => {
+      params[key] = value;
+    });
+    return params;
+  } catch {
+    return null;
+  }
+}
+function setView(viewId) {
+  try {
+    viewSelected = document.querySelector(`#${viewId}`)
+    viewSelected.checked = true;
+    applyView(viewSelected);
+  }
+  catch {
+    console.log(`view id does not exist: ${viewId}`);
+  }
+}
+function applyView(view) {
+  let dateGroup = document.getElementById("dateGroup");
+  let entityGroup = document.getElementById("entityGroup");
+  let networkGroup = document.getElementById("networkGroup");
+  dateGroup.classList.add("d-none");
+  entityGroup.classList.add("d-none");
+  networkGroup.classList.add("d-none");
+  document.querySelector(`#${view.value}`).classList.remove("d-none");
+  setQueryParameters(`view=${view.id}`);
+}
+
+
+
+
+
 
 
 // open external links and pdfs in new tab
@@ -33,10 +113,12 @@ function updateLinkTargets() {
 }
 
 // enable tooltips
-var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-  return new bootstrap.Tooltip(tooltipTriggerEl)
-})
+function enableTooltips() {
+  let tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+  let tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
+  })
+}
 
 // copy link and show tooltip confirmation
 function copyText(text, id) {

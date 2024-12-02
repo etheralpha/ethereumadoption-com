@@ -12,7 +12,8 @@
 
 {%- assign adoption = site.data.adoption | sort: "date" | reverse -%}
 {%- for entity in entities -%}
-  <div id="{{entity}}" class="group-header">{{entity}}</div>
+  {%- assign entity_id = entity | downcase | trim | replace: ' ', '-' -%}
+  <div id="entity-{{entity_id}}" class="group-header">{{entity}}</div>
   {%- for item in adoption -%}
     {%- for item_entity in item.entities -%}
 
