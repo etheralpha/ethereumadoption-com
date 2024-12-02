@@ -20,6 +20,10 @@ Resources:
 - [Liquid Syntax](https://shopify.github.io/liquid/basics/introduction/)
 
 
+## Integrate Data
+
+To use this data simply query `https://ethereumadoption.com/adoption.json`. Please do not abuse this endpoint, checking once or twice a day would be sufficient given the update frequency.
+
 
 ## Contributing
 
