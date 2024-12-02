@@ -1,0 +1,190 @@
+# SCHEMA
+# - category: # string; usecase category
+#   examples:
+#     - title: # string; link text, description of usecase
+#       link: # string; link to example
+#     - title: # create a new title/link set for each example, no more than 3 per cateogry
+#       link: 
+
+
+# Template to copy for new entries
+# - category: 
+#   examples:
+#     - title: 
+#       link: 
+#     - title: 
+#       link: 
+
+
+
+# Please enter in alphabetical order by category
+- category: Accounting
+  examples:
+    - title: Norwegian Government Shareholder Tracking
+      link: "https://medium.com/blockchangers/how-norway-is-using-ethereum-arbitrum-for-shareholder-management-500e59c586d3"
+- category: Achievements
+  examples:
+    - title: POAP.xyz
+      link: "https://poap.xyz/"
+- category: Asset Management
+  examples:
+    - title: Owny
+      link: "https://www.owny.com/"
+    - title: Real Blocks
+      link: "https://www.realblocks.com/"
+# - category: Auctions
+#   examples:
+#     - 
+- category: Authentication
+  examples:
+    - title: Login.xyz
+      link: "https://login.xyz/"
+    - title: WalletConnect
+      link: "https://walletconnect.com/"
+- category: CBDC
+  examples:
+    - title: Reserve Bank of Australia eAUD
+      link: "https://www.rba.gov.au/media-releases/2023/mr-23-06.html"
+- category: Co-Investing
+  examples:
+    - title: Republic.com
+      link: "https://republic.com/"
+- category: Dispute Resolution
+  examples:
+    - title: Kleros
+      link: "https://kleros.io/"
+- category: DNS
+  examples:
+    - title: "ENS Domains + eth.limo"
+      link: "https://eth.limo/"
+- category: Email
+  examples:
+    - title: Skiff
+      link: "https://skiff.com/"
+- category: Exchange
+  examples:
+    - title: Uniswap
+      link: "https://app.uniswap.org/"
+- category: Fundraising
+  examples:
+    - title: Gitcoin
+      link: "https://gitcoin.co/"
+    - title: The Giving Block
+      link: "https://thegivingblock.com/"
+- category: Galleries
+  examples:
+    - title: Deca.art
+      link: "https://deca.art/"
+    - title: Oncyber.io
+      link: "https://oncyber.io/"
+- category: Gaming
+  examples:
+    - title: Illuvium
+      link: "https://illuvium.io/"
+    - title: Gods Unchained
+      link: "https://godsunchained.com/"
+- category: Identification
+  examples:
+    - title: Buenos Aires QuarkID
+      link: "https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg"
+    - title: Open Passport
+      link: "https://www.openpassport.app/"
+# - category: Inventory
+#   examples:
+#     - title:
+#       link: "?"
+- category: Healthcare
+  examples:
+    - title: Singapore Government Verify
+      link: "https://www.verify.gov.sg/"
+- category: Lending
+  examples:
+    - title: Aave
+      link: "https://aave.com/"
+    - title: Liquity
+      link: "https://www.liquity.org/"
+- category: Marketplaces
+  examples:
+    - title: Book.io
+      link: "https://book.io/"
+    # - title:
+    #   link: "https://twitter.com/S4mmyEth/status/1705215998834463130"
+- category: Messaging
+  examples:
+    - title: Blockscan
+      link: "https://chat.blockscan.com/"
+# - category: Procurement
+#   examples:
+#     - title:
+#       link: "https://blockchain.ey.com/products/contract-manager"
+- category: Project Management
+  examples:
+    - title: Dework
+      link: "https://dework.xyz/"
+- category: Remittances
+  examples:
+    - title: P2P transfers
+- category: Real Estate
+  examples:
+    - title: Figure.com
+      link: "https://www.figure.com/"
+    - title: Vairt.com
+      link: "https://www.vairt.com/"
+    - title: Realt
+      link: "https://realt.co/"
+- category: Research
+  examples:
+    - title:  Canadian Blood Services Blood Tracking
+      link: "https://www.ey.com/en_us/blockchain/how-blockchain-could-ensure-every-drop-of-blood-is-tracked-and-every-outcome-is-measured"
+- category: Stablecoin
+  examples:
+    - title: USDC
+      link: "https://www.circle.com/usdc"
+    - title: DAI
+      link: "https://makerdao.com/"
+    - title: RAI
+      link: "https://reflexer.finance/"
+- category: Storefronts
+  examples:
+    - title: tylerxhobbs.com
+      link: "https://tylerxhobbs.com/fidenza-prints"
+- category: Social
+  examples:
+    - title: Lenster
+      link: "https://lenster.xyz/"
+    - title: Farcaster
+      link: "https://farcaster.xyz/"
+    - title: Console.xyz
+      link: "https://www.console.xyz/"
+- category: Supply Chain
+  examples:
+    - title: Origin Trail
+      link: "https://origintrail.io/"
+- category: Ticketing
+  examples:
+    - title: TokenProof
+      link: "https://tokenproof.xyz/"
+    - title: GET Protocol
+      link: "https://www.get-protocol.io/"
+    - title: Pretix
+      link: "https://ticketh.xyz/"
+- category: Treasury Bills
+  examples:
+    - title: Ondo Finance
+      link: "https://ondo.finance/"
+- category: Video Calls
+  examples:
+    - title: Huddle
+      link: "https://huddle01.com/"
+- category: Voting
+  examples:
+    - title: Snapshot
+      link: "https://snapshot.org/"
+    - title: Tally
+      link: "https://www.tally.xyz/"
+- category: Workspace
+  examples:
+    - title: Charmverse
+      link: "https://www.charmverse.io/"
+
+
