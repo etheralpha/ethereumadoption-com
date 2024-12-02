@@ -1,0 +1,81 @@
+{%- assign years = "" -%}
+{%- for item in site.data.adoption -%}
+  {%- assign date = "" | append: item.date -%}
+  {%- assign year = date | split: "-" | first -%}
+  {%- assign years = years | append: year | append: "," -%}
+{%- endfor -%}
+{%- assign years = years | split: "," | uniq | sort | reverse -%}
+
+
+<div class="mb-2">
+  {%- for year in years -%}
+    <a href="#year{{year}}" class="btn btn-sm me-1 mb-1">{{year}}</a>
+  {%- endfor -%}
+</div>
+{% include partials/legend.html %}
+
+
+{%- assign adoption = site.data.adoption | sort: "date" | reverse -%}
+{%- for year in years -%}
+  <div id="year{{year}}" class="group-header">{{year}}</div>
+  {%- for item in adoption -%}
+    {%- assign date = item.date -%}
+    {%- assign item_year = date | split: "-" | first -%}
+
+    {%- if year == item_year  -%}
+      {%- comment -%}
+        <!-- date formatting  https://learn.cloudcannon.com/jekyll/date-formatting/ -->
+      {%- endcomment -%}
+      {%- assign date = item.date | date: "%b %d" -%}
+
+      {%- assign status = "" -%}
+      {%- assign status_style = "" -%}
+      {%- if item.status != "live" -%}
+        {%- assign status = "[" | append: item.status | append: "] " -%}
+        {%- assign status_style = "status " | append: item.status -%}
+      {%- endif -%}
+
+      {%- assign entities = item.entities[0] -%}
+      {%- assign entity_count = item.entities | size -%}
+      {%- if entity_count > 1 -%}
+        {%- assign entities = item.entities | join: "/" -%}
+      {%- endif -%}
+
+      {%- assign products = item.products[0] -%}
+      {%- assign product_count = item.products | size -%}
+      {%- if product_count > 1 -%}
+        {%- assign products = item.products | join: ", " -%}
+      {%- endif -%}
+      {%- assign products = products | append: " " | append: item.context -%}
+
+      {%- capture chains -%}
+        {%- for chain in item.chains -%}
+          {%- assign filename = chain | downcase | trim | replace: ' ', '-' -%}
+          {%- if filename != "" -%}
+            <img class="network" src="/assets/img/networks/{{filename}}.webp" title="{{chain}}">
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endcapture -%}
+      {%- comment -%}
+        <!-- {%- capture chains -%}
+          {%- for chain in item.chains -%}
+            <span class="badge rounded-pill badge-{{chain | downcase}}">{{chain}}</span>
+          {%- endfor -%}
+        {%- endcapture -%} -->
+      {%- endcomment -%}
+
+      {%- assign source = item.sources[0] -%}
+
+      <div class="entry">
+        {%- if status_style != "" -%}
+          <span class="{{status_style}}"></span>
+        {%- endif -%}
+        <span class="date">{{date}}</span>
+        <a href="{{source}}" target="_blank">{{entities}} {{products | trim}}</a>
+        {{chains}}
+      </div>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+
