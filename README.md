@@ -22,7 +22,11 @@ Resources:
 
 ## Integrate Data
 
-To use this data simply query `https://ethereumadoption.com/adoption.json`. Please do not abuse this endpoint, checking once or twice a day would be sufficient given the update frequency.
+To use this data, simply query one of the following endpoints:
+- `https://ethereumadoption.com/adoption.json`
+- `https://ethereumadoption.com/adoption.yml`
+
+Please do not abuse this endpoint, checking once or twice a day would be sufficient given the update frequency.
 
 
 ## Contributing
