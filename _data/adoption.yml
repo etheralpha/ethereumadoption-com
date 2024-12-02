@@ -249,14 +249,14 @@
   sources:
     - "https://blog.ens.domains/post/bringing-crypto-transfers-to-millions-with-paypal-and-venmo"
 - date: 2024-08-23
-  status: live
+  status: dev
   entities:
     - Sony
     - Samsung
   products:
     - Soneium L2
   chains:
-    - 
+    - Soneium
   sources:
     - "https://www.sony.com/en/SonyInfo/News/Press/202408/24-029E/"
 - date: 2024-07-23
