@@ -133,6 +133,9 @@ input::placeholder {
   margin-left: -19px;
   margin-right: 9px;
 }
+.legend .status {
+  margin: 0;
+}
 @media screen and (max-width: 767px) {
   .status {
     margin-left: -16px;
@@ -147,12 +150,12 @@ input::placeholder {
     margin-right: 3px;
     margin-bottom: 1px;
   }
+  .legend .status {
+    margin-bottom: 1px;
+  }
 }
 .status.dev {
   background-color: var(--bs-warning);
-}
-.legend .status {
-  margin: 0;
 }
 .entry .date {
   display: inline-block;
