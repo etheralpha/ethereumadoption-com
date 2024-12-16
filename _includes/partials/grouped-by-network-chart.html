@@ -1,0 +1,88 @@
+<canvas id="networkChart" class="chart"></canvas>
+
+
+<script>
+  // create object of { ${network}: ${occurances}, ... }
+  let networkData = {};
+  adoption.forEach((item) => {
+    item.chains.forEach((chain) => {
+      if (chain != null) {
+        if (chain in networkData) {
+          networkData[chain] += 1;
+        } else {
+          networkData[chain] = 1;
+        }
+      }
+    });
+  });
+
+  // create array of [ {'network': ${network}, 'count': ${occurances}}, ... ]
+  let networkDataSorted = [];
+  for (let item in networkData) {
+    let entry = {'network': item, 'count': networkData[item]};
+    networkDataSorted.push(entry);
+  }
+  // sort array by occurances
+  networkDataSorted.sort((a, b) => b.count - a.count);
+
+  let networks = [];
+  let networkOccurances = [];
+  networkDataSorted.forEach((item) => {
+    networks.push(item['network']);
+    networkOccurances.push(item['count']);
+  });
+
+  // console.log(networkData);
+  // console.log(networkDataSorted);
+  // console.log(networks);
+  // console.log(networkOccurances);
+
+
+  const xValuesNetwork = networks;
+  const yValuesNetwork = networkOccurances;
+  new Chart("networkChart", {
+    type: "bar",
+    data: {
+      labels: xValuesNetwork,
+      datasets: [{
+        fill: false,
+        lineTension: 0,
+        backgroundColor: "rgba(255,255,255,1.0)",
+        borderColor: "rgba(255,255,255,0.1)",
+        data: yValuesNetwork
+      }]
+    },
+    options: {
+      legend: {display: false},
+      scales: {
+        y: {
+          ticks: {
+            color: 'rgba(255,255,255,0.5)',
+          },
+          grid: {
+            color: "#41485f40"
+          },
+        },
+        x: {
+          ticks: {
+            color: 'rgba(255,255,255,0.5)'
+          },
+          grid: {
+            color: "#41485f40"
+          },
+        },
+      },
+      aspectRatio() {
+        return window.innerWidth > 576 ? 4 : 2.5;
+      },
+      plugins: {
+        legend: {
+          display: false,
+        }
+      }
+    }
+  });
+</script>
+
+
+

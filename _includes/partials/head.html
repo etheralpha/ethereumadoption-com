@@ -71,13 +71,11 @@
 
   <!-- Custom CSS -->
   <link rel="stylesheet" type="text/css" href="{{base_site}}/assets/css/main.css">
-  {%- case page.layout -%}
-    {%- when "markdown" -%}
-      <link rel="stylesheet" type="text/css" href="{{base_site}}/assets/css/markdown.css">
-    {%- else -%}
-  {%- endcase -%}
-  {%- case page.name -%}
-    {%- when "custom.md" -%}
-      <link rel="stylesheet" type="text/css" href="{{base_site}}/assets/css/custom.css">
-  {%- endcase -%}
+
+  <!-- Chart JS -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+
+  <script type="text/javascript">
+    let adoption = {{ site.data.adoption | jsonify }}
+  </script>
 </head>

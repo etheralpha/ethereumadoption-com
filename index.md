@@ -17,6 +17,7 @@ layout: default
             {% include partials/view-controls.html %}
             <!-- Group by Date -->
             <div id="dateGroup" class="">
+              {% include partials/grouped-by-date-chart.html %}
               {% include partials/grouped-by-date.html %}
             </div>
             <!-- Group by Entity -->
@@ -25,6 +26,7 @@ layout: default
             </div>
             <!-- Group by Network -->
             <div id="networkGroup" class="d-none">
+              {% include partials/grouped-by-network-chart.html %}
               {% include partials/grouped-by-network.html %}
             </div>
           </div>

@@ -1,0 +1,85 @@
+<canvas id="dateChart" class="chart"></canvas>
+
+
+<script>
+  // create object of { ${year}: ${occurances}, ... }
+  let dateData = {};
+  adoption.forEach((item) => {
+    let year = item.date.split('-')[0];
+    if (year in dateData) {
+      dateData[year] += 1;
+    } else {
+      dateData[year] = 1;
+    }
+  });
+
+  // create array of [ {'year': ${year}, 'count': ${occurances}}, ... ]
+  let dateDataSorted = [];
+  for (let item in dateData) {
+    let entry = {'year': item, 'count': dateData[item]};
+    dateDataSorted.push(entry);
+  }
+  // sort array by year
+  dateDataSorted.sort((a, b) => a.year - b.year);
+
+  let years = [];
+  let yearOccurances = [];
+  dateDataSorted.forEach((item) => {
+    years.push(item['year']);
+    yearOccurances.push(item['count']);
+  });
+
+  // console.log(dateData);
+  // console.log(years);
+  // console.log(yearOccurances);
+
+
+  const xValuesDate = years;
+  const yValuesDate = yearOccurances;
+
+  new Chart("dateChart", {
+    type: "line",
+    data: {
+      labels: xValuesDate,
+      datasets: [{
+        fill: false,
+        lineTension: 0,
+        backgroundColor: "rgba(255,255,255,1.0)",
+        borderColor: "rgba(255,255,255,0.1)",
+        data: yValuesDate
+      }]
+    },
+    options: {
+      legend: {display: false},
+      scales: {
+        y: {
+          ticks: {
+            color: 'rgba(255,255,255,0.5)',
+          },
+          grid: {
+            color: "#41485f40"
+          },
+        },
+        x: {
+          ticks: {
+            color: 'rgba(255,255,255,0.5)'
+          },
+          grid: {
+            color: "#41485f40"
+          },
+        },
+      },
+      aspectRatio() {
+        return window.innerWidth > 576 ? 4 : 2.5;
+      },
+      plugins: {
+        legend: {
+          display: false,
+        }
+      }
+    }
+  });
+</script>
+
+
+

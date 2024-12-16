@@ -5,6 +5,16 @@
   {%- endfor -%}
 {%- endfor -%}
 {%- assign entities = entities | split: "," | uniq | sort -%}
+{%- assign entity_count = entities | size -%}
+
+
+<select class="form-select mb-2" aria-label="Entity section select" onchange="selectAnchor(this)">
+  <option selected>Select entity ({{entity_count}})</option>
+  {%- for entity in entities -%}
+    {%- assign entity_id = entity | downcase | trim | replace: ' ', '-' -%}
+    <option value="entity-{{entity_id}}">{{entity}}</option>
+  {%- endfor -%}
+</select>
 
 
 {% include partials/legend.html %}
@@ -51,13 +61,6 @@
             {%- endif -%}
           {%- endfor -%}
         {%- endcapture -%}
-        {%- comment -%}
-          <!-- {%- capture chains -%}
-            {%- for chain in item.chains -%}
-              <span class="badge rounded-pill badge-{{chain | downcase}}">{{chain}}</span>
-            {%- endfor -%}
-          {%- endcapture -%} -->
-        {%- endcomment -%}
 
         {%- assign source = item.sources[0] -%}
 
@@ -75,3 +78,8 @@
 {%- endfor -%}
 
 
+<script type="text/javascript">
+  function selectAnchor(select) {
+    window.location = `/?view=byEntity#${select.value}`;
+  }
+</script>
