@@ -61,6 +61,17 @@
 # Please enter in date order
 
 # 2024
+# - date: 2024-12-13
+#   status: live
+#   entities:
+#     - Societe Generale
+#     - Banque de France
+#   products:
+#     - Interbank Refinancing
+#   chains:
+#     - Mainnet
+#   sources:
+#     - "https://www.societegenerale.com/en/news/press-release/societe-generale-successfully-completed-first-repo-transaction-public-blockchain-banque-de-france"
 - date: 2024-11-25
   status: live
   entities:
@@ -397,6 +408,16 @@
 
 
 # 2023
+- date: 2023-11-30
+  status: live
+  entities:
+    - Societe Generale
+  products:
+    - Green Bond
+  chains:
+    - Mainnet
+  sources:
+    - https://www.societegenerale.com/en/news/press-release/first-inaugural-digital-green-bond-public-blockchain
 - date: 2023-11-15
   status: live
   entities:
@@ -566,7 +587,7 @@
 - date: 2023-01-13
   status: live
   entities:
-    - Société Général
+    - Societe Generale
   products:
     - MakerDAO Vault
   chains:
@@ -938,6 +959,16 @@
     - Mainnet
   sources:
     - "https://www.santander.com/en/press-room/press-releases/santander-launches-the-first-end-to-end-blockchain-bond"
+- date: 2019-04-18
+  status: live
+  entities:
+    - Societe Generale
+  products:
+    - OFH Bonds
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.societegenerale.com/sites/default/files/19038-pr-sg-first-covered-bond-security-tokens-blockchain-en-0.pdf"
 
 
 
