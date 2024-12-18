@@ -61,13 +61,23 @@
 # Please enter in date order
 
 # 2024
-# - date: 2024-12-13
+- date: 2024-12-18
+  status: dev
+  entities:
+    - Deutsche Bank
+  products:
+    - L2
+  chains:
+    - # "using ZKsync technology"
+  sources:
+    - "https://cointelegraph.com/news/deutsche-bank-layer-2-blockchain-ethereum-zksync"
+# - date: 2024-12-13 # was likely on DL3S, not Ethereum
 #   status: live
 #   entities:
 #     - Societe Generale
 #     - Banque de France
 #   products:
-#     - Interbank Refinancing
+#     - Repo Transaction
 #   chains:
 #     - Mainnet
 #   sources:
@@ -531,6 +541,16 @@
     - Mainnet
   sources:
     - "https://ey.com/en_gl/newsroom/2023/05/ey-launches-ey-opschain-esg-to-provide-a-trusted-platform-for-emissions-and-carbon-credit-traceability-through-tokenization"
+- date: 2023-04-20
+  status: live
+  entities:
+    - Societe Generale
+  products:
+    - EUR CoinVertible
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.sgforge.com/societe-generale-forge-launches-coinvertible-the-first-institutional-stablecoin-deployed-on-a-public-blockchain/"
 - date: 2023-04-04
   status: live
   entities:
@@ -924,6 +944,18 @@
     - Mainnet
   sources:
     - "https://bravenewcoin.com/insights/ubisoft-launches-new-ethereum-based-collectible-game-supporting-unicef"
+# - date: 2020-05-20 # was likely on DL3S, not Ethereum: https://www.societegenerale.com/en/news/press-release/societe-generale-successfully-completed-first-repo-transaction-public-blockchain-banque-de-france
+#   status: live
+#   entities:
+#     - Societe Generale
+#     - Banque de France
+#   products:
+#     - CBDC Transaction
+#   chains:
+#     - Mainnet 
+#   sources:
+#     - "https://www.ledgerinsights.com/banque-de-france-tests-digital-euro-cbdc-bonds-societe-generale/"
+#     - "https://web.archive.org/web/20200521044305/https://www.banque-france.fr/communique-de-presse/avancement-de-la-demarche-dexperimentations-de-monnaie-digitale-de-banque-centrale-lancee-par-la"
 - date: 2020-02-10
   status: live
   entities:
