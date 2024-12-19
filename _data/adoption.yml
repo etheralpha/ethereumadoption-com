@@ -8,9 +8,16 @@
 #     - # string; use proper capitalization
 #     - # create a new "-" entry for each product
 #   context: # string; specifying context of the product such as "for businesses"
+#   tags:
+#     - # string; use proper capitalization; add new tags below
+#       # Bond, Certification, Data, Fund, Government, Identification, L2, NFT, Note, Platform, Token, Tooling, Trading/Transfer, RWA, Stablecoin, Supply Chain
+#     - # create a new "-" entry for each tag
 #   chains:
 #     - # string; use "Mainnet" for Ethereum L1, create a new object if launching on a new chain at a later date
 #     - # create a new "-" entry for each chain
+#   stack:
+#     - # string; what tech stack is it built on (if applicable), for example "Optimism" for Base
+#     - # create a new "-" entry for each stack
 #   sources:
 #     - # string; should be from the earliest and most official source available
 #     - # create a new "-" entry for each source
@@ -25,8 +32,12 @@
 #     - DBS
 #   products:
 #     - Cross-Border Bond Repo
+#   tags:
+#     - Bonds
 #   chains:
 #     - Mainnet
+#   stack:
+#     - 
 #   sources:
 #     - "https://www.ubs.com/global/en/media/display-page-ndp/en-20231115-ubs-sbi-dbs-completed-worlds-first-cross-border.html"
 # - date: 2024-09-25
@@ -36,7 +47,11 @@
 #   products:
 #     - Ethereum Trading
 #     - External Transfers
+#   tags:
+#     - Trading/Transfers
 #   context: For Businesses
+#   stack:
+#     - 
 #   chains:
 #     - 
 #   sources:
@@ -51,7 +66,11 @@
 #     - 
 #   products:
 #     - 
+#   tags:
+#     - 
 #   chains:
+#     - 
+#   stack:
 #     - 
 #   sources:
 #     - 
