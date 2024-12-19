@@ -450,6 +450,16 @@
     - Mainnet
   sources:
     - "https://www.ubs.com/global/en/media/display-page-ndp/en-20231115-ubs-sbi-dbs-completed-worlds-first-cross-border.html"
+- date: 2023-11-07
+  status: live
+  entities:
+    - WisdomTree
+  products:
+    - WTGXX Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.wisdomtree.com/investments/digital-funds/money-market/wtgxx"
 - date: 2023-09-05
   status: live
   entities:
