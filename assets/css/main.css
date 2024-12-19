@@ -163,8 +163,8 @@ input::placeholder {
   .status {
     height: 7px;
     width: 7px;
-    margin-left: -13px;
-    margin-right: 3px;
+    margin-left: -11px;
+    margin-right: 4px;
     margin-bottom: 1px;
   }
   .legend .status {
