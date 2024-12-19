@@ -114,6 +114,17 @@
     - Optimism
   sources:
     - "https://www.theblock.co/post/326288/blackrock-buidl-aptos-arbitrum-avalanche-optimism-polygon"
+- date: 2024-11-07
+  status: live
+  entities:
+    - Lamborghini
+  products:
+    - Revuelto NFT
+  chains:
+    - Base
+  sources:
+    - "https://venturebeat.com/games/lamborghini-and-animocas-motorverse-tap-base-blockchain-for-in-game-assets/"
+    - "https://x.com/TheMotorverse/status/1853477186097086959"
 - date: 2024-11-04
   status: live
   entities:
@@ -197,6 +208,17 @@
   sources:
     - "https://community.sap.com/t5/financial-management-blogs-by-sap/payments-without-boundaries-embark-on-the-future-of-payments-with-sap/ba-p/13875432"
     - "https://community.sap.com/t5/technology-blogs-by-sap/cross-border-payments-made-easy-with-digital-money-experience-the-future/ba-p/13560384"
+- date: 2024-10-02
+  status: live
+  entities:
+    - Lamborghini
+  products:
+    -  Fast ForWorld NFT Platform
+  chains:
+    - Base
+  sources:
+    - "https://www.lamborghini.com/en-en/news/automobili-lamborghini-animoca-brands-launch-fast-forworld"
+    - "https://venturebeat.com/games/lamborghini-and-animocas-motorverse-tap-base-blockchain-for-in-game-assets/"
 - date: 2024-10-02
   status: live
   entities:
