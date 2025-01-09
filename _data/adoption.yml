@@ -10,7 +10,7 @@
 #   context: # string; specifying context of the product such as "for businesses"
 #   tags:
 #     - # string; use proper capitalization; add new tags below
-#       # Bond, Certification, Data, Fund, Government, Identification, L2, NFT, Note, Platform, Token, Tooling, Trading/Transfer, RWA, Stablecoin, Supply Chain
+#       # Bond, Certification, Data, Fund, Government, Identification, L2, NFT, Note, Platform, Token, Tooling, Trading/Transfer, Reserve, RWA, Stablecoin, Supply Chain
 #     - # create a new "-" entry for each tag
 #   chains:
 #     - # string; use "Mainnet" for Ethereum L1, create a new object if launching on a new chain at a later date
@@ -78,6 +78,21 @@
 
 
 # Please enter in date order
+
+# 2025
+- date: 2025-01-08
+  status: dev
+  entities:
+    - Gelephu Mindfulness City, Bhutan
+  products:
+    - ETH Strategic Reserve
+  chains:
+    - 
+  sources:
+    - "https://gmc.bt/digitalassets/"
+
+
+
 
 # 2024
 - date: 2024-12-18
@@ -248,6 +263,16 @@
     - Base
   sources:
     - "https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/"
+- date: 2024-10-01
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - External Transfers
+  chains:
+    - 
+  sources:
+    - "https://www.cnbc.com/2024/10/01/robinhood-launches-crypto-transfers-in-europe-in-push-overseas.html"
 - date: 2024-09-25
   status: live
   entities:
@@ -434,6 +459,42 @@
     - Mainnet
   sources:
     - "https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network"
+- date: 2024-03-20
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - Onchain Trading
+  chains:
+    - Polygon
+    - Optimism
+    - Base
+  sources:
+    - "https://newsroom.aboutrobinhood.com/robinhood-wallet-android/"
+- date: 2024-03-12
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - Wallet
+  chains:
+    - Arbitrum
+    - Polygon
+    - Optimism
+    - Base
+  sources:
+    - "https://cointelegraph.com/news/robinhood-launches-crypto-wallet-for-android-users"
+    - "https://play.google.com/store/apps/details?id=com.robinhood.gateway"
+- date: 2024-02-29
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - Onchain Trading
+  chains:
+    - Arbitrum
+  sources:
+    - "https://newsroom.aboutrobinhood.com/robinhood-wallet-and-arbitrum/"
 - date: 2024-02-28
   status: live
   entities:
@@ -501,6 +562,17 @@
     - Mainnet
   sources:
     - "https://www.wisdomtree.com/investments/digital-funds/money-market/wtgxx"
+- date: 2023-10-02
+  status: live
+  entities:
+    - UBS
+    - SBI
+  products:
+    - VCC Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.ubs.com/global/en/media/display-page-ndp/en-20230927-first-blockchain-native.html"
 - date: 2023-09-05
   status: live
   entities:
@@ -531,17 +603,16 @@
     - Mainnet
   sources:
     - "https://www.porsche.com/stories/innovation/how-to-buy-a-porsche-nft/"
-- date: 2023-10-02
+- date: 2023-08-30
   status: live
   entities:
-    - UBS
-    - SBI
+    - Robinhood
   products:
-    - VCC Fund
+    - Onchain Trading
   chains:
     - Mainnet
   sources:
-    - "https://www.ubs.com/global/en/media/display-page-ndp/en-20230927-first-blockchain-native.html"
+    - "https://newsroom.aboutrobinhood.com/robinhood-wallet-adds-support-for-bitcoin-and-dogecoin-and-enables-ethereum-swaps/"
 - date: 2023-08-07
   status: live
   entities:
@@ -592,6 +663,16 @@
     - Mainnet
   sources:
     - "https://ey.com/en_gl/newsroom/2023/05/ey-launches-ey-opschain-esg-to-provide-a-trusted-platform-for-emissions-and-carbon-credit-traceability-through-tokenization"
+- date: 2023-04-27
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - Wallet
+  chains:
+    - Mainnet
+  sources:
+    - "https://newsroom.aboutrobinhood.com/introducing-robinhood-connect-simplifying-access-to-web-3/"
 - date: 2023-04-20
   status: live
   entities:
@@ -844,6 +925,16 @@
     - 
   sources:
     - "https://twitter.com/Support/status/1494008973581856768"
+- date: 2022-01-21
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - External Transfers
+  chains:
+    - Mainnet
+  sources:
+    - "https://blockworks.co/news/robinhood-deploys-beta-crypto-wallets-allowing-select-customers-to-transfer-off-platform"
 - date: 2022-01-02
   status: live
   entities:
