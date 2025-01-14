@@ -336,7 +336,7 @@
   sources:
     - "https://blog.ens.domains/post/bringing-crypto-transfers-to-millions-with-paypal-and-venmo"
 - date: 2024-08-23
-  status: dev
+  status: live
   entities:
     - Sony
     - Samsung
@@ -346,6 +346,7 @@
     - Soneium
   sources:
     - "https://www.sony.com/en/SonyInfo/News/Press/202408/24-029E/"
+    - "https://soneium.org/en/blog/soneium-mainnet-is-live/"
 - date: 2024-07-23
   status: live
   entities:
