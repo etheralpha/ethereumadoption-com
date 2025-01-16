@@ -80,6 +80,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-01-16
+  status: live
+  entities:
+    - PostFinance AG
+  products:
+    - ETH Staking
+  chains:
+    - Mainnet
+  sources:
+    - "https://archive.md/UMwxE#selection-2107.0-2107.5"
 - date: 2025-01-08
   status: dev
   entities:
