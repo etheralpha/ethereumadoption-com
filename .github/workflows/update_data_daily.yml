@@ -1,8 +1,8 @@
-name: Update Data Hourly
+name: Update Data Daily
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '30 */24 * * *'
   workflow_dispatch:
 
 jobs:
