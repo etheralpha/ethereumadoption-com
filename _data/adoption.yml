@@ -410,6 +410,16 @@
   sources:
     - "https://www.db.com/news/detail/20240514-deutsche-bank-joins-project-guardian-to-explore-asset-tokenization-applications"
     - "https://mementoblockchain.com/"
+- date: 2024-05-11
+  status: live
+  entities:
+    - Donald Trump
+  products:
+    - World Liberty Financial
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.financemagnates.com/cryptocurrency/what-trumps-new-crypto-project-plans-with-a-dollar-backed-stablecoin/"
 - date: 2024-04-25
   status: live
   entities:
