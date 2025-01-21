@@ -5,6 +5,15 @@ layout: default
 
 {%- include partials/header.html -%}
 
+<div class="container">
+  <div class="alert bg-blue mx-auto" role="alert" style="max-width: 40rem;">
+    <a href="https://t.me/ethereumadoption">
+      {{site.data.icons.megaphone}}
+      Get notified of new additions on Telegram!
+    </a>
+  </div>
+</div>
+
 
 <!-- Content -->
 <section class="pb-5">

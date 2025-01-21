@@ -118,6 +118,21 @@ input::placeholder {
 
 
 
+.alert {
+  width: fit-content;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.8rem;
+  border: 1px solid gold;
+  color: gold;
+  opacity: 95%;
+}
+.alert svg {
+  margin-top: -3px;
+}
+.alert a {
+  color: var(--bs-alert-color) !important;
+  text-decoration: none;
+}
 
 .chart {
   width:100%;
@@ -172,7 +187,7 @@ input::placeholder {
   }
 }
 .status.dev {
-  background-color: var(--bs-warning);
+  background-color: gold;
 }
 .entry .date {
   display: inline-block;
