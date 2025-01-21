@@ -26,7 +26,9 @@ To use this data, simply query one of the following endpoints:
 - `https://ethereumadoption.com/adoption.json`
 - `https://ethereumadoption.com/adoption.yml`
 
-Please do not abuse this endpoint, checking once or twice a day would be sufficient given the update frequency.
+Please do not abuse these endpoints, checking once or twice a day would be sufficient given the update frequency.
+
+To get new additions you can use `https://ethereumadoption.com/adoption-new-entries.json`. This is updated every hour, roughly at the start of the hour. Each entry has an `is_recent` attribute. If `is_recent: true` then it's a recent event. If `is_recent: false` then it's a stale event that was previously missed. As time goes on there should be less stale/backdated events being added.
 
 
 ## Contributing
