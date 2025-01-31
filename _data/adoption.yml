@@ -80,6 +80,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-01-31
+  status: dev
+  entities:
+    - UBS
+  products:
+    - Key4 Gold
+  chains:
+    - ZKsync
+  sources:
+    - "https://www.coindesk.com/tech/2025/01/31/ubs-tests-zksync-s-layer-2-tech-showing-deeper-tradfi-interest-in-crypto"
 - date: 2025-01-30
   status: live
   entities:
