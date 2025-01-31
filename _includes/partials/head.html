@@ -1,23 +1,20 @@
 {%- assign base_site = site.url -%}
-  {% if jekyll.environment == "development" %}
-    {%- assign base_site = "" -%}
-  {%- endif -%}
 
 {%- assign title = site.title -%}
-  {%- if page.title -%}
-    {%- capture page_title -%}{{ page.title }} | {{ title }}{%- endcapture -%}
-    {%- assign title = page_title -%}
-  {%- endif -%}
+{%- if page.title -%}
+  {%- capture page_title -%}{{ page.title }} | {{ title }}{%- endcapture -%}
+  {%- assign title = page_title -%}
+{%- endif -%}
 
 {%- assign description = site.description -%}
-  {%- if page.description -%}
-    {%- assign description = page.description -%}
-  {%- endif -%}
+{%- if page.description -%}
+  {%- assign description = page.description -%}
+{%- endif -%}
 
 {%- assign keywords = site.keywords -%}
-  {%- if page.keywords -%}
-    {%- assign keywords = page.keywords -%}
-  {%- endif -%}
+{%- if page.keywords -%}
+  {%- assign keywords = page.keywords -%}
+{%- endif -%}
 
 <head>
   <!-- Analytics Tag -->
