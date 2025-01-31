@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+
+<!-- Content -->
+<section class="pb-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 mb-4">
+        <div class="card rounded-3 mx-auto bg-blue text-gray" style="max-width: 40rem;">
+          <div class="card-body my-3 mx-0 mx-sm-2 mx-md-3">
+            <div id="entriesTextOutput" class="small"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  let entries = {{ site.data.adoption | jsonify }};
+  let entriesText = "";
+
+  entries.forEach(async (entry) => {
+    let date = entry["date"];
+    let entities = entry["entities"].join("/").toUpperCase();
+    let products = entry["products"].join(", ").toUpperCase();
+    let source = `<a href="${entry["sources"][0]}">${entry["sources"][0]}</a>`;
+    // let source = `${entry["sources"][0]}`;
+    let support = "";
+    if (entry["chains"][0] != null) {
+      let chains = entry["chains"].join(", ");
+      support = ` with support for ${chains}`.toUpperCase();
+    }
+    let entryText = `${date}<br><br><br>${entities} ANNOUNCES ${products}${support}<br><br>${source}<br><hr><br><br><br>`;
+    entriesText += entryText;
+
+  });
+  document.getElementById("entriesTextOutput").innerHTML = entriesText;
+</script>
+
+

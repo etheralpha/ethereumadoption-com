@@ -101,10 +101,12 @@ a:visited {
 }
 
 
+textarea,
 .form-control,
 .form-control:focus {
   background-color: var(--brand-blue-dark);
   border-color: var(--brand-slate);
+  border-radius: var(--brand-radius);
   color: var(--brand-gray);
 }
 .form-control:hover {

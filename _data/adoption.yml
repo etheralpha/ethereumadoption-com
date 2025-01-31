@@ -80,6 +80,18 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-01-30
+  status: live
+  entities:
+    - Apollo
+  products:
+    - ACRED Fund
+  chains:
+    - Mainnet
+    - Ink
+    # - Polygon
+  sources:
+    - "https://securitize.io/learn/press/apollo-and-securitize-announce-partnership-and-launch-tokenized-access-to-credit-fund"
 - date: 2025-01-16
   status: live
   entities:
