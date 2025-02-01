@@ -33,7 +33,11 @@ layout: default
       let chains = entry["chains"].join(", ");
       support = ` with support for ${chains}`.toUpperCase();
     }
-    let entryText = `${date}<br><br><br>${entities} ANNOUNCES ${products}${support}<br><br>${source}<br><hr><br><br><br>`;
+    let verb = "ANNOUNCES";
+    if (entry["status"] == "dev") {
+      verb = "ANNOUNCES PLAN FOR"
+    }
+    let entryText = `${date}<br><br><br>${entities} ${verb} ${products}${support}<br><br>${source}<br><hr><br><br><br>`;
     entriesText += entryText;
 
   });
