@@ -764,7 +764,7 @@
   entities:
     - National Australia Bank (NAB)
   products:
-    - AUDN
+    - AUDN Stablecoin
   tags:
     - Stablecoin
   chains:
