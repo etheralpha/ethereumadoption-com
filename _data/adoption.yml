@@ -80,6 +80,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-02-04
+  status: live
+  entities:
+    - Buenos Aires
+  products:
+    - Digital License
+  chains:
+    - ZKsync
+  sources:
+    - "https://www.clarin.com/ciudades/licencia-conducir-digital-disponible-app-portena-controles-valida_0_25cs4SRxUU.html"
 - date: 2025-01-31
   status: dev
   entities:
