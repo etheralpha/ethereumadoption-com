@@ -769,6 +769,18 @@
     - Mainnet
   sources:
     - "https://etherscan.io/tx/0x9ca2d2142619894458ab42b593ae691bf5c71236b205b37b48626be3282f2447"
+- date: 2023-03-14
+  status: live
+  entities:
+    - National Australia Bank (NAB)
+  products:
+    - AUDN Stablecoin
+  tags:
+    - Stablecoin
+  chains:
+    - Mainnet
+  sources: 
+    - "https://news.nab.com.au/news/nab-completes-world-first-with-cross-border-stablecoin-transaction/"
 - date: 2023-02-25
   status: live
   entities:
