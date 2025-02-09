@@ -12,6 +12,16 @@
       dateData[year] = 1;
     }
   });
+  
+  // convert to cumulative values
+  const dateDataReference = JSON.parse(JSON.stringify(dateData));
+  for (const [year, occurances] of Object.entries(dateData)) {
+    for (const [yearRef, occurancesRef] of Object.entries(dateDataReference)) {
+      if (yearRef < year) {
+        dateData[year] += dateDataReference[yearRef];
+      }
+    };
+  };
 
   // create array of [ {'year': ${year}, 'count': ${occurances}}, ... ]
   let dateDataSorted = [];

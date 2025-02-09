@@ -100,6 +100,16 @@
     - ZKsync
   sources:
     - "https://www.coindesk.com/tech/2025/01/31/ubs-tests-zksync-s-layer-2-tech-showing-deeper-tradfi-interest-in-crypto"
+# - date: 2025-01-30
+#   status: dev
+#   entities:
+#     - ABN AMRO
+#   products:
+#     - Asset Tokenization
+#   chains:
+#     - Polygon
+#   sources:
+#     - "https://www.ainvest.com/news/abn-amro-completes-blockchain-trading-pilot-with-21x-25011010946e9cf1ccf3d8b2/"
 - date: 2025-01-30
   status: live
   entities:
