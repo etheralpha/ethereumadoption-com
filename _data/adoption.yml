@@ -103,13 +103,16 @@
 # - date: 2025-01-30
 #   status: dev
 #   entities:
+#     - 21X
 #     - ABN AMRO
 #   products:
 #     - Asset Tokenization
+#   tags:
+#     - RWA
 #   chains:
 #     - Polygon
 #   sources:
-#     - "https://www.ainvest.com/news/abn-amro-completes-blockchain-trading-pilot-with-21x-25011010946e9cf1ccf3d8b2/"
+#     - "https://21x.eu/21x-secures-historic-eu-license-to-launch-the-first-fully-regulated-blockchain-based-trading-venue/"
 - date: 2025-01-30
   status: live
   entities:
