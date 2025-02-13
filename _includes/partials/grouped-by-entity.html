@@ -1,82 +1,80 @@
-{%- assign entities = "" -%}
+{%- assign all_entities = "" -%}
 {%- for item in site.data.adoption -%}
   {%- for entity in item.entities -%}
-    {%- assign entities = entities | append: entity | append: "," -%}
+    {%- assign entity_stripped = entity | strip -%}
+    {%- assign all_entities = all_entities | append: "|||" | append: entity_stripped -%}
   {%- endfor -%}
 {%- endfor -%}
-{%- assign entities = entities | split: "," | uniq | sort -%}
+{%- assign entities = all_entities | split: "|||" | uniq | sort -%}
 {%- assign entity_count = entities | size -%}
-
 
 <select class="form-select mb-2" aria-label="Entity section select" onchange="selectAnchor(this)">
   <option selected>Select entity ({{entity_count}})</option>
   {%- for entity in entities -%}
-    {%- assign entity_id = entity | downcase | trim | replace: ' ', '-' -%}
-    <option value="entity-{{entity_id}}">{{entity}}</option>
+    {%- if entity != "" -%}
+      {%- assign entity_id = entity | downcase | trim | replace: ' ', '-' | replace: ',', '' -%}
+      <option value="entity-{{entity_id}}">{{entity}}</option>
+    {%- endif -%}
   {%- endfor -%}
 </select>
 
-
 {% include partials/legend.html %}
-
 
 {%- assign adoption = site.data.adoption | sort: "date" | reverse -%}
 {%- for entity in entities -%}
-  {%- assign entity_id = entity | downcase | trim | replace: ' ', '-' -%}
-  <div id="entity-{{entity_id}}" class="group-header">{{entity}}</div>
-  {%- for item in adoption -%}
-    {%- for item_entity in item.entities -%}
+  {%- if entity != "" -%}
+    {%- assign entity_id = entity | downcase | trim | replace: ' ', '-' | replace: ',', '' -%}
+    <div id="entity-{{entity_id}}" class="group-header">{{entity}}</div>
+    {%- for item in adoption -%}
+      {%- for item_entity in item.entities -%}
+        {%- assign item_entity_stripped = item_entity | strip -%}
+        {%- if entity == item_entity_stripped -%}
+          {%- assign date = item.date | date: "%b %d, %Y" -%}
 
-      {%- if entity == item_entity  -%}
-        {%- comment -%}
-          <!-- date formatting  https://learn.cloudcannon.com/jekyll/date-formatting/ -->
-        {%- endcomment -%}
-        {%- assign date = item.date | date: "%b %d, %Y" -%}
-
-        {%- assign status = "" -%}
-        {%- assign status_style = "" -%}
-        {%- if item.status != "live" -%}
-          {%- assign status = "[" | append: item.status | append: "] " -%}
-          {%- assign status_style = "status " | append: item.status -%}
-        {%- endif -%}
-
-        {%- assign entities = item.entities[0] -%}
-        {%- assign entity_count = item.entities | size -%}
-        {%- if entity_count > 1 -%}
-          {%- assign entities = item.entities | join: "/" -%}
-        {%- endif -%}
-
-        {%- assign products = item.products[0] -%}
-        {%- assign product_count = item.products | size -%}
-        {%- if product_count > 1 -%}
-          {%- assign products = item.products | join: ", " -%}
-        {%- endif -%}
-        {%- assign products = products | append: " " | append: item.context -%}
-
-        {%- capture chains -%}
-          {%- for chain in item.chains -%}
-            {%- assign filename = chain | downcase | trim | replace: ' ', '-' -%}
-            {%- if filename != "" -%}
-              <img class="network" src="/assets/img/networks/{{filename}}.webp" title="{{chain}}">
-            {%- endif -%}
-          {%- endfor -%}
-        {%- endcapture -%}
-
-        {%- assign source = item.sources[0] -%}
-
-        <div class="entry">
-          {%- if status_style != "" -%}
-            <span class="{{status_style}}"></span>
+          {%- assign status = "" -%}
+          {%- assign status_style = "" -%}
+          {%- if item.status != "live" -%}
+            {%- assign status = "[" | append: item.status | append: "] " -%}
+            {%- assign status_style = "status " | append: item.status -%}
           {%- endif -%}
-          <span class="date">{{date}}</span>
-          <a href="{{source}}" target="_blank">{{entities}} {{products | trim}}</a>
-          {{chains}}
-        </div>
-      {%- endif -%}
-    {%- endfor -%}
-  {%- endfor -%}
-{%- endfor -%}
 
+          {%- assign entities = item.entities[0] -%}
+          {%- assign entity_count = item.entities | size -%}
+          {%- if entity_count > 1 -%}
+            {%- assign entities = item.entities | join: "/" -%}
+          {%- endif -%}
+
+          {%- assign products = item.products[0] -%}
+          {%- assign product_count = item.products | size -%}
+          {%- if product_count > 1 -%}
+            {%- assign products = item.products | join: ", " -%}
+          {%- endif -%}
+          {%- assign products = products | append: " " | append: item.context -%}
+
+          {%- capture chains -%}
+            {%- for chain in item.chains -%}
+              {%- assign filename = chain | downcase | trim | replace: ' ', '-' -%}
+              {%- if filename != "" -%}
+                <img class="network" src="/assets/img/networks/{{filename}}.webp" title="{{chain}}">
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endcapture -%}
+
+          {%- assign source = item.sources[0] -%}
+
+          <div class="entry">
+            {%- if status_style != "" -%}
+              <span class="{{status_style}}"></span>
+            {%- endif -%}
+            <span class="date">{{date}}</span>
+            <a href="{{source}}" target="_blank">{{entities}} {{products | trim}}</a>
+            {{chains}}
+          </div>
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
 
 <script type="text/javascript">
   function selectAnchor(select) {
