@@ -578,6 +578,16 @@
     - Mainnet
   sources:
     - "https://www.ubs.com/global/en/media/display-page-ndp/en-20240207-tokenized-warrant.html"
+- date: 2024-02-05
+  status: live
+  entities:
+    - GoDaddy
+  products:
+    - ENS Integration
+  chains:
+    - Mainnet
+  sources:
+    - "https://aboutus.godaddy.net/newsroom/company-news/news-details/2024/GoDaddy-and-Ethereum-Name-Service-Bridge-the-Gap-Between-Domain-Names-and-Crypto-Wallets/default.aspx"
 
 
 
