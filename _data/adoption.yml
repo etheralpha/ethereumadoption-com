@@ -80,6 +80,23 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-02-05
+  status: live
+  entities:
+    - Central Bank of Nigeria (CBN)
+    - Wrapped CBDC
+  products:
+    - cNGN Stablecoin
+  context: For Individuals, For Business
+#  tags:
+#    - Stablecoin
+  chains:
+    - Mainnet
+    - Base
+#    - Polygon
+  sources:
+    - "https://businessday.ng/technology/article/what-cngn-nigerias-stablecoin-means-for-crypto-adoption/"
+    - "https://medium.com/@cngn_co/introducing-cngn-nigerias-first-compliant-stablecoin-pilot-caa2eb77ab18"
 - date: 2025-02-04
   status: live
   entities:
