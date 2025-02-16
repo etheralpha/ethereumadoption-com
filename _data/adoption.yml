@@ -634,8 +634,6 @@
     - XJPY Stablecoin
     - XUSD Stablecoin
   context: For Business
-#  tags:
-#    - Stablecoin
   chains:
     - Mainnet
 #    - Polygon
