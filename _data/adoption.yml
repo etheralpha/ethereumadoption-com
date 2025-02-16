@@ -255,6 +255,18 @@
 - date: 2024-10-22
   status: live
   entities:
+    - FundBridge Capital
+    - Wellington Management
+  products:
+    - ULTRA Fund
+  chains:
+    - Ethereum
+#    - Arbitrum
+  sources:
+    - "https://libeara.com/libeara-partners-with-wellington-and-fundbridge-capital-to-launch-a-u-s-treasuries-fund-tokenised-on-public-blockchain/"
+- date: 2024-10-22
+  status: live
+  entities:
     - Buenos Aires
   products:
     - Digital Identity (QuarkID)
