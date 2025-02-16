@@ -88,8 +88,6 @@
   products:
     - cNGN Stablecoin
   context: For Individuals, For Business
-#  tags:
-#    - Stablecoin
   chains:
     - Mainnet
     - Base
