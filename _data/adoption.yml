@@ -605,6 +605,18 @@
 
 
 # 2023
+- date: 2023-12-12
+  status: dev
+  entities:
+    - DWS
+    - Flow Traders
+  products:
+    - EUR-denominated stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://allunity.com/news/dws-flow-traders-and-galaxy-announce-the-intention-to-launch-allunity/"
+    - "https://blockworks.co/news/euro-denominated-ethereum-stablecoin-launch"
 - date: 2023-11-30
   status: live
   entities:
