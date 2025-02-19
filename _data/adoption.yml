@@ -300,6 +300,17 @@
     - 
   sources:
     - "https://cointelegraph.com/news/stripe-acquires-stablecoin-platform-bridge-techcrunch-founder"
+- date: 2024-10-07
+  status: live
+  entities:
+    - CACEIS
+    - Twenty First Capital
+  products:
+    - UCITS Money Market Funds 
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.caceis.com/whats-new/press-releases/press-releases/article/caceis-records-client-subscriptions-in-spikos-tokenised-money-market-funds-on-public-blockchain/detail.html"
 - date: 2024-10-03
   status: live
   entities:
