@@ -415,6 +415,16 @@
     - Mainnet
   sources:
     - "https://blog.ens.domains/post/bringing-crypto-transfers-to-millions-with-paypal-and-venmo"
+- date: 2024-08-28
+  status: live
+  entities:
+    - Lotte
+  products:
+    - Caliverse
+  chains:
+    - Arbitrum
+  sources:
+    - "https://www.donga.com/news/It/article/all/20240828/126733132/1"
 - date: 2024-08-23
   status: live
   entities:
