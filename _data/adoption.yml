@@ -66,6 +66,7 @@
 #     - 
 #   products:
 #     - 
+#   context: 
 #   tags:
 #     - 
 #   chains:
@@ -647,6 +648,20 @@
     - Mainnet
   sources:
     - "https://www.wisdomtree.com/investments/digital-funds/money-market/wtgxx"
+- date: 2023-11-06
+  status: dev
+  entities:
+    - MUFG (Mitsubishi UFJ Financial Group) 
+  products:
+    - XJPY Stablecoin
+    - XUSD Stablecoin
+  context: For Business
+  chains:
+    - Mainnet
+#    - Polygon
+  sources:
+    - "https://progmat.co.jp/press/pdf/press231106_01.pdf"
+    - "https://prtimes.jp/main/html/rd/p/000000081.000036656.html"
 - date: 2023-10-02
   status: live
   entities:
