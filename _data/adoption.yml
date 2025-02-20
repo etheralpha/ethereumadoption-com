@@ -276,7 +276,7 @@
   products:
     - ULTRA Fund
   chains:
-    - Ethereum
+    - Mainnet
 #    - Arbitrum
   sources:
     - "https://libeara.com/libeara-partners-with-wellington-and-fundbridge-capital-to-launch-a-u-s-treasuries-fund-tokenised-on-public-blockchain/"
