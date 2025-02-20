@@ -309,6 +309,9 @@
     - UCITS Money Market Funds 
   chains:
     - Mainnet
+    - Arbitrum
+#    - Polygon
+    - Starknet
   sources:
     - "https://www.caceis.com/whats-new/press-releases/press-releases/article/caceis-records-client-subscriptions-in-spikos-tokenised-money-market-funds-on-public-blockchain/detail.html"
 - date: 2024-10-03
