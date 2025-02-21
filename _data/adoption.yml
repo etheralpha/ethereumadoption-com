@@ -355,16 +355,16 @@
     - Base
   sources:
     - "https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/"
-- date: 2024-10-01
-  status: live
-  entities:
-    - Robinhood
-  products:
-    - External Transfers
-  chains:
-    - 
-  sources:
-    - "https://www.cnbc.com/2024/10/01/robinhood-launches-crypto-transfers-in-europe-in-push-overseas.html"
+# - date: 2024-10-01
+#   status: live
+#   entities:
+#     - Robinhood
+#   products:
+#     - External Transfers
+#   chains:
+#     - 
+#   sources:
+#     - "https://www.cnbc.com/2024/10/01/robinhood-launches-crypto-transfers-in-europe-in-push-overseas.html"
 - date: 2024-09-25
   status: live
   entities:
