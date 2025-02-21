@@ -85,16 +85,13 @@
   status: live
   entities:
     - Central Bank of Nigeria (CBN)
-    - Wrapped CBDC
   products:
     - cNGN Stablecoin
-  context: For Individuals, For Business
   chains:
     - Mainnet
     - Base
-#    - Polygon
+    # - Polygon
   sources:
-    - "https://businessday.ng/technology/article/what-cngn-nigerias-stablecoin-means-for-crypto-adoption/"
     - "https://medium.com/@cngn_co/introducing-cngn-nigerias-first-compliant-stablecoin-pilot-caa2eb77ab18"
 - date: 2025-02-04
   status: live
@@ -277,7 +274,7 @@
     - ULTRA Fund
   chains:
     - Mainnet
-#    - Arbitrum
+    # - Arbitrum
   sources:
     - "https://libeara.com/libeara-partners-with-wellington-and-fundbridge-capital-to-launch-a-u-s-treasuries-fund-tokenised-on-public-blockchain/"
 - date: 2024-10-22
@@ -310,10 +307,11 @@
   chains:
     - Mainnet
     - Arbitrum
-#    - Polygon
+    # - Polygon
     - Starknet
   sources:
     - "https://www.caceis.com/whats-new/press-releases/press-releases/article/caceis-records-client-subscriptions-in-spikos-tokenised-money-market-funds-on-public-blockchain/detail.html"
+    - "https://x.com/particula_io/status/1879846248976396675"
 - date: 2024-10-03
   status: live
   entities:
@@ -434,7 +432,7 @@
   entities:
     - Lotte
   products:
-    - Caliverse
+    - Caliverse Platform
   chains:
     - Arbitrum
   sources:
@@ -646,12 +644,12 @@
 
 # 2023
 - date: 2023-12-12
-  status: dev
+  status: dev # planned for 2025
   entities:
     - DWS
     - Flow Traders
   products:
-    - EUR-denominated stablecoin
+    - Euro Stablecoin
   chains:
     - Mainnet
   sources:
@@ -702,17 +700,17 @@
 - date: 2023-11-06
   status: dev
   entities:
-    - MUFG (Mitsubishi UFJ Financial Group) 
+    - Mitsubishi UFJ
   products:
-    - XJPY Stablecoin
-    - XUSD Stablecoin
-  context: For Business
+    - XJPY
+    - XUSD
+  context: Stablecoins For Businesses
   chains:
     - Mainnet
-#    - Polygon
+    # - Polygon
   sources:
+    - "https://www.ledgerinsights.com/mufg-drw-cumberland-stablecoin-crypto-settlement/"
     - "https://progmat.co.jp/press/pdf/press231106_01.pdf"
-    - "https://prtimes.jp/main/html/rd/p/000000081.000036656.html"
 - date: 2023-10-02
   status: live
   entities:
@@ -1093,10 +1091,10 @@
   entities:
     - Warner Music Group
   products:
-    - Musical themed park and concert venues in a music themed world in The Sandbox gaming metaverse
+    - WMG LAND
   chains:
     - Mainnet
-#    - Polygon
+    # - Polygon
   sources:
     - "https://www.wmg.com/news/sandbox-partners-warner-music-group-create-music-themed-world-metaverse-36116"
 - date: 2022-01-21
