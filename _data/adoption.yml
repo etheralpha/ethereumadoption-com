@@ -66,6 +66,7 @@
 #     - 
 #   products:
 #     - 
+#   context: 
 #   tags:
 #     - 
 #   chains:
@@ -80,6 +81,18 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-02-05
+  status: live
+  entities:
+    - Central Bank of Nigeria (CBN)
+  products:
+    - cNGN Stablecoin
+  chains:
+    - Mainnet
+    - Base
+    # - Polygon
+  sources:
+    - "https://medium.com/@cngn_co/introducing-cngn-nigerias-first-compliant-stablecoin-pilot-caa2eb77ab18"
 - date: 2025-02-04
   status: live
   entities:
@@ -260,8 +273,8 @@
   products:
     - ULTRA Fund
   chains:
-    - Ethereum
-#    - Arbitrum
+    - Mainnet
+    # - Arbitrum
   sources:
     - "https://libeara.com/libeara-partners-with-wellington-and-fundbridge-capital-to-launch-a-u-s-treasuries-fund-tokenised-on-public-blockchain/"
 - date: 2024-10-22
@@ -284,6 +297,21 @@
     - 
   sources:
     - "https://cointelegraph.com/news/stripe-acquires-stablecoin-platform-bridge-techcrunch-founder"
+- date: 2024-10-07
+  status: live
+  entities:
+    - CACEIS
+    - Twenty First Capital
+  products:
+    - UCITS Money Market Funds 
+  chains:
+    - Mainnet
+    - Arbitrum
+    # - Polygon
+    - Starknet
+  sources:
+    - "https://www.caceis.com/whats-new/press-releases/press-releases/article/caceis-records-client-subscriptions-in-spikos-tokenised-money-market-funds-on-public-blockchain/detail.html"
+    - "https://x.com/particula_io/status/1879846248976396675"
 - date: 2024-10-03
   status: live
   entities:
@@ -327,16 +355,16 @@
     - Base
   sources:
     - "https://www.coindesk.com/business/2024/10/02/christies-to-offer-blockchain-based-ownership-certificates-for-photography-collection/"
-- date: 2024-10-01
-  status: live
-  entities:
-    - Robinhood
-  products:
-    - External Transfers
-  chains:
-    - 
-  sources:
-    - "https://www.cnbc.com/2024/10/01/robinhood-launches-crypto-transfers-in-europe-in-push-overseas.html"
+# - date: 2024-10-01
+#   status: live
+#   entities:
+#     - Robinhood
+#   products:
+#     - External Transfers
+#   chains:
+#     - 
+#   sources:
+#     - "https://www.cnbc.com/2024/10/01/robinhood-launches-crypto-transfers-in-europe-in-push-overseas.html"
 - date: 2024-09-25
   status: live
   entities:
@@ -399,6 +427,16 @@
     - Mainnet
   sources:
     - "https://blog.ens.domains/post/bringing-crypto-transfers-to-millions-with-paypal-and-venmo"
+- date: 2024-08-28
+  status: live
+  entities:
+    - Lotte
+  products:
+    - Caliverse Platform
+  chains:
+    - Arbitrum
+  sources:
+    - "https://www.donga.com/news/It/article/all/20240828/126733132/1"
 - date: 2024-08-23
   status: live
   entities:
@@ -605,6 +643,18 @@
 
 
 # 2023
+- date: 2023-12-12
+  status: dev # planned for 2025
+  entities:
+    - DWS
+    - Flow Traders
+  products:
+    - Euro Stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://allunity.com/news/dws-flow-traders-and-galaxy-announce-the-intention-to-launch-allunity/"
+    - "https://blockworks.co/news/euro-denominated-ethereum-stablecoin-launch"
 - date: 2023-11-30
   status: live
   entities:
@@ -647,6 +697,20 @@
     - Mainnet
   sources:
     - "https://www.wisdomtree.com/investments/digital-funds/money-market/wtgxx"
+- date: 2023-11-06
+  status: dev
+  entities:
+    - Mitsubishi UFJ
+  products:
+    - XJPY
+    - XUSD
+  context: Stablecoins For Businesses
+  chains:
+    - Mainnet
+    # - Polygon
+  sources:
+    - "https://www.ledgerinsights.com/mufg-drw-cumberland-stablecoin-crypto-settlement/"
+    - "https://progmat.co.jp/press/pdf/press231106_01.pdf"
 - date: 2023-10-02
   status: live
   entities:
@@ -1022,6 +1086,17 @@
     - 
   sources:
     - "https://twitter.com/Support/status/1494008973581856768"
+- date: 2022-01-27
+  status: live
+  entities:
+    - Warner Music Group
+  products:
+    - WMG LAND
+  chains:
+    - Mainnet
+    # - Polygon
+  sources:
+    - "https://www.wmg.com/news/sandbox-partners-warner-music-group-create-music-themed-world-metaverse-36116"
 - date: 2022-01-21
   status: live
   entities:
