@@ -276,7 +276,7 @@
   products:
     - ULTRA Fund
   chains:
-    - Ethereum
+    - Mainnet
 #    - Arbitrum
   sources:
     - "https://libeara.com/libeara-partners-with-wellington-and-fundbridge-capital-to-launch-a-u-s-treasuries-fund-tokenised-on-public-blockchain/"
@@ -1088,6 +1088,17 @@
     - 
   sources:
     - "https://twitter.com/Support/status/1494008973581856768"
+- date: 2022-01-27
+  status: live
+  entities:
+    - Warner Music Group
+  products:
+    - Musical themed park and concert venues in a music themed world in The Sandbox gaming metaverse
+  chains:
+    - Mainnet
+#    - Polygon
+  sources:
+    - "https://www.wmg.com/news/sandbox-partners-warner-music-group-create-music-themed-world-metaverse-36116"
 - date: 2022-01-21
   status: live
   entities:
