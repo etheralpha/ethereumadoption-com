@@ -711,6 +711,16 @@
   sources:
     - "https://www.ledgerinsights.com/mufg-drw-cumberland-stablecoin-crypto-settlement/"
     - "https://progmat.co.jp/press/pdf/press231106_01.pdf"
+- date: 2023-10-19
+  status: live
+  entities:
+    - Novatti
+  products:
+    - AUDD Stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.audd.digital/audd-now-live-on-ethereum/"
 - date: 2023-10-02
   status: live
   entities:
