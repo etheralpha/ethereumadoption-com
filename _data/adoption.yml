@@ -81,6 +81,18 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-02-19
+  status: live
+  entities:
+    - Invesco
+  products:
+    - iSNR Fund
+  chains:
+    - Mainnet
+    - Arbitrum
+  sources:
+    - "https://insights.digift.sg/digift-collaborates-with-invesco-on-tokenized-solution/"
+    - "https://www.digift.sg/new-invest/detail?tokenCode=iSNR"
 - date: 2025-02-05
   status: live
   entities:
