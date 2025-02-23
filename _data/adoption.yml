@@ -1238,6 +1238,20 @@
     - Mainnet
   sources:
     - "https://medium.com/arianee/enhance-your-breitling-luxury-watch-experience-with-arianee-1427e540538e"
+- date: 2020-10-05
+  status: live
+  entities:
+    - Fazz
+  products:
+    - XSGD Stablecoin
+    - XIDR Stablecoin
+    - XUSD Stablecoin
+  chains:
+    - Mainnet
+    - Arbitrum
+   # - Polygon
+  sources:
+    - "https://www.straitsx.com/blog-post/introducing-xsgd-the-singapore-dollar-backed-and-travel-rule1-compliant-stablecoin"
 - date: 2020-09-30
   status: live
   entities:
