@@ -1243,9 +1243,10 @@
   entities:
     - Fazz
   products:
-    - XSGD Stablecoin
-    - XIDR Stablecoin
-    - XUSD Stablecoin
+    - XSGD
+    - XIDR
+    - XUSD
+  context: Stablecoins
   chains:
     - Mainnet
     - Arbitrum
