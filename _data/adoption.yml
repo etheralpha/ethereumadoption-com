@@ -409,6 +409,16 @@
     - 
   sources:
     - "https://cloud.google.com/blog/topics/financial-services/introducing-blockchain-rpc-service-for-web3-builders/"
+- date: 2024-09-17
+  status: live
+  entities:
+    - Syz
+  products:
+    - Art tokenization
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.taurushq.com/blog/taurus-collaborates-with-bank-syz-for-art-tokenization-and-trading-on-tdx-marketplace/"
 - date: 2024-09-12
   status: live
   entities:
