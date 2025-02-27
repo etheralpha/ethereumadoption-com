@@ -998,6 +998,16 @@
 - date: 2022-10-11
   status: live
   entities:
+    - BNY Melon
+  products:
+    - Custody Platform
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-mellon-launches-new-digital-asset-custody-platform-130305.html"
+- date: 2022-10-11
+  status: live
+  entities:
     - Google
   products:
     - Address Search
