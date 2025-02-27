@@ -351,7 +351,7 @@
   entities:
     - Lamborghini
   products:
-    -  Fast ForWorld NFT Platform
+    - Fast ForWorld NFT Platform
   chains:
     - Base
   sources:
@@ -804,6 +804,17 @@
     - Mainnet
   sources:
     - "https://oecd-opsi.org/innovations/openattestation/"
+- date: 2023-07-03
+  status: live
+  entities:
+    - Swiss Football Association
+  products:
+    - Women's Football NFT Collection
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.football.ch/desktopdefault.aspx/tabid-2526/8544_read-266399/"
+    - "https://www.theblock.co/post/237557/credit-suisse-ethereum-nft-swiss-football-association"
 - date: 2023-06-09
   status: live
   entities:
