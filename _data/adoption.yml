@@ -93,6 +93,17 @@
   sources:
     - "https://insights.digift.sg/digift-collaborates-with-invesco-on-tokenized-solution/"
     - "https://www.digift.sg/new-invest/detail?tokenCode=iSNR"
+- date: 2025-02-14
+  status: dev
+  entities:
+    - State Street
+    - Citi
+  products:
+    - Custody Services
+  chains:
+    - 
+  sources:
+    - "https://cryptoslate.com/state-street-and-citi-reportedly-eyeing-crypto-custody-services/"
 - date: 2025-02-05
   status: live
   entities:
