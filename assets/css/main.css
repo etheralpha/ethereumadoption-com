@@ -169,6 +169,7 @@ input::placeholder {
 }
 .legend .status {
   margin: 0;
+  margin-bottom: -1px;
 }
 @media screen and (max-width: 767px) {
   .status {
