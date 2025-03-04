@@ -66,12 +66,7 @@
 #     - 
 #   products:
 #     - 
-#   context: 
-#   tags:
-#     - 
 #   chains:
-#     - 
-#   stack:
 #     - 
 #   sources:
 #     - 
@@ -81,6 +76,17 @@
 # Please enter in date order
 
 # 2025
+- date: live
+  status: 2025-02-28
+  entities:
+    - ChinaAMC HK
+  products:
+    - Huaxia Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.scmp.com/tech/blockchain/article/3300539/chinaamc-launches-hong-kongs-first-retail-tokenised-money-market-fund-web3-push"
+    - "https://www.theblockbeats.info/en/flash/283732"
 - date: 2025-02-19
   status: live
   entities:
