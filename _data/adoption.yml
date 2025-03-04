@@ -89,14 +89,14 @@
 - date: 2025-02-28
   status: live
   entities:
-    - ChinaAMC HK
+    - ChinaAMC
   products:
-    - Huaxia Fund
+    - Dollar Digital Currency Fund
   chains:
     - Mainnet
   sources:
-    - "https://www.scmp.com/tech/blockchain/article/3300539/chinaamc-launches-hong-kongs-first-retail-tokenised-money-market-fund-web3-push"
     - "https://www.theblockbeats.info/en/flash/283732"
+    - "https://www.scmp.com/tech/blockchain/article/3300539/chinaamc-launches-hong-kongs-first-retail-tokenised-money-market-fund-web3-push"
 - date: 2025-02-19
   status: live
   entities:
