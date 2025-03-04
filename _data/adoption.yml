@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-03-02
+  status: dev
+  entities:
+    - United States
+  products:
+    - ETH Reserves
+  chains:
+    - 
+  sources:
+    - "https://truthsocial.com/@realDonaldTrump/posts/114093946326587357"
 - date: live
   status: 2025-02-28
   entities:
