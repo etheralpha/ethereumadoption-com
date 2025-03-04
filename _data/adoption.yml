@@ -86,8 +86,8 @@
     - 
   sources:
     - "https://truthsocial.com/@realDonaldTrump/posts/114093946326587357"
-- date: live
-  status: 2025-02-28
+- date: 2025-02-28
+  status: live
   entities:
     - ChinaAMC HK
   products:
