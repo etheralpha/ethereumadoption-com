@@ -1242,6 +1242,17 @@
     - Mainnet
   sources:
     - "https://cointelegraph.com/news/burger-king-serves-up-free-doge-with-meal-purchases"
+- date: 2021-10-05
+  status: live
+  entities:
+    - Credit Suisse
+    - Alaïa
+  products:
+    - Tokenized Shares 
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.taurushq.com/blog/alaia-tokenises-its-shares-with-credit-suisse-powered-by-taurus/"
 - date: 2021-08-04
   status: live
   entities:
