@@ -85,6 +85,7 @@
   chains:
     - 
   sources:
+    - "https://www.globenewswire.com/news-release/2025/03/05/3037582/0/en/BioNexus-Gene-Lab-Corp-Announces-Board-Approval-of-Ethereum-Treasury-Strategy-and-Release-of-Strategic-Whitepaper.html"
     - "https://www.investing.com/news/company-news/bionexus-gene-lab-adopts-ethereum-for-treasury-strategy-93CH-3909695"
 - date: 2025-03-02
   status: dev
