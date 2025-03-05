@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-03-05
+  status: live
+  entities:
+    - BioNexus Gene Lab
+  products:
+    - ETH Treasury
+  chains:
+    - 
+  sources:
+    - "https://www.investing.com/news/company-news/bionexus-gene-lab-adopts-ethereum-for-treasury-strategy-93CH-3909695"
 - date: 2025-03-02
   status: dev
   entities:
