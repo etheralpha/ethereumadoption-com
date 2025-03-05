@@ -404,6 +404,16 @@
 #     - 
 #   sources:
 #     - "https://www.cnbc.com/2024/10/01/robinhood-launches-crypto-transfers-in-europe-in-push-overseas.html"
+- date: 2024-09-26
+  status: live
+  entities:
+    - Guggenheim Treasury Services
+  products:
+    - Tokenized Commercial Paper
+  chains:
+    - Mainnet
+  sources:
+    - "https://ca.finance.yahoo.com/news/wall-street-titan-guggenheim-tokenizes-113000218.html"
 - date: 2024-09-25
   status: live
   entities:
