@@ -1461,6 +1461,36 @@
 
 
 
+# 2017
+- date: 2017-02-28
+  status: live
+  entities:
+    - Accenture
+    - BBVA
+    - BNY Mellon
+    - BP
+    - CME Group
+    - Credit Suisse
+    - Fubon Financial
+    - ING
+    - Intel
+    - JP Morgan
+    - Microsoft
+    - Santander
+    - Telindus
+    - Thomson Reuters
+    - UBS
+    - Wipro
+  products:
+    - Enterprise Ethereum Alliance
+  chains:
+    - 
+  sources:
+    - "https://entethalliance.org/enterprise-ethereum-alliance-launches/"
+
+
+
+
 # DEVELOPMENT
 - date: 2024-10-28
   status: dev
