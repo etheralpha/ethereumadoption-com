@@ -315,6 +315,16 @@
     - Base
   sources:
     - "https://cryptobriefing.com/franklin-templeton-tokenized-money-fund/"
+- date: 2024-10-28
+  status: dev
+  entities:
+    - RD Technologies
+  products:
+    - Hong Kong Stablecoin HKDR
+  chains:
+    - Mainnet
+  sources:
+    - "https://cryptonews.com/news/hong-kongs-ethereum-based-stablecoin-hkdr-to-launch-on-hashkey-exchange/#:~:text=The%20HKDR%20stablecoin%20is%20designed,trading%2C%20and%20efficient%20payment%20solutions."
 - date: 2024-10-22
   status: live
   entities:
@@ -540,6 +550,16 @@
     - ZKsync
   sources:
     - "https://www.sygnum.com/news/sygnum-and-fidelity-international-partner-with-chainlink-to-provide-fund-nav-data-onchain/"
+- date: 2024-06-19
+  status: dev
+  entities:
+    - Toyota
+  products:
+    - Mobility-Oriented Account (MOA)
+  chains:
+    - 
+  sources:
+    - "https://www.toyota-blockchain-lab.org/library/how-to-introduce-mobility-into-the-public-blockchain"
 - date: 2024-06-18
   status: live
   entities:
@@ -832,6 +852,16 @@
     - Mainnet
   sources:
     - "https://www.porsche.com/stories/innovation/how-to-buy-a-porsche-nft/"
+- date: 2023-08-31
+  status: dev
+  entities:
+    - SWIFT
+  products:
+    - Settlement
+  chains:
+    - 
+  sources:
+    - "https://www.swift.com/news-events/press-releases/swift-unlocks-potential-tokenisation-successful-blockchain-experiments"
 - date: 2023-08-30
   status: live
   entities:
@@ -968,6 +998,16 @@
     - Mainnet
   sources: 
     - "https://news.nab.com.au/news/nab-completes-world-first-with-cross-border-stablecoin-transaction/"
+- date: 2023-03-02
+  status: dev
+  entities:
+    - Reserve Bank of Australia
+  products:
+    - eAUD CBDC
+  chains:
+    - 
+  sources:
+    - "https://www.rba.gov.au/media-releases/2023/mr-23-06.html"
 - date: 2023-02-25
   status: live
   entities:
@@ -1487,58 +1527,6 @@
     - 
   sources:
     - "https://entethalliance.org/enterprise-ethereum-alliance-launches/"
-
-
-
-
-# DEVELOPMENT
-- date: 2024-10-28
-  status: dev
-  entities:
-    - RD Technologies
-  products:
-    - Hong Kong Stablecoin HKDR
-  chains:
-    - Mainnet
-  sources:
-    - "https://cryptonews.com/news/hong-kongs-ethereum-based-stablecoin-hkdr-to-launch-on-hashkey-exchange/#:~:text=The%20HKDR%20stablecoin%20is%20designed,trading%2C%20and%20efficient%20payment%20solutions."
-- date: 2024-06-19
-  status: dev
-  entities:
-    - Toyota
-  products:
-    - Mobility-Oriented Account (MOA)
-  chains:
-    - 
-  sources:
-    - "https://www.toyota-blockchain-lab.org/library/how-to-introduce-mobility-into-the-public-blockchain"
-- date: 2023-08-31
-  status: dev
-  entities:
-    - SWIFT
-  products:
-    - Settlement
-  chains:
-    - 
-  sources:
-    - "https://www.swift.com/news-events/press-releases/swift-unlocks-potential-tokenisation-successful-blockchain-experiments"
-- date: 2023-03-02
-  status: dev
-  entities:
-    - Reserve Bank of Australia
-  products:
-    - eAUD CBDC
-  chains:
-    - 
-  sources:
-    - "https://www.rba.gov.au/media-releases/2023/mr-23-06.html"
-
-
-
-
-
-
-
 
 
 
