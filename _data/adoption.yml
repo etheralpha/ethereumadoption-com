@@ -948,7 +948,7 @@
   entities:
     - Societe Generale
   products:
-    - EUR CoinVertible
+    - EURCV Stablecoin
   chains:
     - Mainnet
   sources:
