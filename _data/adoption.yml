@@ -597,7 +597,7 @@
   entities:
     - SCCF
   products:
-    - Tokenization of End-to-End Trade Finance Transaction
+    - Tokenized Debt Transaction
   chains:
     - Mainnet
   sources:
@@ -1024,7 +1024,7 @@
     - Horizon Capital 
     - SCCF
   products:
-    - Tokenized Trade Finance Debt Transaction 
+    - Tokenized Debt Transaction 
   chains:
     - Mainnet
   sources:
