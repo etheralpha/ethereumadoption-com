@@ -50,7 +50,7 @@
 
       {%- capture chains -%}
         {%- for chain in item.chains -%}
-          {%- assign filename = chain | downcase | trim | replace: ' ', '-' -%}
+          {%- assign filename = chain | downcase | strip | replace: ' ', '-' -%}
           {%- if filename != "" -%}
             <img class="network" src="/assets/img/networks/{{filename}}.webp" title="{{chain}}">
           {%- endif -%}
@@ -71,7 +71,7 @@
           <span class="{{status_style}}"></span>
         {%- endif -%}
         <span class="date">{{date}}</span>
-        <a href="{{source}}" target="_blank">{{entities}} {{products | trim}}</a>
+        <a href="{{source}}" target="_blank">{{entities}} - {{products | strip}}</a>
         {{chains}}
       </div>
     {%- endif -%}
