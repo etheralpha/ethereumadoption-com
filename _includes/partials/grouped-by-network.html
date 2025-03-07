@@ -10,7 +10,7 @@
 <div class="mb-2">
   {%- for network in networks -%}
     {%- if network != ""  -%}
-      {%- assign network_id = network | downcase | trim | replace: ' ', '-' -%}
+      {%- assign network_id = network | downcase | strip | replace: ' ', '-' -%}
       <a href="#network-{{network_id}}" class="btn btn-sm me-1 mb-1">{{network}}</a>
     {%- endif -%}
   {%- endfor -%}
@@ -21,9 +21,9 @@
 {%- assign adoption = site.data.adoption | sort: "date" | reverse -%}
 {%- for network in networks -%}
   {%- if network != ""  -%}
-    {%- assign network_id = network | downcase | trim | replace: ' ', '-' -%}
+    {%- assign network_id = network | downcase | strip | replace: ' ', '-' -%}
     <div id="network-{{network_id}}" class="group-header">
-      {%- assign filename = network | downcase | trim | replace: ' ', '-' -%}
+      {%- assign filename = network | downcase | strip | replace: ' ', '-' -%}
       <img class="network" src="/assets/img/networks/{{filename}}.webp" title="{{network}}">
       {{network}}
     </div>
@@ -58,7 +58,7 @@
 
           {%- capture chains -%}
             {%- for chain in item.chains -%}
-              {%- assign filename = chain | downcase | trim | replace: ' ', '-' -%}
+              {%- assign filename = chain | downcase | strip | replace: ' ', '-' -%}
               {%- if filename != "" -%}
                 <img class="network" src="/assets/img/networks/{{filename}}.webp" title="{{chain}}">
               {%- endif -%}
@@ -79,7 +79,7 @@
               <span class="{{status_style}}"></span>
             {%- endif -%}
             <span class="date">{{date}}</span>
-            <a href="{{source}}" target="_blank">{{entities}} {{products | trim}}</a>
+            <a href="{{source}}" target="_blank">{{entities}} - {{products | strip}}</a>
             {{chains}}
           </div>
         {%- endif -%}
