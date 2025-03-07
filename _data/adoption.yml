@@ -260,7 +260,7 @@
     - BUIDL Fund
   chains:
     - Arbitrum
-    - Optimism
+    - OP Mainnet
   sources:
     - "https://www.theblock.co/post/326288/blackrock-buidl-aptos-arbitrum-avalanche-optimism-polygon"
 - date: 2024-11-07
@@ -670,7 +670,7 @@
     - Onchain Trading
   chains:
     # - Polygon
-    - Optimism
+    - OP Mainnet
     - Base
   sources:
     - "https://newsroom.aboutrobinhood.com/robinhood-wallet-android/"
@@ -683,7 +683,7 @@
   chains:
     - Arbitrum
     # - Polygon
-    - Optimism
+    - OP Mainnet
     - Base
   sources:
     - "https://cointelegraph.com/news/robinhood-launches-crypto-wallet-for-android-users"
