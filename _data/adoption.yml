@@ -592,6 +592,16 @@
   sources:
     - "https://www.db.com/news/detail/20240514-deutsche-bank-joins-project-guardian-to-explore-asset-tokenization-applications"
     - "https://mementoblockchain.com/"
+- date: 2024-05-23
+  status: live
+  entities:
+    - SCCF
+  products:
+    - Tokenized Debt Transaction
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.taurushq.com/blog/sccf-and-taurus-announce-successful-tokenization-of-end-to-end-trade-finance-transaction-on-tdx-marketplace/"
 - date: 2024-05-11
   status: live
   entities:
@@ -1008,6 +1018,17 @@
     - 
   sources:
     - "https://www.rba.gov.au/media-releases/2023/mr-23-06.html"
+- date: 2023-02-28
+  status: live
+  entities:
+    - Horizon Capital 
+    - SCCF
+  products:
+    - Tokenized Debt Transaction 
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.taurushq.com/blog/sccf-and-horizon-capital-leverage-taurus-technology-to-execute-landmark-tokenized-trade-finance-debt-transaction/"
 - date: 2023-02-25
   status: live
   entities:
