@@ -220,6 +220,19 @@
     - # "using ZKsync technology"
   sources:
     - "https://cointelegraph.com/news/deutsche-bank-layer-2-blockchain-ethereum-zksync"
+- date: 2024-12-11
+  status: live
+  entities:
+    - Standard Chartered
+  products:
+    - USDG 
+    - USDL
+  context: Stablecoin Reserve Management
+  chains:
+    - Mainnet
+    - Arbitrum
+  sources:
+    - "https://www.paxos.com/newsroom/paxos-and-standard-chartered-lead-the-way-in-stablecoin-reserve-management"
 # - date: 2024-12-13 # was likely on DL3S, not Ethereum
 #   status: live
 #   entities:
