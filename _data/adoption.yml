@@ -353,8 +353,13 @@
     - Stripe
   products:
     - Bridge
+  context: Stablecoins For Businesses
   chains:
-    - 
+    - Mainnet
+    - Arbitrum
+    - Base
+    - OP Mainnet
+    # - Polygon
   sources:
     - "https://cointelegraph.com/news/stripe-acquires-stablecoin-platform-bridge-techcrunch-founder"
 - date: 2024-10-07
