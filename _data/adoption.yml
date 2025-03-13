@@ -220,6 +220,17 @@
     - # "using ZKsync technology"
   sources:
     - "https://cointelegraph.com/news/deutsche-bank-layer-2-blockchain-ethereum-zksync"
+# - date: 2024-12-13 # was likely on DL3S, not Ethereum
+#   status: live
+#   entities:
+#     - Societe Generale
+#     - Banque de France
+#   products:
+#     - Repo Transaction
+#   chains:
+#     - Mainnet
+#   sources:
+#     - "https://www.societegenerale.com/en/news/press-release/societe-generale-successfully-completed-first-repo-transaction-public-blockchain-banque-de-france"
 - date: 2024-12-11
   status: live
   entities:
@@ -233,17 +244,6 @@
     - Arbitrum
   sources:
     - "https://www.paxos.com/newsroom/paxos-and-standard-chartered-lead-the-way-in-stablecoin-reserve-management"
-# - date: 2024-12-13 # was likely on DL3S, not Ethereum
-#   status: live
-#   entities:
-#     - Societe Generale
-#     - Banque de France
-#   products:
-#     - Repo Transaction
-#   chains:
-#     - Mainnet
-#   sources:
-#     - "https://www.societegenerale.com/en/news/press-release/societe-generale-successfully-completed-first-repo-transaction-public-blockchain-banque-de-france"
 - date: 2024-11-25
   status: live
   entities:
