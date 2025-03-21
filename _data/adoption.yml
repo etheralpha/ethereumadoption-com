@@ -231,6 +231,17 @@
 #     - Mainnet
 #   sources:
 #     - "https://www.societegenerale.com/en/news/press-release/societe-generale-successfully-completed-first-repo-transaction-public-blockchain-banque-de-france"
+- date: 2024-12-11
+  status: live
+  entities:
+    - Standard Chartered
+  products:
+    - Stablecoin Reserve Management
+  chains:
+    - Mainnet
+    - Arbitrum
+  sources:
+    - "https://www.paxos.com/newsroom/paxos-and-standard-chartered-lead-the-way-in-stablecoin-reserve-management"
 - date: 2024-11-25
   status: live
   entities:
