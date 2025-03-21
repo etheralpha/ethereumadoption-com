@@ -986,6 +986,16 @@
     - Mainnet
   sources:
     - "https://blockworks.co/news/louis-vuitton-luxury-nfts"
+- date: 2023-05-11
+  status: live
+  entities:
+    - BNY Mellon
+  products:
+    - USDC Custody
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.coindesk.com/business/2022/03/31/bny-mellon-to-custody-assets-backing-circles-usdc-stablecoin"
 - date: 2023-05-01
   status: live
   entities:
