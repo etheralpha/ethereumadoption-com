@@ -1458,7 +1458,7 @@
 #   sources:
 #     - "https://www.ledgerinsights.com/banque-de-france-tests-digital-euro-cbdc-bonds-societe-generale/"
 #     - "https://web.archive.org/web/20200521044305/https://www.banque-france.fr/communique-de-presse/avancement-de-la-demarche-dexperimentations-de-monnaie-digitale-de-banque-centrale-lancee-par-la"
-- date: 2020-02-10
+- date: 2020-02-11
   status: live
   entities:
     - Bankhaus Scheich
