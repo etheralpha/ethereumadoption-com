@@ -76,7 +76,7 @@
 # Please enter in date order
 
 # 2025
-# - date: 2025-05-12 # unconfirmed source
+# - date: 2025-03-12 # unconfirmed source
 #   status: dev
 #   entities:
 #     - BNY Mellon
@@ -86,6 +86,27 @@
 #     - Mainnet
 #   sources:
 #     - "https://www.pymnts.com/partnerships/2025/bny-deepens-relationship-with-stablecoin-company-circle/"
+- date: 2025-03-11
+  status: dev
+  entities:
+    - Deutsche Boerse
+  products:
+    - Ethereum Trading Services
+  context: For Institutions
+  chains:
+    - 
+  sources:
+    - "https://www.reuters.com/technology/deutsche-boerses-clearstream-offer-bitcoin-ether-custody-services-2025-03-11/"
+- date: 2025-03-10
+  status: dev
+  entities:
+    - BBVA
+  products:
+    - Ethereum Trading Services
+  chains:
+    - 
+  sources:
+    - "https://www.reuters.com/technology/spanish-lender-bbva-offer-bitcoin-ether-trading-2025-03-10/"
 - date: 2025-03-05
   status: live
   entities:
