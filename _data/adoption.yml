@@ -1470,6 +1470,17 @@
 #   sources:
 #     - "https://www.ledgerinsights.com/banque-de-france-tests-digital-euro-cbdc-bonds-societe-generale/"
 #     - "https://web.archive.org/web/20200521044305/https://www.banque-france.fr/communique-de-presse/avancement-de-la-demarche-dexperimentations-de-monnaie-digitale-de-banque-centrale-lancee-par-la"
+- date: 2020-02-11
+  status: live
+  entities:
+    - Bankhaus Scheich
+  products:
+    - Tokenized Shares
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.bankhaus-scheich.de/en/innovation-on-the-capital-market/"
+    - "https://cashlink.de/en/how-we-issued-one-of-the-first-digital-securities-on-the-ethereum-blockchain/"
 - date: 2020-02-10
   status: live
   entities:
@@ -1540,6 +1551,17 @@
     - Mainnet
   sources:
     - "https://www.fujitsu.com/global/about/resources/news/press-releases/2018/0307-01.html"
+- date: 2018-06-19
+  status: live
+  entities:
+    - AB InBev # Budweiser, Bud Light, Michelob Ultra, Limeatrita, Estrellas.
+    - Kiip
+  products:
+    - Ad Data Tracking
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.coindesk.com/markets/2018/06/19/the-worlds-largest-brewer-is-using-ethereum-to-track-ad-data"
 
 
 
