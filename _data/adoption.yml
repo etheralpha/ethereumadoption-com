@@ -827,12 +827,12 @@
     - Fujitsu
     - Kanazawa Institute of Technology 
   products:
-    - AR app issues NFT for local event
+    - AR NFT Minting
   chains:
     - Mainnet
   sources:
-    - "https://www.fujitsu.com/global/about/resources/news/press-releases/2023/1002-01.html#footnote5"
-    - "https://www.fujitsu.com/jp/microsite/fujitsutransformationnews/2023-10-04/01/#anc-01"
+    - "https://www.fujitsu.com/global/about/resources/news/press-releases/2023/1002-01.html"
+    - "https://www.fujitsu.com/jp/microsite/fujitsutransformationnews/2023-10-04/01/"
 - date: 2023-10-02
   status: live
   entities:
