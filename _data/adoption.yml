@@ -1535,7 +1535,7 @@
   entities:
     - Fujitsu
   products:
-    - Audit risk detection tool for smart contracts
+    - Smart Contract Auditing Software
   chains:
     - Mainnet
   sources:
