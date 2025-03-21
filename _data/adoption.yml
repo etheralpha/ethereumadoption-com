@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+# - date: 2025-05-12 # unconfirmed source
+#   status: dev
+#   entities:
+#     - BNY Mellon
+#   products:
+#     - USDC Purchase/Redemption
+#   chains:
+#     - Mainnet
+#   sources:
+#     - "https://www.pymnts.com/partnerships/2025/bny-deepens-relationship-with-stablecoin-company-circle/"
 - date: 2025-03-05
   status: live
   entities:
@@ -1170,7 +1180,7 @@
 - date: 2022-10-11
   status: live
   entities:
-    - BNY Melon
+    - BNY Mellon
   products:
     - Custody Platform
   chains:
