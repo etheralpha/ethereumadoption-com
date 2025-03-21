@@ -200,7 +200,7 @@
   entities:
     - Nubank 
   products:
-    - USDC treasury yield to customers
+    - USDC Reward Program
   chains:
     - Mainnet
   sources:
