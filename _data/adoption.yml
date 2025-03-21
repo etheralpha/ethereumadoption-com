@@ -236,9 +236,7 @@
   entities:
     - Standard Chartered
   products:
-    - USDG 
-    - USDL
-  context: Stablecoin Reserve Management
+    - Stablecoin Reserve Management
   chains:
     - Mainnet
     - Arbitrum
