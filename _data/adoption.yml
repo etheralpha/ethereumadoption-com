@@ -824,6 +824,18 @@
 - date: 2023-10-02
   status: live
   entities:
+    - Fujitsu
+    - Kanazawa Institute of Technology 
+  products:
+    - AR NFT Minting
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.fujitsu.com/global/about/resources/news/press-releases/2023/1002-01.html"
+    - "https://www.fujitsu.com/jp/microsite/fujitsutransformationnews/2023-10-04/01/"
+- date: 2023-10-02
+  status: live
+  entities:
     - UBS
     - SBI
   products:
@@ -1529,6 +1541,16 @@
     - Mainnet
   sources:
     - "https://archive.fo/cMRS2"
+- date: 2018-03-07
+  status: live
+  entities:
+    - Fujitsu
+  products:
+    - Smart Contract Auditing Software
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.fujitsu.com/global/about/resources/news/press-releases/2018/0307-01.html"
 - date: 2018-06-19
   status: live
   entities:
