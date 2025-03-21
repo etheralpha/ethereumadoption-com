@@ -86,6 +86,16 @@
 #     - Mainnet
 #   sources:
 #     - "https://www.pymnts.com/partnerships/2025/bny-deepens-relationship-with-stablecoin-company-circle/"
+- date: 2025-03-12
+  status: dev
+  entities:
+    - LINE
+  products:
+    - LINE MINI App
+  chains:
+    - Soneium
+  sources:
+    - "https://soneium.org/en/blog/LINE-MINI-App"
 - date: 2025-03-11
   status: dev
   entities:
