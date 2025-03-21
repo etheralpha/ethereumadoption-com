@@ -903,6 +903,17 @@
     - Mainnet
   sources:
     - "https://www.audd.digital/audd-now-live-on-ethereum/"
+- date: 2023-10-12
+  status: live
+  entities:
+    - Cuscal
+    - Mastercard
+  products:
+    - Interoperable CBDC for Trusted Web3 Commerce
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.mastercard.com/news/ap/en/newsroom/press-releases/en/2023/mastercard-demonstrates-interoperable-cbdc-for-trusted-web3-commerce-in-australia-and-beyond/"
 - date: 2023-10-02
   status: live
   entities:
@@ -936,7 +947,7 @@
     - Mainnet
   sources:
     - "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.19881.html"
-- date: 2024-09-04
+- date: 2023-09-04
   status: live
   entities:
     - Palau
