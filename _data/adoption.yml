@@ -1521,10 +1521,10 @@
 - date: 2018-06-19
   status: live
   entities:
-    - AB InBev
+    - AB InBev # Budweiser, Bud Light, Michelob Ultra, Limeatrita, Estrellas.
     - Kiip
   products:
-    - Track Ad Data
+    - Ad Data Tracking
   chains:
     - Mainnet
   sources:
