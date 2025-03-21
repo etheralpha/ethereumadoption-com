@@ -195,6 +195,16 @@
     - Mainnet
   sources:
     - "https://archive.md/UMwxE#selection-2107.0-2107.5"
+- date: 2025-01-14
+  status: live
+  entities:
+    - Nubank 
+  products:
+    - USDC Reward Program
+  chains:
+    - Mainnet
+  sources:
+    - "https://international.nubank.com.br/consumers/nubank-expands-usdc-rewards-program-to-all-customers/"
 - date: 2025-01-08
   status: dev
   entities:
@@ -274,6 +284,16 @@
     - OP Mainnet
   sources:
     - "https://www.theblock.co/post/326288/blackrock-buidl-aptos-arbitrum-avalanche-optimism-polygon"
+- date: 2024-11-12
+  status: live
+  entities:
+    - Nubank
+  products:
+    - Onchain Trading 
+  chains:
+    - Mainnet
+  sources:
+    - "https://international.nubank.com.br/consumers/nubank-launches-cryptocurrency-swap-tool-in-its-app/"
 - date: 2024-11-07
   status: live
   entities:
@@ -592,6 +612,26 @@
     - Arbitrum
   sources:
     - "https://www.franklintempleton.com/press-releases/news-room/2024/franklin-templeton-enables-usdc-conversions-on-benji-investments-platform"
+- date: 2024-05-23
+  status: live
+  entities:
+    - Nubank 
+  products:
+    - External Transfers
+  chains:
+    - Mainnet
+  sources:
+    - "https://international.nubank.com.br/company/nubank-announces-sending-and-receiving-cryptocurrencies-directly-through-the-platform/"
+- date: 2024-05-23
+  status: live
+  entities:
+    - SCCF
+  products:
+    - Tokenized Debt Transaction
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.taurushq.com/blog/sccf-and-taurus-announce-successful-tokenization-of-end-to-end-trade-finance-transaction-on-tdx-marketplace/"
 - date: 2024-05-14
   status: live
   entities:
@@ -603,16 +643,6 @@
   sources:
     - "https://www.db.com/news/detail/20240514-deutsche-bank-joins-project-guardian-to-explore-asset-tokenization-applications"
     - "https://mementoblockchain.com/"
-- date: 2024-05-23
-  status: live
-  entities:
-    - SCCF
-  products:
-    - Tokenized Debt Transaction
-  chains:
-    - Mainnet
-  sources:
-    - "https://www.taurushq.com/blog/sccf-and-taurus-announce-successful-tokenization-of-end-to-end-trade-finance-transaction-on-tdx-marketplace/"
 - date: 2024-05-11
   status: live
   entities:
