@@ -1,0 +1,202 @@
+<style type="text/css">
+  #navMenu {
+    padding: 0.75rem;
+    padding-top: 0.95rem;
+    color: var(--brand-color-1);
+  }
+  #navMenu .menu-brand {
+    /*margin-left: 0.75rem;*/
+    margin-left: 5px;
+  }
+  #navMenu .menu-brand a {
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    font-size: 1.25rem;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  }
+  #navMenu .menu-brand img {
+    margin-top: -1px;
+    /*width: 150px;*/
+    width: 100px;
+    opacity: 95%;
+  }
+  #navMenu .menu-brand svg {
+    font-size: 1.25rem;
+    margin-top: -3px;
+    margin-right: -2px;
+  }
+  #navMenu .heading {
+    font-weight: 500;
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    line-height: 1rem;
+    letter-spacing: 1px;
+    margin-top: 1rem;
+  }
+  #navMenu .heading span {
+    display: inline-block;
+    font-size: 2em;
+    /* filter: grayscale(100%); */
+    vertical-align: middle;
+    margin-top: -5px;
+  }
+  #navMenu .menu-items {
+    margin-left: 5px;
+  }
+  #navMenu .menu-link {
+    display: block;
+    width: 100%;
+    /*opacity: 0.8;*/
+    padding: 0.45rem 0.8rem;
+    margin-bottom: 0.125rem;
+    overflow-wrap: break-word;
+    text-decoration: none;
+  }
+  #navMenu .menu-link svg,
+  #navMenu .menu-link img {
+    margin-right: 0.5rem;
+    margin-top: -2px;
+    max-height: 14px;
+    max-width: 14px;
+  }
+  #navMenu .menu-link.disabled {
+    opacity: 0.5;
+  }
+  #navMenu .menu-link:hover {
+    opacity: 1;
+    background-color: rgba(246,246,246,0.1);
+    border-radius: var(--brand-radius);
+  }
+  #navMenu hr {
+    margin: 0.75rem 0.25rem;
+  }
+  #navMenu .credit {
+    display: block;
+    width: 100%;
+    padding: 0.265rem 0.4rem;
+    margin-left: 5px;
+    overflow-wrap: break-word;
+    text-decoration: none;
+    /*color: #8f9092;*/
+    font-size: 0.75rem;
+  }
+  #navMenu .credit div {
+    margin-bottom: 0.4rem;
+  }
+</style>
+
+
+<div id="navMenu" class="d-flex flex-column h-100">
+  <div class="menu-brand my-2">
+    <a href="/" class="link-light m-2 p-1">
+      <img src="/assets/img/built-on-ethereum.png">
+    </a>
+  </div>
+  <div class="menu-items">
+    <div class="heading mb-1">Adoption</div>
+    <details>
+      <summary class="menu-link">
+        Built on Ethereum
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="/?view=byDate" class="menu-link ps-4">By Date</a>
+      <a href="/?view=byEntity" class="menu-link ps-4">By Entity</a>
+      <a href="/?view=byNetwork" class="menu-link ps-4">By Network</a>
+    </details>
+    <details>
+      <summary class="menu-link">
+        RWAs
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="https://app.rwa.xyz/networks/ethereum" class="menu-link ps-4">
+        {{site.data.icons.rwas}} Ethereum Mainnet</a>
+      <a href="https://app.rwa.xyz/networks/zksync-era" class="menu-link ps-4">
+        {{site.data.icons.rwas}} ZKsync</a>
+      <a href="https://app.rwa.xyz/networks/arbitrum" class="menu-link ps-4">
+        {{site.data.icons.rwas}} Arbitrum</a>
+      <a href="https://app.rwa.xyz/networks/base" class="menu-link ps-4">
+        {{site.data.icons.rwas}} Base</a>
+      <a href="https://app.rwa.xyz/networks/optimism" class="menu-link ps-4">
+        {{site.data.icons.rwas}} OP Mainnet</a>
+    </details>
+    <details>
+      <summary class="menu-link">
+        Stablecoins
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="https://defillama.com/stablecoins/Ethereum" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Ethereum Mainnet</a>
+      <a href="https://defillama.com/stablecoins/Base" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Base</a>
+      <a href="https://defillama.com/stablecoins/Arbitrum" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Arbitrum</a>
+      <a href="https://defillama.com/stablecoins/Optimism" class="menu-link ps-4">
+        {{site.data.icons.defillama}} OP Mainnet</a>
+      <a href="https://defillama.com/stablecoins/zkSync%20Era" class="menu-link ps-4">
+        {{site.data.icons.defillama}} ZKsync</a>
+      <a href="https://defillama.com/stablecoins/Taiko" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Taiko</a>
+    </details>
+    <details>
+      <summary class="menu-link">
+        Total Value Secured
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="https://l2beat.com/scaling/tvs" class="menu-link ps-4">
+        {{site.data.icons.l2beat}} All L2s</a>
+      <a href="https://www.growthepie.xyz/fundamentals/total-value-secured" class="menu-link ps-4">
+        {{site.data.icons.growthepie}} All L2s</a>
+    </details>
+    <details>
+      <summary class="menu-link">
+        Total Value Locked
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="https://defillama.com/chain/Ethereum" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Ethereum Mainnet</a>
+      <a href="https://defillama.com/chain/Base" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Base</a>
+      <a href="https://defillama.com/chain/Arbitrum" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Arbitrum</a>
+      <a href="https://defillama.com/chain/OP%20Mainnet" class="menu-link ps-4">
+        {{site.data.icons.defillama}} OP Mainnet</a>
+      <a href="https://defillama.com/chain/zkSync%20Era" class="menu-link ps-4">
+        {{site.data.icons.defillama}} ZKsync</a>
+      <a href="https://defillama.com/chain/Taiko" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Taiko</a>
+      <a href="https://defillama.com/chain/Soneium" class="menu-link ps-4">
+        {{site.data.icons.defillama}} Soneium</a>
+    </details>
+    <details>
+      <summary class="menu-link">
+        Economy
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="https://dashboard.etherealize.io/" class="menu-link ps-4">
+        {{site.data.icons.etherealize}} Etherealize</a>
+      <a href="https://www.growthepie.xyz/economics" class="menu-link ps-4">
+        {{site.data.icons.growthepie}} growthepie</a>
+    </details>
+    <a href="/usecases" class="menu-link">Usecases</a>
+
+
+    <hr>
+
+
+    <div class="heading mb-1">Resources</div>
+    <a href="https://www.growthepie.xyz/" class="menu-link">{{site.data.icons.growthepie}} growthepie</a>
+    <a href="https://www.l2beat.com/" class="menu-link">{{site.data.icons.l2beat}} L2BEAT</a>
+    <a href="https://defillama.com/" class="menu-link">{{site.data.icons.defillama}} DefiLlama</a>
+    <a href="https://app.rwa.xyz/" class="menu-link">{{site.data.icons.rwas}} RWA.xyz</a>
+    <a href="https://ethereumdashboards.com/" class="menu-link">{{site.data.icons.ethereum}} Dashboards</a>
+
+
+  </div>
+  <hr class="mt-auto">
+  <div class="credit">
+    <div>Contribute on <a href="https://github.com/etheralpha/ethereumadoption-com" target="_blank" class="link">Github</a></div>
+    <div>Maintained by <a href="https://twitter.com/hanni_abu" target="_blank" class="link">hanniabu.eth</a></div>
+  </div>
+</div>
+

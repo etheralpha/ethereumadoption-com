@@ -1,21 +1,26 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100 bg-blue-dark">
   {%- include partials/head.html -%}
-  <body class="d-flex flex-column min-vh-100 bg-blue-dark text-light">
+  <body class="d-lg-flex min-vh-100 bg-blue-dark text-light">
+    
+    <aside class="d-none d-lg-inline">
+      {%- include partials/menu.html -%}
+    </aside>
+    {%- include partials/menu-mobile.html -%}
 
-  	{%- include partials/nav.html -%}
+    <main class="flex-grow-1 d-flex flex-column">
 
-    {{content}}
+      {{content}}
 
-  	{%- include partials/footer.html -%}
+      <!-- page bottom padding -->
+      <div class="my-2 my-md-3"></div>
+
+      {%- include partials/footer.html -%}
+    </main>
+
     <!-- Bootstrap 5 JS -->
     {{site.bootstrap_js}}
     <!-- Custom JS -->
-  	<script src="/assets/js/main.js" type="application/javascript"></script>
-    {%- case page.name -%}
-      {%- when "custom.md" -%}
-        <script src="/assets/js/custom.js" type="application/javascript"></script>
-      {%- else -%}
-    {%- endcase -%}
+    <script src="/assets/js/main.js" type="application/javascript"></script>
   </body>
 </html>

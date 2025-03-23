@@ -1,0 +1,73 @@
+<style type="text/css">
+  #mobileMenuHeader {
+    background-color: var(--brand-blue-dark);
+    /*border-bottom: 1px solid var(--brand-line-color);*/
+    padding: 1rem 0.9rem;
+    height: 60px;
+
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 5px 0px;
+    z-index: 10;
+    position: fixed;
+    width: 100%;
+    top: 0;
+  }
+  #mobileMenuHeader .menu-brand {
+
+  }
+  #mobileMenuHeader .menu-brand a {
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    font-size: 1.25rem;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  }
+  #mobileMenuHeader .menu-brand img {
+    margin-top: -2px;
+    max-width: 150px;
+    max-height: 35px;
+    margin-left: 2px;
+    opacity: 95%;
+  }
+  #mobileMenuHeader .menu-brand svg {
+    font-size: 1.25rem;
+    margin-top: -3px;
+    margin-right: -2px;
+  }
+  #mobileMenuHeader .menu-button {
+
+  }
+
+  .offcanvas {
+    --bs-offcanvas-width: 250px;
+    background-color: var(--brand-blue-dark);
+    border-right: 1px solid var(--brand-line-color);
+    color: var(--brand-color-1)
+  }
+  .offcanvas-body {
+    padding: 0;
+    margin-top: -46px;
+  }
+</style>
+
+
+<div id="mobileMenuHeader" class="d-lg-none d-flex justify-content-between" 
+    data-bs-toggle="offcanvas" 
+    data-bs-target="#mobileMenu" 
+    aria-controls="mobileMenu">
+  <div class="menu-brand d-inline">
+    <a href="/" class="link-light fw-bold lead">
+      <!-- Ethereum Adoption -->
+      <img src="/assets/img/logo.png">
+    </a>
+  </div>
+  <div class="menu-button d-inline p-1">Menu</div>
+</div>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="mobileMenu">
+  <div class="offcanvas-header">
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    {%- include partials/menu.html -%}
+  </div>
+</div>
+
