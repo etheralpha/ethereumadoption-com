@@ -908,8 +908,11 @@
   entities:
     - Cuscal
     - Mastercard
+    - Reserve Bank of Australia
+    - Digital Finance CRC
   products:
-    - Interoperable CBDC for Trusted Web3 Commerce
+    - Interoperable CBDC
+  context: For Trusted Web3 Commerce
   chains:
     - Mainnet
   sources:
