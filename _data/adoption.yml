@@ -76,6 +76,17 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-03-21
+  status: dev
+  entities:
+    - Fidelity
+  products:
+    - FYHXX Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race"
+    - "https://www.sec.gov/Archives/edgar/data/917286/000113322825002995/ftdf-efp15119_485apos.htm"
 # - date: 2025-03-12 # unconfirmed source
 #   status: dev
 #   entities:
