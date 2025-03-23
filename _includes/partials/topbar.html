@@ -1,0 +1,45 @@
+<style type="text/css">
+  #topBar {
+    max-height: 60px;
+    min-height: 60px;
+    border-bottom: 1px solid var(--brand-line-color);
+    /*margin-bottom: 0rem;*/
+    /*background-color: #fff;*/
+    margin-left: -2rem;
+    margin-right: -2rem;
+    margin-bottom: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  @media screen and (max-width: 991px) {
+    #topBar {
+      margin-bottom: 0;
+      border: none;
+    }
+  }
+
+  .alert {
+    --bs-alert-padding-x: 0.75rem;
+    --bs-alert-padding-y: 0.25rem;
+    --bs-alert-border-radius: 1rem;
+    font-size: 0.75rem;
+    margin-bottom: 0;
+  }
+  @media screen and (max-width: 991px) {
+    .alert {
+      width: 100%;
+    }
+  }
+  .alert a {
+    color: inherit !important;
+  }
+</style>
+
+
+<div id="topBar" class="d-flex align-items-center">
+  <div class="alert alert-warning" role="alert">
+    <span class="me-1">{{site.data.icons.megaphone}}</span>
+    Currently under development, ping <a href="https://reddit.com/u/hanniabu">u/hanniabu</a> with feedback
+  </div>
+</div>
+

@@ -16,8 +16,8 @@ layout: default
 
 
 <!-- Content -->
-<section class="pb-5">
-  <div class="container">
+<section class="container">
+  <div class="pb-5">
     <div class="row justify-content-center">
       <div class="col-12 mb-4">
         <div class="card rounded-3 mx-auto bg-blue text-gray" style="max-width: 40rem;">
