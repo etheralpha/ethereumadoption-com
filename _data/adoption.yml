@@ -76,6 +76,17 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-03-24
+  status: live
+  entities:
+    - Custodia Bank
+    - Vantage Bank
+  products:
+    - Avit Stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://custodiabank.com/press/custodia-issues-Stablecoin/"
 - date: 2025-03-21
   status: dev
   entities:
