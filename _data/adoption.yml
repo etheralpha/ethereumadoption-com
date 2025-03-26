@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-03-25
+  status: dev
+  entities:
+    - World Liberty Financial
+  products:
+    - USD1 Stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.businesswire.com/news/home/20250325773694/en/World-Liberty-Financial-Plans-to-Launch-USD1-the-Institutional-Ready-Stablecoin"
 - date: 2025-03-24
   status: live
   entities:
