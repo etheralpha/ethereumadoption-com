@@ -1,7 +1,7 @@
 # compares the current day's adoption list to the previous days to check if anything new has been added
 # new additions are added to adoption-newly-added.json
 # new additions have the `is_recent` property with `True` or `False` values
-# `True` means it was added as a new news (more recent than the most recent additon from the previous day)
+# `True` means it was added as a new news (more recent than the most recent addition from the previous day)
 # `False` means it was an old event that was missing from the list
 
 import os
