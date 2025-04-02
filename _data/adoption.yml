@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-04-02
+  status: live
+  entities:
+    - Fidelity
+  products:
+    - ETH IRA Plan
+  chains:
+    - 
+  sources:
+    - "https://www.coindesk.com/business/2025/04/02/fidelity-lets-investors-directly-invest-in-crypto-through-new-retirement-plan"
 - date: 2025-03-24
   status: live
   entities:
