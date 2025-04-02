@@ -53,6 +53,15 @@
     overflow-wrap: break-word;
     text-decoration: none;
   }
+  #navMenu .menu-link .arrowicon {
+    float: right;
+  }
+  #navMenu details[open] summary > .arrowicon {
+    margin-right: 4px;
+    margin-top: 4px;
+    transform: rotate(90deg);
+    transition: all 0.1s ease 0s;
+  }
   #navMenu .menu-link svg,
   #navMenu .menu-link img {
     margin-right: 0.5rem;
