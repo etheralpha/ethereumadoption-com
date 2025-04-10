@@ -33,6 +33,7 @@
     line-height: 1rem;
     letter-spacing: 1px;
     margin-top: 1rem;
+    color: var(--brand-gray);
   }
   #navMenu .heading span {
     display: inline-block;
@@ -52,6 +53,7 @@
     margin-bottom: 0.125rem;
     overflow-wrap: break-word;
     text-decoration: none;
+    color: var(--brand-light) !important;
   }
   #navMenu .menu-link .arrowicon {
     float: right;
@@ -103,15 +105,34 @@
     </a>
   </div>
   <div class="menu-items">
+    <div class="heading mb-1">Get Started</div>
+    <a href="/" class="menu-link">Home</a>
+    <details>
+      <summary class="menu-link">
+        Start Building
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="/build-on-ethereum#primer" class="menu-link ps-4">Primer</a>
+      <a href="/build-on-ethereum#testnets" class="menu-link ps-4">Testnets</a>
+      <a href="/build-on-ethereum#build-l1" class="menu-link ps-4">Build on L1</a>
+      <a href="/build-on-ethereum#build-l2" class="menu-link ps-4">Build on L2s</a>
+      <a href="/build-on-ethereum#create-l2" class="menu-link ps-4">Create Your Own L2</a>
+      <a href="/build-on-ethereum#protocol" class="menu-link ps-4">Protocol R&D</a>
+    </details>
+
+
+    <hr>
+
+
     <div class="heading mb-1">Adoption</div>
     <details>
       <summary class="menu-link">
         Built on Ethereum
         <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
       </summary>
-      <a href="/?view=byDate" class="menu-link ps-4">By Date</a>
-      <a href="/?view=byEntity" class="menu-link ps-4">By Entity</a>
-      <a href="/?view=byNetwork" class="menu-link ps-4">By Network</a>
+      <a href="/built-on-ethereum/?view=byDate" class="menu-link ps-4">By Date</a>
+      <a href="/built-on-ethereum/?view=byEntity" class="menu-link ps-4">By Entity</a>
+      <a href="/built-on-ethereum/?view=byNetwork" class="menu-link ps-4">By Network</a>
     </details>
     <details>
       <summary class="menu-link">
@@ -204,7 +225,7 @@
 
   </div>
   <hr class="mt-auto">
-  <div class="credit">
+  <div class="credit no-underline">
     <div>Contribute on <a href="https://github.com/etheralpha/ethereumadoption-com" target="_blank" class="link">Github</a></div>
     <div>Maintained by <a href="https://twitter.com/hanni_abu" target="_blank" class="link">hanniabu.eth</a></div>
   </div>

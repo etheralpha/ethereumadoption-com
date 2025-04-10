@@ -22,5 +22,13 @@
     {{site.bootstrap_js}}
     <!-- Custom JS -->
     <script src="/assets/js/main.js" type="application/javascript"></script>
+    <script type="text/javascript">
+      window.addEventListener('load', function(event) {
+        sal({
+          threshold: 0.05
+        });
+        startCountUp();
+      });
+    </script>
   </body>
 </html>

@@ -11,7 +11,7 @@
   {%- for network in networks -%}
     {%- if network != ""  -%}
       {%- assign network_id = network | downcase | strip | replace: ' ', '-' -%}
-      <a href="#network-{{network_id}}" class="btn btn-sm me-1 mb-1">{{network}}</a>
+      <a href="#network-{{network_id}}" class="btn btn-sm btn-outline-gray me-1 mb-1">{{network}}</a>
     {%- endif -%}
   {%- endfor -%}
 </div>
