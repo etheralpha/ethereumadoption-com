@@ -1,0 +1,375 @@
+- header: Build on Ethereum L1
+  id: build-l1
+  categories:
+    - header: Getting Started
+      items:
+        - title: Docs
+          link: https://ethereum.org/en/developers/#main-content:~:text=Explore%20the%20documentation
+        - title: Tutorials
+          link: https://ethereum.org/en/developers/tutorials/
+        - title: Browser Sandboxes
+          link: https://ethereum.org/en/developers/learning-tools/
+        - title: Local Environment
+          link: https://ethereum.org/en/developers/local-environment/
+        - title: Speedrun Ethereum
+          link: https://speedrunethereum.com/
+        - title: Tooling List
+          link: https://github.com/Consensys/ethereum-developer-tools-list
+    - header: Python Dev
+      items:
+        - title: Snake Charmers
+          link: https://snakecharmers.ethereum.org/
+        - title: Web3.py
+          link: https://github.com/ethereum/web3.py
+        - title: Utilities Library
+          link: https://github.com/ethereum/eth-utils
+    - header: Grants
+      items:
+        - title: EF Ecosystem Support
+          link: https://esp.ethereum.foundation/applicants
+        - title: BuidlGuidl
+          link: https://buidlguidl.com/
+        - title: Gitcoin
+          link: https://www.gitcoin.co/
+        - title: Karma
+          link: https://gap.karmahq.xyz/funding-map
+        - title: Ecosystem Vision
+          link: https://ecosystem.vision/grants
+    - header: Enterprise General
+      items:
+        - title: Bizdev Intake (Etherealize)
+          link: https://www.etherealize.com/
+        - title: Bizdev Intake (EEA)
+          link: https://share.hsforms.com/1JzWMo8XOTLayfWpBEhQRcQ2nqjh
+        - title: Enterprise Ethereum Alliance
+          link: https://entethalliance.org/
+        - title: EEA Standards
+          link: https://entethalliance.org/resources/technical-specifications/
+        - title: CMTAT Standard (RWAs)
+          link: https://cmta.ch/standards/cmta-token-cmtat
+    - header: Enterprise Tooling
+      items:  
+        - title: Baseline Protocol
+          link: https://www.baseline-protocol.org/
+        - title: EY Nightfall Onchain Privacy
+          link: https://github.com/EYBlockchain/nightfall_3
+        - title: EY OpsChain Contract Manager
+          link: https://blockchain.ey.com/products/ocm
+        - title: EY OpsChain ESG
+          link: https://blockchain.ey.com/products/esg
+        - title: EY OpsChain Traceability
+          link: https://blockchain.ey.com/products/traceability
+        - title: EY Analyzer Reviewer
+          link: https://blockchain.ey.com/products/reviewtool
+        - title: EY Analyzer Reconciler
+          link: https://blockchain.ey.com/products/analyzer
+    # - header: Enterprise Resources
+    #   items: 
+    #     - title: SAP Digital Currency Hub
+    #       link: https://community.sap.com/t5/technology-blogs-by-sap/cross-border-payments-made-easy-with-digital-money-experience-the-future/ba-p/13560384
+    #     - title: Societe Generale FORGE
+    #       link: https://www.sgforge.com/product/bonds/
+    #     - title: 
+    #       link: 
+    #     - title: 
+    #       link: 
+    #     - title: 
+    #       link: 
+    - header: Communities
+      items:
+        - title: EthGlobal Hackathons
+          link: https://ethglobal.com/events/hackathons
+        - title: EthGlobal (Discord)
+          link: https://ethglobal.com/discord
+        - title: r/EthDev
+          link: https://reddit.com/r/ethdev
+        - title: Stack Overflow
+          link: https://ethereum.stackexchange.com/
+        - title: Solidity (Matrix)
+          link: https://matrix.to/#/#ethereum_solidity:gitter.im
+        - title: Solitity (Gitter)
+          link: https://app.gitter.im/#/room/#ethereum_solidity
+        - title: Scaffold (Telegram)
+          link: https://t.me/joinchat/KByvmRe5wkR-8F_zz6AjpA
+
+
+
+
+- header: Build on Ethereum L2s
+  id: build-l2
+  categories:
+    - header: Getting Started
+      items:
+        - title: Arbitrum One
+          link: https://docs.arbitrum.io/welcome/get-started
+        - title: Base
+          link: https://www.base.org/builders
+        - title: OP Mainnet
+          link: https://optimism.io/build
+        - title: ZKsync Era
+          link: https://docs.zksync.io/zksync-era
+        - title: Explore others
+          link: https://l2beat.com
+    - header: Resources
+      items:
+        - title: Rollup.codes
+          link: https://www.rollup.codes/
+        - title: L2BEAT
+          link: https://www.l2beat.com/
+        - title: growthepie
+          link: https://www.growthepie.xyz/
+        - title: BlobScan
+          link: https://blobscan.com/
+        - title: Rollup.wtf
+          link: https://rollup.wtf/
+    - header: Enterprise
+      items:
+        - title: Bizdev Intake (Etherealize)
+          link: https://www.etherealize.com/
+        - title: Bizdev Intake (EEA)
+          link: https://share.hsforms.com/1JzWMo8XOTLayfWpBEhQRcQ2nqjh
+        - title: Enterprise Ethereum Alliance
+          link: https://entethalliance.org/
+        - title: EEA Standards
+          link: https://entethalliance.org/resources/technical-specifications/
+        - title: CMTAT Standard (RWAs)
+          link: https://cmta.ch/standards/cmta-token-cmtat
+
+
+
+
+- header: Create Your Own L2
+  id: create-l2
+  categories:
+    - header: General
+      items:
+        - title: Bizdev Intake (Etherealize)
+          link: https://www.etherealize.com/
+        - title: Bizdev Intake (EEA)
+          link: https://share.hsforms.com/1JzWMo8XOTLayfWpBEhQRcQ2nqjh
+        - title: Enterprise Ethereum Alliance
+          link: https://entethalliance.org/
+        - title: EF Ecosystem Support
+          link: https://esp.ethereum.foundation/applicants
+        - title: 
+          link: 
+    - header: Using OP Stack
+      items:
+        - title: Website
+          link: https://optimism.io/
+        - title: Docs
+          link: https://docs.optimism.io/stack/getting-started
+        - title: Bizdev Intake
+          link: https://share.hsforms.com/1yENj8CV9TzGYBASD0JC8_gqoshb
+        - title: Grants
+          link: 
+        - title: Support Forum
+          link: https://github.com/ethereum-optimism/developers/discussions
+    - header: Using Arbitrum Orbit
+      items:
+        - title: Website
+          link: https://arbitrum.io/
+        - title: Docs
+          link: https://arbitrum.io/orbit
+        - title: Bizdev Intake
+          link: mailto:partnerships@offchainlabs.com
+        - title: Grants
+          link: https://arbitrum.foundation/grants
+        - title: Support Forum
+          link: 
+    - header: Using ZK Stack
+      items:
+        - title: Website
+          link: https://www.zksync.io/
+        - title: Docs
+          link: https://docs.zksync.io/zk-stack
+        - title: Bizdev Intake
+          link: https://www.zksync.io/enterprise
+        # - title: Grants
+        #   link: 
+        - title: Support Forum
+          link: https://github.com/zkSync-Community-Hub/zksync-developers/discussions
+    - header: Using Polygon CDK
+      items:
+        - title: Website
+          link: https://polygon.technology/polygon-cdk#
+        - title: Docs
+          link: https://docs.polygon.technology/cdk/
+        - title: Bizdev Intake
+          link: https://polygon.technology/interest-form
+        - title: Grants
+          link: https://polygon.technology/grants
+        - title: Support Forum
+          link: https://forum.polygon.technology/
+    - header: Research
+      items:
+        - title: L2 Interop
+          link: https://github.com/ethereum/L2-interop
+        - title: Open Intents
+          link: https://www.openintents.xyz/
+        - title: Fabric
+          link: https://eth-fabric.github.io/website/roadmap
+
+
+
+
+- header: Protocol R&D
+  id: protocol
+  categories:
+    - header: General
+      items:
+        - title: Consensus Specs 
+          link: https://github.com/ethereum/consensus-specs
+        - title: Execution Specs
+          link: https://github.com/ethereum/execution-specs
+        - title: Portal Specs
+          link: https://github.com/ethereum/portal-network-specs
+        - title: Execution API
+          link: https://github.com/ethereum/execution-apis
+        - title: Consensus API
+          link: https://github.com/ethereum/beacon-APIs
+        - title: EIPs
+          link: https://eips.ethereum.org/
+        - title: Ethereum Magicians
+          link: https://ethereum-magicians.org/
+        - title: Ethereum Research
+          link: https://ethresear.ch/
+        - title: Ethereum R&D Discord
+          link: https://discord.gg/ySBY56uVVH
+        - title: Ethereum Cat Herders
+          link: https://www.ethcatherders.com/
+        - title: Ethereum Protocol Fellowship
+          link: https://github.com/eth-protocol-fellows
+        - title: Protocol Guild
+          link: https://protocolguild.com/
+    - header: Breakout Groups
+      items:
+        - title: Beam
+          link: https://github.com/ethereum/pm/blob/master/Breakout-Room-Meetings/beam-chain/beam-chain-pm.md
+        - title: EOF
+          link: https://github.com/ethereum/pm/tree/master/Breakout-Room-Meetings/EOF
+        - title: ePBS
+          link: https://github.com/ethereum/pm/blob/master/Breakout-Room-Meetings/(e)PBS/(e)PBS-pm.md
+        - title: EVMMAX
+          link: https://github.com/ethereum/pm/blob/master/Breakout-Room-Meetings/EVMMAX/EVMMAX-pm.md
+        - title: FOCIL
+          link: https://github.com/ethereum/pm/blob/master/Breakout-Room-Meetings/FOCIL/FOCIL-pm.md
+        - title: Interop
+          link: https://notes.ethereum.org/@rudolf/interop-all-notes
+        - title: PeerDAS
+          link: https://github.com/ethereum/pm/blob/master/Breakout-Room-Meetings/PeerDAS/PeerDAS-pm.md
+        - title: Stateless
+          link: https://github.com/ethereum/pm/tree/master/Breakout-Room-Meetings/Stateless
+        - title: Verkle
+          link: https://github.com/ethereum/pm/tree/master/Breakout-Room-Meetings/Verkle
+    - header: R&D Pages
+      items:
+        - title: Beam
+          link: https://beamroadmap.vercel.app/
+        - title: EIP 4844
+          link: https://www.eip4844.com/
+        - title: ERC 7683
+          link: https://www.erc7683.org/
+        - title: Fabric
+          link: https://eth-fabric.github.io/website/roadmap
+        - title: FOCIL
+          link: https://meetfocil.eth.limo/
+        - title: Issuance
+          link: https://issuance.wtf/
+        - title: Open Intents
+          link: https://www.openintents.xyz/
+        - title: Purified Web3
+          link: https://purified-web3.box/
+        - title: Stateless
+          link: https://stateless.fyi/
+        - title: zkEVM Formal Verification
+          link: https://verified-zkevm.org/
+    - header: Research Groups
+      items:
+        - title: Ethereum Security
+          link: https://security.ethereum.org/blog
+        - title: Flashbots
+          link: https://collective.flashbots.net/
+        - title: Nethermind
+          link: https://www.nethermind.io/nethermind-research#research
+        - title: Paradigm
+          link: https://www.paradigm.xyz/writing?page=1&s=0&sort=newest&tags=research
+        - title: Poseidon Initiative
+          link: https://www.poseidon-initiative.info/
+        - title: PSE
+          link: https://pse.dev/en/research
+        - title: Summer of Protocols
+          link: https://summerofprotocols.com/research
+    - header: R&D Blogs
+      items:
+        - title: Twitter List
+          link: https://x.com/i/lists/1909347806420386125
+        - title: Dankrad Feist
+          link: https://dankradfeist.de/
+        - title: Danny Ryan
+          link: https://github.com/djrtwo/writing
+        - title: Data Always
+          link: https://github.com/dataalways/writing
+        - title: Ipsilon
+          link: https://notes.ethereum.org/@ipsilon
+        - title: Josh Rudolf
+          link: https://notes.ethereum.org/@rudolf
+        - title: Kevaundray
+          link: https://hackmd.io/@kevaundray
+        - title: Ladislaus
+          link: https://mirror.xyz/ladislaus.eth
+        - title: Luca Zanolini
+          link: https://lucazanolini.com/posts/
+        - title: Mike Neuder
+          link: https://hackmd.io/@mikeneuder
+        - title: Terence Tsao
+          link: https://hackmd.io/@ttsao
+        - title: Toni Wahrstaetter
+          link: https://blog.toniwahrstaetter.com/
+        - title: Vitalik Buterin
+          link: https://vitalik.eth.limo/
+    - header: Tooling
+      items:
+        - title: Execution Tests
+          link: https://github.com/ethereum/tests
+        - title: Hive Integration Tests
+          link: https://github.com/ethereum/hive
+        - title: Kurtosis Devnet Deployment
+          link: https://github.com/ethpandaops/ethereum-package
+        - title: Tracoor
+          link: https://tracoor.mainnet.ethpandaops.io/
+        - title: Forkmon
+          link: https://forkmon.mainnet.ethpandaops.io/
+        - title: Forky
+          link: https://forky.mainnet.ethpandaops.io/
+    - header: Communities
+      items:
+        - title: Besu
+          link: https://discord.com/invite/hyperledger
+        # - title: Erigon
+        #   link: 
+        - title: Geth
+          link: https://discord.com/invite/nthXNEv
+        - title: Grandine
+          link: https://discord.gg/H9XCdUSyZd
+        - title: Lambda
+          link: https://t.me/lambdaconsensus
+        - title: Lighthouse
+          link: https://discord.gg/cyAszAh
+        - title: Lodestar
+          link: https://discord.gg/yjyvFRP
+        - title: Nethermind
+          link: https://discord.com/invite/PaCMRFdvWT
+        - title: Nimbus
+          link: https://discord.gg/qnjVyhatUa
+        - title: Prysm
+          link: https://discord.gg/YMVYzv6
+        - title: Reth
+          link: https://t.me/paradigm_reth
+        - title: Teku
+          link: https://discord.gg/9mCVSY6
+
+
+
+
+

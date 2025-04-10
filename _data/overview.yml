@@ -1,0 +1,16 @@
+# Used for the homepage overview metrics
+rwas:
+  amount: 7.5
+  unit: B
+stablecoins:
+  amount: 140
+  unit: B
+tvl:
+  amount: 55
+  unit: B
+exported:
+  amount: 4.5
+  unit: M
+reserves:
+  amount: 600
+  unit: k
