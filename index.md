@@ -330,7 +330,7 @@ layout: default
 
   function startCountUp() {
     const options = {
-      decimalPlaces: 0,
+      decimalPlaces: 0
     };
     const overviewRWA = new countUp.CountUp("overviewRWA", {{site.data.overview.rwas.amount}}, options);
     const overviewStablecoins = new countUp.CountUp("overviewStablecoins", {{site.data.overview.stablecoins.amount}}, options);
