@@ -41,7 +41,7 @@ function setQueryParameters(params=false) {
     }
   }
   anchor = (anchor == "" || anchor == undefined) ? "" : `#${anchor}`;
-  let url = `{{site.url}}/${params}${anchor}`;
+  let url = `{{site.url}}/built-on-ethereum${params}${anchor}`;
   url = url.replace("localhost", "127.0.0.1");
   window.history.replaceState(null, "", url);
 }
