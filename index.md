@@ -18,7 +18,7 @@ layout: default
         <div class="col-sm-6 col-md-4 col-lg-6 col-xl-4">
           <div class="card pop h-100">
             <div class="card-body">
-              <h3 class="card-title">$<span id="overviewRWA">7.5</span>B+</h3>
+              <h3 class="card-title">$<span id="overviewRWA">{{site.data.overview.rwas.amount}}</span>{{site.data.overview.rwas.unit}}+</h3>
               <p class="card-text">RWAs</p>
             </div>
           </div>
@@ -26,7 +26,7 @@ layout: default
         <div class="col-sm-6 col-md-4 col-lg-6 col-xl-4">
           <div class="card pop h-100">
             <div class="card-body">
-              <h3 class="card-title">$<span id="overviewStablecoins">140</span>B+</h3>
+              <h3 class="card-title">$<span id="overviewStablecoins">{{site.data.overview.stablecoins.amount}}</span>{{site.data.overview.stablecoins.unit}}+</h3>
               <p class="card-text">Stablecoins</p>
             </div>
           </div>
@@ -34,7 +34,7 @@ layout: default
         <div class="col-sm-12 col-md-4 col-lg-6 col-xl-4">
           <div class="card pop h-100">
             <div class="card-body">
-              <h3 class="card-title">$<span id="overviewTVL">55</span>B+</h3>
+              <h3 class="card-title">$<span id="overviewTVL">{{site.data.overview.tvl.amount}}</span>{{site.data.overview.tvl.unit}}+</h3>
               <p class="card-text">Total Value Locked</p>
             </div>
           </div>
@@ -42,7 +42,7 @@ layout: default
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
           <div class="card pop h-100">
             <div class="card-body">
-              <h3 class="card-title">Ξ<span id="overviewExported">4.5</span>M+</h3>
+              <h3 class="card-title">Ξ<span id="overviewExported">{{site.data.overview.exported.amount}}</span>{{site.data.overview.exported.unit}}+</h3>
               <p class="card-text">ETH Exported to L2s</p>
             </div>
           </div>
@@ -50,7 +50,7 @@ layout: default
         <div class="col-sm-12 col-md-6 col-lg-12 col-xl-6">
           <div class="card pop h-100">
             <div class="card-body">
-              <h3 class="card-title">Ξ<span id="overviewReserves">500</span>k+</h3>
+              <h3 class="card-title">Ξ<span id="overviewReserves">{{site.data.overview.reserves.amount}}</span>{{site.data.overview.reserves.unit}}+</h3>
               <p class="card-text">Strategic Reserves Held in ETH</p>
             </div>
           </div>
@@ -322,7 +322,6 @@ layout: default
 
 <script>
   window.addEventListener('load', function(event) {
-    // AOS.init();
     sal({
       threshold: 0.25
     });
@@ -330,11 +329,14 @@ layout: default
   });
 
   function startCountUp() {
-    const overviewRWA = new countUp.CountUp("overviewRWA", 7.5);
-    const overviewStablecoins = new countUp.CountUp("overviewStablecoins", 140);
-    const overviewTVL = new countUp.CountUp("overviewTVL", 55);
-    const overviewExported = new countUp.CountUp("overviewExported", 4.5);
-    const overviewReserves = new countUp.CountUp("overviewReserves", 500);
+    const options = {
+      decimalPlaces: 0,
+    };
+    const overviewRWA = new countUp.CountUp("overviewRWA", {{site.data.overview.rwas.amount}}, options);
+    const overviewStablecoins = new countUp.CountUp("overviewStablecoins", {{site.data.overview.stablecoins.amount}}, options);
+    const overviewTVL = new countUp.CountUp("overviewTVL", {{site.data.overview.tvl.amount}}, options);
+    const overviewExported = new countUp.CountUp("overviewExported", {{site.data.overview.exported.amount}}, options);
+    const overviewReserves = new countUp.CountUp("overviewReserves", {{site.data.overview.reserves.amount}}, options);
     overviewRWA.start();
     overviewStablecoins.start();
     overviewTVL.start();
