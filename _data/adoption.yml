@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-04-03
+  status: live
+  entities:
+    - BNY Mellon
+  products:
+    - Digital Asset Data Insights
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-expands-digital-asset-platform-with-launch-of-innovative-on-chain-offering.html"
 - date: 2025-04-02
   status: live
   entities:
