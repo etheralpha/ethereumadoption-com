@@ -96,6 +96,17 @@
     - 
   sources:
     - "https://www.coindesk.com/business/2025/04/02/fidelity-lets-investors-directly-invest-in-crypto-through-new-retirement-plan"
+- date: 2025-03-25
+  status: live
+  entities:
+    - The Seven Deadly Sins anime
+  products:
+    - Official NFT collection 
+  chains:
+    - Soneium
+  sources:
+    - "https://prtimes.jp/main/html/rd/p/000000013.000135510.html"
+    - "https://www.animenewsnetwork.com/press-release/2025-03-25/yoake-partners-with-opensea-to-bring-iconic-multimedia-franchise-the-seven-deadly-sins-on-soneium/.222843"
 - date: 2025-03-24
   status: live
   entities:
