@@ -67,10 +67,44 @@
   {{site.bootstrap_css}}
 
   <!-- Custom CSS -->
-  <link rel="stylesheet" type="text/css" href="{{base_site}}/assets/css/main.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+  <!-- Sal CSS -->
+  <link href="https://unpkg.com/sal.js@0.8.2/dist/sal.css" rel="stylesheet">
 
   <!-- Chart JS -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <!-- CountUp.js -->
+  <script src="https://inorganik.github.io/countUp.js/dist/countUp.umd.js"></script>
+  <!-- Sal JS -->
+  <script src="https://unpkg.com/sal.js@0.8.2/dist/sal.js"></script>
+
+
+  <!-- For Sal JS -->
+  <style>
+    :root {
+      --sal-duration: 0.6s;
+    }
+  </style>
+  <noscript>
+    <!-- For Sal JS -->
+    <style type="text/css">
+      [data-sal|='fade'] {
+        opacity: 1;
+      }
+
+      [data-sal|='slide'],
+      [data-sal|='zoom'] {
+        opacity: 1;
+        transform: none;
+      }
+
+      [data-sal|='flip'] {
+        transform: none;
+      }
+    </style>
+  </noscript>
+
+
 
   <script type="text/javascript">
     let adoption = {{ site.data.adoption | jsonify }}
