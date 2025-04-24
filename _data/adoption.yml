@@ -76,16 +76,16 @@
 # Please enter in date order
 
 # 2025
-- date: 2025-04-03
+- date: 2025-04-23
   status: live
   entities:
-    - BNY Mellon
+    - Ubisoft
   products:
-    - Digital Asset Data Insights
+    - Might & Magic Card Exchange
   chains:
-    - Mainnet
+    - Immutable
   sources:
-    - "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-expands-digital-asset-platform-with-launch-of-innovative-on-chain-offering.html"
+    - "https://collectorclub.co.uk/trading-cards/ubisoft-announces-new-trading-card-game-might-magic-fates/"
 - date: 2025-04-02
   status: live
   entities:
@@ -1209,6 +1209,17 @@
     - Mainnet
   sources:
     - "https://www.coindesk.com/web3/2023/02/23/spotify-is-testing-token-enabled-music-playlists/"
+# - date: 2023-02-14
+#   status: 
+#   entities:
+#     - Siemens
+#   products:
+#     - Digital Bond
+#   chains:
+#     - Polygon
+#   sources:
+#     - "https://press.siemens.com/global/en/pressrelease/siemens-issues-first-digital-bond-blockchain"
+#     - "https://www.coindesk.com/business/2023/02/14/siemens-issues-blockchain-based-euro-denominated-bond-on-polygon-blockchain"
 - date: 2023-01-13
   status: live
   entities:

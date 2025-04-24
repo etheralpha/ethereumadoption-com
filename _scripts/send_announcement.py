@@ -33,7 +33,7 @@ def send_announcement(msg):
       'reply_markup': json.dumps({
         'inline_keyboard': [[{
           'text': 'EthereumAdoption.com',
-          'url': 'https://ethereumadoption.com'
+          'url': 'https://ethereumadoption.com/built-on-ethereum/'
         }]]
       })
     }
