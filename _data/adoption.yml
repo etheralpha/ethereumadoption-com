@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-04-30
+  status: live
+  entities:
+    - Visa
+  products:
+    - Stablecoin Cards
+  chains:
+    - 
+  sources:
+    - "https://investor.visa.com/news/news-details/2025/Visa-and-Bridge-Partner-to-Make-Stablecoins-Accessible-for-Everyday-Purchases/default.aspx"
 - date: 2025-04-28
   status: dev
   entities:
