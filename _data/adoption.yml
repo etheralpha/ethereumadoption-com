@@ -86,6 +86,16 @@
     - Immutable X
   sources:
     - "https://collectorclub.co.uk/trading-cards/ubisoft-announces-new-trading-card-game-might-magic-fates/"
+- date: 2025-04-03
+  status: live
+  entities:
+    - BNY Mellon
+  products:
+    - Digital Asset Data Insights
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-expands-digital-asset-platform-with-launch-of-innovative-on-chain-offering.html"
 - date: 2025-04-02
   status: live
   entities:
@@ -1281,7 +1291,7 @@
   entities:
     - BNY Mellon
   products:
-    - Custody Platform
+    - Digital Asset Platform
   chains:
     - Mainnet
   sources:
