@@ -43,9 +43,7 @@ def send_announcement(msg):
 
 
 
-send_announcement("""UBISOFT ANNOUNCES MIGHT & MAGIC CARD EXCHANGE WITH SUPPORT FOR IMMUTABLE X
-
-https://collectorclub.co.uk/trading-cards/ubisoft-announces-new-trading-card-game-might-magic-fates/
+send_announcement("""
 """)
 
 

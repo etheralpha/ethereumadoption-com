@@ -37,6 +37,9 @@ layout: default
     if (entry["status"] == "dev") {
       verb = "ANNOUNCES PLAN FOR"
     }
+    if (entry["entities"].length > 1) {
+      verb = verb.replace("ANNOUNCES", "ANNOUNCE")
+    }
     let entryText = `${date}<br><br><br>${entities} ${verb} ${products}${support}<br><br>${source}<br><hr><br><br><br>`;
     entriesText += entryText;
 
