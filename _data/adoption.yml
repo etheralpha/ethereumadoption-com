@@ -76,18 +76,18 @@
 # Please enter in date order
 
 # 2025
-# - date: 2025-04-28
-#   status: dev
-#   entities:
-#     - BlackRock
-#     - BNY Mellon
-#   products:
-#     - Treasury Trust Fund DLT Shares
-#   chains:
-#     - Mainnet
-#   sources:
-#     - "https://www.sec.gov/Archives/edgar/data/97098/000119312525100851/d100482d485apos.htm"
-#     - "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-expands-digital-asset-platform-with-launch-of-innovative-on-chain-offering.html"
+- date: 2025-04-28
+  status: dev
+  entities:
+    - BlackRock
+    - BNY Mellon
+  products:
+    - Treasury Trust Fund DLT Shares
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.sec.gov/Archives/edgar/data/97098/000119312525100851/d100482d485apos.htm"
+    - "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-expands-digital-asset-platform-with-launch-of-innovative-on-chain-offering.html"
 - date: 2025-04-23
   status: live
   entities:
