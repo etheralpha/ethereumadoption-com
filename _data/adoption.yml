@@ -330,11 +330,12 @@
     - Standard Chartered
   products:
     - Stablecoin Reserve Management
-  chains:
-    - Mainnet
-    - Arbitrum
+  chains: # no chains mentioned in article but the USDG and USDL they will manage are on Mainnet (both) and Artbitrum (USGL)
+    # - Mainnet
+    # - Arbitrum
   sources:
     - "https://www.paxos.com/newsroom/paxos-and-standard-chartered-lead-the-way-in-stablecoin-reserve-management"
+    - "https://www.paxos.com/newsroom/yield-bearing-stablecoin-lift-dollar-usdl-launches-on-arbitrum"
 - date: 2024-11-25
   status: live
   entities:
