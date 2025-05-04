@@ -47,6 +47,8 @@
           link: https://entethalliance.org/resources/technical-specifications/
         - title: CMTAT Standard (RWAs)
           link: https://cmta.ch/standards/cmta-token-cmtat
+        - title: GDPR Guidelines
+          link: https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-022025-processing-personal-data_en
     - header: Enterprise Tooling
       items:  
         - title: Baseline Protocol
