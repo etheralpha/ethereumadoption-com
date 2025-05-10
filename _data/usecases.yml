@@ -99,10 +99,12 @@
       link: "https://zksync.mirror.xyz/kWRhD81C7il4YWGrkDplfhIZcmViisRe3lnsmbvOEmg"
     - title: Open Passport
       link: "https://www.openpassport.app/"
-# - category: Inventory
-#   examples:
-#     - title:
-#       link: "?"
+ - category: Inventory
+   examples:
+     - title: Zerion
+       link: "https://zerion.io/"
+     - title: Debank
+       link: "https://debank.com/"
 - category: Healthcare
   examples:
     - title: Singapore Government Verify
@@ -210,5 +212,9 @@
   examples:
     - title: Charmverse
       link: "https://www.charmverse.io/"
+- category: Infrastructure
+   examples: 
+   - title: StarkWare 
+      link: https://starkware.co/
 
 
