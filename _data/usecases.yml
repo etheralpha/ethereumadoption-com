@@ -210,5 +210,11 @@
   examples:
     - title: Charmverse
       link: "https://www.charmverse.io/"
+ - category: Infrastructure & Scaling Solutions
+   examples:
+     - title: StarkWare
+       link: "https://starkware.co/"
+     - title: ConsenSys
+       link: "https://consensys.io/"
 
 
