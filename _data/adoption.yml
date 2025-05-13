@@ -68,6 +68,8 @@
 #     - 
 #   chains:
 #     - 
+#   stack:
+#     - 
 #   sources:
 #     - 
 
@@ -76,6 +78,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-05-12
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - WonderFi L2
+  chains:
+    - WonderFi # uses ZK Stack
+  sources:
+    - "https://www.wonder.fi/press-release/wonderfi-enters-into-definitive-agreement-to-be-acquired-by-robinhood-markets"
 - date: 2025-05-07
   status: live
   entities:
