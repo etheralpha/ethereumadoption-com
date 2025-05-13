@@ -68,8 +68,6 @@
 #     - 
 #   chains:
 #     - 
-#   stack:
-#     - 
 #   sources:
 #     - 
 
@@ -83,9 +81,9 @@
   entities:
     - Robinhood
   products:
-    - WonderFi L2
+    - Wonder L2
   chains:
-    - WonderFi # uses ZK Stack
+    - Wonder # uses ZK Stack
   sources:
     - "https://www.wonder.fi/press-release/wonderfi-enters-into-definitive-agreement-to-be-acquired-by-robinhood-markets"
 - date: 2025-05-07
