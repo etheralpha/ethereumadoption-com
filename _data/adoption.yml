@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-05-07
+  status: live
+  entities:
+    - Stripe
+  products:
+    - Stablecoin Financial Accounts
+  chains:
+    - 
+  sources:
+    - "https://stripe.com/newsroom/news/sessions-2025"
 - date: 2025-04-30
   status: live
   entities:
