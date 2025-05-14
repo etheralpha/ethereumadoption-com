@@ -74,7 +74,7 @@ layout: default
           <h5 class="card-title">Hoodi</h5>
           <p class="card-text">
             <p>
-              <div>Usage: Validators</div>
+              <div>Usage: Validators / Infrastructure</div>
               <div>Support Ends: Dec 2028</div>
               <div>Network ID: 560048</div>
               <div class="d-none">
@@ -130,7 +130,7 @@ layout: default
           <h5 class="card-title">Holesky</h5>
           <p class="card-text">
             <p>
-              <div>Usage: Validators</div>
+              <div>Usage: Validators / Infrastructure</div>
               <div>Support Ends: Q4 2025</div>
               <div>Network ID: 17000</div>
               <div class="d-none">
