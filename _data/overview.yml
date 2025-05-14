@@ -12,5 +12,5 @@ exported:
   amount: 4.34
   unit: M
 reserves:
-  amount: 600
+  amount: 800
   unit: k
