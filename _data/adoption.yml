@@ -107,6 +107,16 @@
   sources:
     - "https://investor.visa.com/news/news-details/2025/Visa-and-Bridge-Partner-to-Make-Stablecoins-Accessible-for-Everyday-Purchases/default.aspx"
 - date: 2025-04-28
+  status: live
+  entities:
+    - Moss Genomics
+  products:
+    - ETH Treasury
+  chains:
+    - 
+  sources:
+    - "https://webfiles.thecse.com/249949.pdf?lasI55eVN83YRmeiG53sTst6VM.eOLMH"
+- date: 2025-04-28
   status: dev
   entities:
     - BlackRock
