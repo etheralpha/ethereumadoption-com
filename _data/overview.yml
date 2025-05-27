@@ -1,16 +1,16 @@
 # Used for the homepage overview metrics
 rwas:
-  amount: 9.1
+  amount: 10
   unit: B
 stablecoins:
   amount: 132
   unit: B
 tvl:
-  amount: 60.3
+  amount: 73.5
   unit: B
 exported:
   amount: 4.34
   unit: M
 reserves:
-  amount: 800
-  unit: k
+  amount: 1
+  unit: M
