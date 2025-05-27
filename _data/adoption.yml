@@ -76,6 +76,36 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-05-27
+  status: live
+  entities:
+    - Deutsche Bank
+  products:
+    - Memento L2
+  chains:
+    - Momento # ZK Stack
+  sources:
+    - "https://zksync.mirror.xyz/-22Hu5ugeOtchnp1ut44Zehfh5yolKlu9nubFdJLMD0"
+- date: 2025-05-27
+  status: live
+  entities:
+    - SharpLink
+  products:
+    - Strategic Ether Reverse
+  chains:
+    - 
+  sources:
+    - "https://investors.sharplink.com/sharplink-gaming-announces-425000000-private-placement-to-initiate-ethereum-treasury-strategy/"
+- date: 2025-05-19
+  status: live
+  entities:
+    - Entreparticuliers
+  products:
+    - Strategic Ether Reverse
+  chains:
+    - 
+  sources:
+    - "https://www.actusnews.com/en/entreparticuliers/pr/2025/05/19/building-a-strategic-ether-reverse"
 - date: 2025-05-12
   status: live
   entities:
@@ -111,7 +141,7 @@
   entities:
     - Moss Genomics
   products:
-    - ETH Treasury
+    - Strategic Ether Reverse
   chains:
     - 
   sources:
@@ -237,7 +267,7 @@
   entities:
     - BioNexus Gene Lab
   products:
-    - ETH Treasury
+    - Strategic Ether Reverse
   chains:
     - 
   sources:
@@ -376,16 +406,16 @@
 
 
 # 2024
-- date: 2024-12-18
-  status: dev
-  entities:
-    - Deutsche Bank
-  products:
-    - L2
-  chains:
-    - # "using ZKsync technology"
-  sources:
-    - "https://cointelegraph.com/news/deutsche-bank-layer-2-blockchain-ethereum-zksync"
+# - date: 2024-12-18 # live 2025-05-27
+#   status: dev
+#   entities:
+#     - Deutsche Bank
+#   products:
+#     - L2
+#   chains:
+#     - # "using ZKsync technology"
+#   sources:
+#     - "https://cointelegraph.com/news/deutsche-bank-layer-2-blockchain-ethereum-zksync"
 # - date: 2024-12-13 # was likely on DL3S, not Ethereum
 #   status: live
 #   entities:
@@ -1379,6 +1409,26 @@
     - Immutable X
   sources:
     - "https://www.veve.me/collectibles/en/series/69f2ca17-ebc6-4f55-b3fa-5c299e5a81f3"
+- date: 2022-07-12
+  status: live
+  entities:
+    - EDF Energy
+  products:
+    - ESG Bond
+  chains:
+    - Mainnet
+  sources:
+    - "https://cib.bnpparibas/edf-issues-esg-tokenised-bond-with-bnp-paribas-asset-foundry/"
+- date: 2022-07-12
+  status: live
+  entities:
+    - BNP Paribas
+  products:
+    - AssetFoundry
+  chains:
+    - Mainnet
+  sources:
+    - "https://cib.bnpparibas/edf-issues-esg-tokenised-bond-with-bnp-paribas-asset-foundry/"
 - date: 2022-07-11
   status: live
   entities:
