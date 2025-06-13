@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-06-12
+  status: live
+  entities:
+    - Shopify
+  products:
+    - USDC Payments
+  chains:
+    - Base
+  sources:
+    - "https://www.shopify.com/news/stablecoins-on-shopify"
 - date: 2025-05-27
   status: live
   entities:
