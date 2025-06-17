@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-06-17
+  status: dev
+  entities:
+    - JPMorgan
+  products:
+    - JPMD Stablecoin
+  chains:
+    - Base
+  sources:
+    - "https://archive.fo/IR99q"
 - date: 2025-06-12
   status: live
   entities:
@@ -1872,7 +1882,7 @@
     - Fubon Financial
     - ING
     - Intel
-    - JP Morgan
+    - JPMorgan
     - Microsoft
     - Santander
     - Telindus
