@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-06-20
+  status: live
+  entities:
+    - Baillie Gifford
+  products:
+    - Tokenized Strategic Bond Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://capitalpioneer.co.uk/revealed-first-uk-tokenised-fund/"
 - date: 2025-06-17
   status: dev
   entities:
