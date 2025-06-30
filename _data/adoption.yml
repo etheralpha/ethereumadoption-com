@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-06-30
+  status: 
+  entities:
+    - Robinhood
+  products:
+    - Stock Tokens
+  chains:
+    - Arbitrum
+  sources:
+    - "https://newsroom.aboutrobinhood.com/robinhood-launches-stock-tokens-reveals-layer-2-blockchain-and-expands-crypto-suite-in-eu-and-us-with-perpetual-futures-and-staking"
 - date: 2025-06-20
   status: live
   entities:
