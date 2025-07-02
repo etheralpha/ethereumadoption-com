@@ -77,7 +77,18 @@
 
 # 2025
 - date: 2025-06-30
-  status: 
+  status: dev
+  entities:
+    - Robinhood
+  products:
+    - Robinhood Chain
+  chains:
+    - Robinhood Chain
+  sources:
+    - "https://newsroom.aboutrobinhood.com/robinhood-launches-stock-tokens-reveals-layer-2-blockchain-and-expands-crypto-suite-in-eu-and-us-with-perpetual-futures-and-staking"
+    - "https://x.com/vladtenev/status/1940308314144883074"
+- date: 2025-06-30
+  status: live
   entities:
     - Robinhood
   products:
