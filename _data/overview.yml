@@ -1,16 +1,21 @@
 # Used for the homepage overview metrics
+
+# https://app.rwa.xyz/networks
 rwas:
-  amount: 10.3
+  amount: 10.85
   unit: B
+# https://www.growthepie.com/fundamentals/stablecoin-market-cap
 stablecoins:
-  amount: 142.5
+  amount: 143.77
   unit: B
+# https://defillama.com/chains   w/ staking (gov tokens) + liquid staking checked
 tvl:
-  amount: 189
+  amount: 114
   unit: B
 exported:
   amount: 4.34
   unit: M
+# https://www.strategicethreserve.xyz/
 reserves:
-  amount: 1.168
+  amount: 1.32
   unit: M

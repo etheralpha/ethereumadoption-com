@@ -10,6 +10,14 @@
   --brand-radius: 0.375rem;
   --brand-line-color: #2a3449;
   --brand-transition: 100ms ease-in;
+  --brand-transition: 80ms ease-in;
+
+
+
+  /*used for tables, need to refactor*/
+  --brand-bg-1: #191f31;
+  --brand-bg-3: #101521;
+  --brand-bg-4: #202636;
 }
 
 
@@ -226,7 +234,127 @@ input::placeholder {
 
 
 
+@media screen and (min-width: 1300px) {
+  .table-responsive {
+    overflow: visible;
+  }
+}
+table, .table {
+  --bs-table-color: #fff;
+  color: #fff;
+  border-color: var(--brand-line-color);
+  margin-bottom: 0;
+  
+}
+thead {
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+thead tr {
+  border-color: var(--brand-line-color);
+}
+thead th {
+  padding: 0.85rem 0.5rem !important;
+  color: rgba(255,255,255,0.7) !important;
+  background-color: var(--brand-bg-3) !important;
+  font-weight: 400 !important;
+  /*text-wrap: nowrap !important;*/
+}
+tbody td, tbody th {
+  font-weight: normal;
+}
+tbody td {
+  vertical-align: middle;
+  /*text-wrap: nowrap !important;*/
+  background-color: var(--brand-bg-1) !important;
+  padding: 0.725rem 1rem !important;
+  border-bottom: 0;
+  border-top: 1px solid var(--brand-line-color);
+}
+tbody tr:first-child td {
+  /*padding-top: 1rem;*/
+}
+table tr td:first-child {
+  border-color: var(--brand-line-color);
+}
+td:not(:first-child),
+th:not(:first-child) {
+  /*text-align: center;*/
+  min-width: 7rem;
+}
 
+/*lock header and first column on scroll*/
+@media screen and (max-width: 991px) {
+  .table-responsive {
+    max-height: 90vh;
+    overflow: scroll;
+  }
+}
+.table>thead {
+  /*background-color: var(--brand-bg-4);*/
+  background-color: var(--brand-bg-3) !important;
+  position: sticky;
+  top: -1px;
+  z-index: 2;
+}
+.table th:first-child,
+.table td:first-child {
+  position: sticky;
+  left: 0;
+  background-color: var(--brand-bg-1);
+  width: 10rem;
+  z-index: 1;
+}
+
+/*wrap first column if too long*/
+table tr td:first-child {
+  /*max-width: 57vw !important;*/
+  /*word-wrap: normal;*/
+  /*text-wrap: unset !important;*/
+}
+/*highlight row on hover*/
+tr:focus td,
+tr:active td,
+tr:hover td {
+  background-color: var(--brand-bg-4) !important;
+  -webkit-transition: background-color var(--brand-transition);
+  -ms-transition: background-color var(--brand-transition);
+  transition: background-color var(--brand-transition);
+}
+/*show pointer if details (modal)*/
+tr.details:hover td {
+  cursor: pointer;
+}
+/*disables highlight and modal*/
+table tr.protocol-disabled {
+  opacity: 0.75;
+  cursor: default;
+  pointer-events: none;
+}
+thead th svg {
+  height: 1.35em;
+  width: 1.35em;
+  margin-top: -2px;
+}
+table img {
+  max-height: 0.875rem !important;
+  max-width: 0.875rem !important;
+}
+table .btn {
+  --bs-btn-padding-y: 0.2rem;
+  --bs-btn-padding-x: 0.5rem;
+  --bs-btn-font-size: 0.8rem;
+  --bs-btn-border-radius: var(--brand-radius);
+}
+table .sort svg {
+  margin-top: -3px;
+  cursor: pointer;
+}
+
+
+
+/*built on ethereum*/
 .chart {
   width:100%;
   max-width:600px;
@@ -307,7 +435,7 @@ input::placeholder {
 
 
 
-
+/*home page*/
 #industryLeaders .col {
   position: relative;
   /*border: solid 1px #fff;*/
@@ -324,9 +452,20 @@ input::placeholder {
 }
 
 
-
-
-
-
+/*reports*/
+@media screen and (min-width: 600px) {
+  #reportsTable tr td:first-child {
+    /*min-width: 3em;*/
+    white-space: nowrap;
+  }
+}
+#reportsTable td:not(:first-child),
+#reportsTable th:not(:first-child) {
+  /*min-width: 9rem;*/
+}
+#reportsTable td:last-child,
+#reportsTable th:last-child {
+  /*min-width: 4rem;*/
+}
 
 

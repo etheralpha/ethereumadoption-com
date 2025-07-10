@@ -1,0 +1,23 @@
+# SCHEMA
+# - title: # string; report title
+#   author: # string; author of report
+#   link: # string; link to report
+
+
+# Template to copy for new entries
+# - title: 
+#   author: 
+#   link: 
+
+
+# Entries shown in order listed
+- title: The Bull Case for ETH
+  author: Ethereum Community
+  link: https://ethdigitaloil.com/
+- title: Blockchains as Emerging Economies
+  author: Fidelity
+  link: https://institutional.fidelity.com/app/proxy/content?literatureURL=/9919383.PDF
+- title: "Beyond Stablecoins: The Case for Ethereum"
+  author: Electric Capital
+  link: https://electriccapital.substack.com/p/beyond-stablecoins-the-case-for-ethereum
+
