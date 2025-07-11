@@ -35,7 +35,7 @@ layout: default
 
 
 <!-- Content -->
-<section id="reports" class="pb-5 dd-none">
+<section id="reports" class="pb-5">
   <div class="container">
     <div class="table-responsive mx-auto" style="max-width: 40rem;">
       <table id="reportsTable" class="table">
