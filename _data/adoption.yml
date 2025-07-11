@@ -76,17 +76,29 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-07-09
+  status: dev
+  entities:
+    - HSBC
+    - Hong Kong Monetary Authority
+  products:
+    - Project e-HKD+
+  chains:
+    - Mainnet
+    - Arbitrum
+    - Linea
+  sources:
+    - "https://www.about.hsbc.com.hk/news-and-media/hsbc-reveals-new-technical-and-commercial-insights-under-hkmas-project-e-hkd"
 - date: 2025-07-08
   status: dev
   entities:
-     - GameSquare
+    - GameSquare
   products:
-     - Strategic Ether Reserve
+    - Strategic Ether Reserve
   chains:
-     - 
+    - 
   sources:
-     - "https://investors.gamesquare.com/news/news-details/2025/GameSquare-Announces-Pricing-of-Underwritten-Public-Offering-to-Launch-Ethereum-Treasury-Strategy/default.aspx"
-
+    - "https://investors.gamesquare.com/news/news-details/2025/GameSquare-Announces-Pricing-of-Underwritten-Public-Offering-to-Launch-Ethereum-Treasury-Strategy/default.aspx"
 - date: 2025-06-30
   status: dev
   entities:
@@ -98,6 +110,16 @@
   sources:
     - "https://newsroom.aboutrobinhood.com/robinhood-launches-stock-tokens-reveals-layer-2-blockchain-and-expands-crypto-suite-in-eu-and-us-with-perpetual-futures-and-staking"
     - "https://x.com/vladtenev/status/1940308314144883074"
+- date: 2025-06-30
+  status: live
+  entities:
+    - Robinhood
+  products:
+    - ETH Staking
+  chains:
+    - 
+  sources:
+    - "https://newsroom.aboutrobinhood.com/robinhood-launches-stock-tokens-reveals-layer-2-blockchain-and-expands-crypto-suite-in-eu-and-us-with-perpetual-futures-and-staking"
 - date: 2025-06-30
   status: live
   entities:
