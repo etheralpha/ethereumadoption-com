@@ -76,6 +76,17 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-07-08
+  status: dev
+  entities:
+     - GameSquare
+  products:
+     - Strategic Ether Reserve
+  chains:
+     - 
+  sources:
+     - "https://investors.gamesquare.com/news/news-details/2025/GameSquare-Announces-Pricing-of-Underwritten-Public-Offering-to-Launch-Ethereum-Treasury-Strategy/default.aspx"
+
 - date: 2025-06-30
   status: dev
   entities:
@@ -117,6 +128,7 @@
     - Base
   sources:
     - "https://archive.fo/IR99q"
+    - "https://www.jpmorgan.com/payments/newsroom/kinexys-usd-digital-deposit-tokens"
 - date: 2025-06-12
   status: live
   entities:
