@@ -15,18 +15,26 @@
           link: https://speedrunethereum.com/
         - title: Tooling List
           link: https://github.com/Consensys/ethereum-developer-tools-list
-    - header: Python Dev
-      items:
-        - title: Snake Charmers
-          link: https://snakecharmers.ethereum.org/
-        - title: Web3.py
-          link: https://github.com/ethereum/web3.py
-        - title: Utilities Library
-          link: https://github.com/ethereum/eth-utils
+    # - header: Python Dev
+    #   items:
+    #     - title: Snake Charmers
+    #       link: https://snakecharmers.ethereum.org/
+    #     - title: Web3.py
+    #       link: https://github.com/ethereum/web3.py
+    #     - title: Utilities Library
+    #       link: https://github.com/ethereum/eth-utils
+    # - header: Resources
+    #   items:
+    #     - title: 
+    #       link: 
+    #     - title: 
+    #       link: 
     - header: Grants
       items:
         - title: EF Ecosystem Support
           link: https://esp.ethereum.foundation/applicants
+        - title: Ethereum Community Foundation
+          link: https://ethcf.org/
         - title: BuidlGuidl
           link: https://buidlguidl.com/
         - title: Gitcoin
@@ -38,7 +46,7 @@
     - header: Enterprise General
       items:
         - title: Bizdev Intake (Etherealize)
-          link: https://www.etherealize.com/
+          link: https://etherealize.webflow.io/#connect
         - title: Bizdev Intake (EEA)
           link: https://share.hsforms.com/1JzWMo8XOTLayfWpBEhQRcQ2nqjh
         - title: Enterprise Ethereum Alliance
@@ -79,6 +87,8 @@
     #       link: 
     - header: Communities
       items:
+        - title: Ethereum House (SanFran)
+          link: https://ethereumhousesf.substack.com/p/introducing-the-ethereum-house-a
         - title: EthGlobal Hackathons
           link: https://ethglobal.com/events/hackathons
         - title: EthGlobal (Discord)
@@ -127,7 +137,7 @@
     - header: Enterprise
       items:
         - title: Bizdev Intake (Etherealize)
-          link: https://www.etherealize.com/
+          link: https://etherealize.webflow.io/#connect
         - title: Bizdev Intake (EEA)
           link: https://share.hsforms.com/1JzWMo8XOTLayfWpBEhQRcQ2nqjh
         - title: Enterprise Ethereum Alliance
@@ -136,6 +146,8 @@
           link: https://entethalliance.org/resources/technical-specifications/
         - title: CMTAT Standard (RWAs)
           link: https://cmta.ch/standards/cmta-token-cmtat
+        - title: GDPR Guidelines
+          link: https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-022025-processing-personal-data_en
 
 
 
@@ -146,7 +158,7 @@
     - header: General
       items:
         - title: Bizdev Intake (Etherealize)
-          link: https://www.etherealize.com/
+          link: https://etherealize.webflow.io/#connect
         - title: Bizdev Intake (EEA)
           link: https://share.hsforms.com/1JzWMo8XOTLayfWpBEhQRcQ2nqjh
         - title: Enterprise Ethereum Alliance
@@ -246,6 +258,8 @@
           link: https://protocolguild.com/
     - header: Breakout Groups
       items:
+        - title: Agenda Calendar
+          link: https://ethereum.forum/c
         - title: Beam
           link: https://github.com/ethereum/pm/blob/master/Breakout-Room-Meetings/beam-chain/beam-chain-pm.md
         - title: EOF
