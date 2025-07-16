@@ -328,14 +328,17 @@ layout: default
   });
 
   function startCountUp() {
-    const options = {
+    const options1 = {
       decimalPlaces: 0
     };
-    const overviewRWA = new countUp.CountUp("overviewRWA", {{site.data.overview.rwas.amount}}, options);
-    const overviewStablecoins = new countUp.CountUp("overviewStablecoins", {{site.data.overview.stablecoins.amount}}, options);
-    const overviewTVL = new countUp.CountUp("overviewTVL", {{site.data.overview.tvl.amount}}, options);
-    const overviewExported = new countUp.CountUp("overviewExported", {{site.data.overview.exported.amount}}, options);
-    const overviewReserves = new countUp.CountUp("overviewReserves", {{site.data.overview.reserves.amount}}, options);
+    const options2 = {
+      decimalPlaces: 1
+    };
+    const overviewRWA = new countUp.CountUp("overviewRWA", {{site.data.overview.rwas.amount}}, options1);
+    const overviewStablecoins = new countUp.CountUp("overviewStablecoins", {{site.data.overview.stablecoins.amount}}, options1);
+    const overviewTVL = new countUp.CountUp("overviewTVL", {{site.data.overview.tvl.amount}}, options1);
+    const overviewExported = new countUp.CountUp("overviewExported", {{site.data.overview.exported.amount}}, options2);
+    const overviewReserves = new countUp.CountUp("overviewReserves", {{site.data.overview.reserves.amount}}, options2);
     overviewRWA.start();
     overviewStablecoins.start();
     overviewTVL.start();
