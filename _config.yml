@@ -26,8 +26,8 @@ announcement:
   enabled: true
   theme: default # default, ethereum, etherealize, telegram, purple, red
   # img: /assets/img/announcements/etherealize.png # optional, leave blank for megaphone
-  text: "Announcing: The Bull Case for ETH"
-  link: https://ethdigitaloil.com
-  cta: Read ↗
+  text: "Announcing: ETH Reports"
+  link: /reports
+  cta: View ↗
 
 
