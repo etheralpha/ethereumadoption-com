@@ -211,6 +211,17 @@
     - 
   sources:
     - "https://stripe.com/newsroom/news/sessions-2025"
+- date: 2025-04-30 
+  status: dev
+  entities:
+    - Alibaba Affiliate Ant Digital
+  products:
+    - Jovay RWA L2
+  chains:
+    - Jovay 
+  sources:
+    - "https://jovay.io/"
+    - "https://www.bitget.com/news/detail/12560604731453"
 - date: 2025-04-30
   status: live
   entities:
