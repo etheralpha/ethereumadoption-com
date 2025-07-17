@@ -8,6 +8,7 @@
 # - title: 
 #   author: 
 #   link: 
+#   date: 
 
 
 # Entries shown in order listed
@@ -27,4 +28,8 @@
   author: Electric Capital
   link: https://electriccapital.substack.com/p/beyond-stablecoins-the-case-for-ethereum
   date: 2025-07-08
+- title: ETH as a Productive Treasury Asset
+  author: Obol
+  link: https://obol.org/trillion_dollar_catalyst.pdf
+  date: 2025-07-17
 
