@@ -9,6 +9,7 @@ defillama: '<img src="/assets/img/menu/defillama.svg">'
 l2beat: '<img src="/assets/img/menu/l2beat.svg">'
 emrc: '<img src="/assets/img/menu/emrc.png">'
 etherealize: '<img src="/assets/img/menu/etherealize.png">'
+document: '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-file-earmark-text" viewBox="0 0 16 16"><path d="M5.5 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1zM5 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5m0 2a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5"/><path d="M9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.5zm0 1v2A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z"/></svg>'
 
 
 # ethereum: '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 1 32 30" xml:space="preserve"><style type="text/css">.st0{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}.st1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style><polygon class="st1" points="16.01,1.5 7.62,16.23 16.01,21.5 24.38,16.18"/><line class="st1" x1="16.01" x2="16.01" y1="30.5" y2="24.1"/><polygon class="st1" points="16.01,30.5 7.62,18.83 16.01,24.1 24.38,18.78"/><polygon class="st1" points="16.01,12.3 7.62,16.23 16.01,21.5 24.38,16.18"/><line class="st1" x1="16.01" x2="16.01" y1="1.5" y2="21.5"/><polygon class="st1" points="16.01,1.5 7.62,16.23 16.01,21.5 24.38,16.18"/></svg>'

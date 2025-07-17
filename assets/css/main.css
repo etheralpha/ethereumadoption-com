@@ -198,6 +198,18 @@ input::placeholder {
 
 
 
+.badge {
+  padding-top: 0.25em;
+}
+.badge-brand {
+  color: #4fabef !important;
+  background-color: #28455B !important;
+  font-weight: 600 !important;
+}
+
+
+
+
 .card {
   background-color: var(--brand-blue-gray);
   border-radius: var(--bs-border-radius-lg);

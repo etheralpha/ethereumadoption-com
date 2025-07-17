@@ -1,0 +1,26 @@
+# SCHEMA
+# - date:  # date; article date
+#   title: # string; chain pivot title from L1 to L2/LN
+#   link:  # string; article link
+
+
+# Template to copy for new entries
+# - date: 
+#   title: 
+#   link: 
+
+
+# Entries shown in date order; most recent first
+- date: 2025-03-26
+  title: Celo L1 > Celo L2
+  link: https://blog.celo.org/celo-l2-is-now-live-a-note-from-our-founders-c585bd57b5fa
+- date: 2024-11-12
+  title: Lisk L1 > Lisk L2
+  link: https://lisk.com/blog/posts/lisk-user-mainnet-is-live/
+- date: 2024-08-15
+  title: Cronos L1 > Cronos zkEVM
+  link: https://blog.cronos.org/p/cronos-zkevm-launches-its-alpha-mainnet
+- date: 2023-09-18
+  title: Canto L1 > Canto L2
+  link: https://polygon.technology/blog/canto-to-migrate-to-a-zk-l2-powered-by-polygon-chain-development-kit
+

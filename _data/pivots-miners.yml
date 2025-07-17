@@ -1,0 +1,31 @@
+# SCHEMA
+# - date:     # date; article date
+#   company:  # string; company name
+#   holdings: # string; eth holdings
+#   link:     # string; article link
+
+
+# Template to copy for new entries
+# - date: 
+#   company: 
+#   holdings: 
+#   link: 
+
+
+# Entries shown in date order; most recent first
+- date: 2025-07-11
+  company: BTCT
+  holdings: Pending
+  link: https://stocktitan.net/news/BTCT/btct-announces-completion-of-1-million-ethereum-strategic-a60lv87zrwmq.html
+- date: 2025-07-10
+  company: BTCS
+  holdings: 31.9k
+  link: https://seekingalpha.com/article/4800341-btcs-rise-of-the-ethereum-treasury-company
+- date: 2025-07-09
+  company: BMIT
+  holdings: 300.7k
+  link: https://prnewswire.com/news-releases/bitmine-immersion-technologies-closes-250-million-private-placement-to-advance-its-treasury-strategy-on-ethereum-302500920.html
+- date: 2025-07-07
+  company: BTBT
+  holdings: 100.6k
+  link: https://prnewswire.com/news-releases/bit-digital-shifts-entire-treasury-to-ethereum-becomes-one-of-the-largest-eth-holders-among-public-companies-302498824.html 

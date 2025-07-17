@@ -1,3 +1,6 @@
+{%- assign tag_new = '<span class="badge badge-brand rounded-pill text-bg-light ms-1">New</span>' -%}
+
+
 <style type="text/css">
   #navMenu {
     padding: 0.75rem;
@@ -245,8 +248,18 @@
         {{site.data.icons.growthepie}} growthepie</a>
     </details>
     <a href="https://www.strategicethreserve.xyz/" class="menu-link">Strategic Reserves</a>
+    <details>
+      <summary class="menu-link">
+        Pivots {{tag_new}}
+        <span class="arrowicon">{{site.data.icons.details_arrow}}</span>
+      </summary>
+      <a href="/l1-l2-migrations" class="menu-link ps-4">
+        L1 > L2 Migrations {{tag_new}}</a>
+      <a href="/bitcoin-miner-pivots" class="menu-link ps-4">
+        Bitcoin Miners {{tag_new}}</a>
+    </details>
+    <a href="/reports" class="menu-link">Reports {{tag_new}}</a>
     <a href="/usecases" class="menu-link">Usecases</a>
-    <a href="/reports" class="menu-link">Reports</a>
 
 
     <hr>
