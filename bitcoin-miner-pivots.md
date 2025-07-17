@@ -9,7 +9,7 @@ layout: default
 <!-- Content -->
 <section id="bitcoinPivots" class="pb-5">
   <div class="container">
-    <div class="table-responsive mx-auto" style="max-width: 40rem;">
+    <div class="table-responsive mx-auto" style="max-width: 50rem;">
       <table id="bitcoinPivotsTable" class="table">
         <thead>
           <tr>
@@ -20,7 +20,7 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {%- assign pivots = site.data.pivots-miners -%}
+          {%- assign pivots = site.data.pivots-miners | sort: "date" | reverse -%}
           {%- for pivot in pivots -%}
             <tr>
               <td>{{pivot.date  | date: "%b %d, %Y"}}</td>

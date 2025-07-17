@@ -19,7 +19,7 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {%- assign migrations = site.data.pivots-chains -%}
+          {%- assign migrations = site.data.pivots-chains | sort: "date" | reverse -%}
           {%- for migration in migrations -%}
             <tr>
               <td>{{migration.date  | date: "%b %d, %Y"}}</td>
