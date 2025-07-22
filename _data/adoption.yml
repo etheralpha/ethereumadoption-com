@@ -72,9 +72,22 @@
 #     - 
 
 
+###########
+# Staging #
+###########
+# - date: 2025-07-22
+#   status: live
+#   entities:
+#     - WisdomTree
+#   products:
+#     - USDW Stablecoin
+#   chains:
+#     - 
+#   sources:
+#     - "https://www.wisdomtreeprime.com/digital-funds-insights/stablecoin-strategy-2025/"
+
 
 # Please enter in date order
-
 # 2025
 - date: 2025-07-22
   status: dev
