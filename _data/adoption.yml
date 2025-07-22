@@ -76,6 +76,16 @@
 # Please enter in date order
 
 # 2025
+- date: 2025-07-22
+  status: dev
+  entities:
+    - JPMorgan
+  products:
+    - ETH-Backed Lending
+  chains:
+    - 
+  sources:
+    - "https://www.reuters.com/business/finance/jpmorgan-considers-offering-loans-backed-by-clients-cryptocurrency-holdings-ft-2025-07-22/"
 - date: 2025-07-09
   status: dev
   entities:
