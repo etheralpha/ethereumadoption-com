@@ -72,9 +72,8 @@
 #     - 
 
 
-###########
-# Staging #
-###########
+
+# Staging
 # - date: 2025-07-22
 #   status: live
 #   entities:
@@ -89,6 +88,16 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-07-29
+  status: dev
+  entities:
+    - eToro
+  products:
+    - Tokenized Stocks
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.investing.com/news/company-news/etoro-expands-245-trading-plans-tokenized-stocks-on-ethereum-93CH-4157860"
 - date: 2025-07-22
   status: dev
   entities:
