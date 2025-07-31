@@ -88,6 +88,16 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-07-30
+  status: dev # live in fall
+  entities:
+    - JPMorgan
+  products:
+    - USDC Reward Conversions
+  chains:
+    - Base
+  sources:
+    - "https://www.coinbase.com/blog/Coinbase-and-JPMorgan-Chase-join-forces-to-make-it-even-easier-to-access-crypto"
 - date: 2025-07-29
   status: dev
   entities:
