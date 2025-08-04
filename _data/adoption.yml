@@ -88,6 +88,16 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-07-31
+  status: live
+  entities:
+    - DWS
+  products:
+    - EURAU Stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://allunity.com/news/allunity-launches-eurau-germanys-first-fully-reserved-micar-compliant-euro-stablecoin/"
 - date: 2025-07-30
   status: dev # live in fall
   entities:
