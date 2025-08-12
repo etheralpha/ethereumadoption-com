@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-{%- include partials/header.html title="ETH Reports" tagline="A list of ETH investment reports" -%}
+{%- include partials/header.html title="Ethereum Reports" tagline="A list of Ethereum reports" -%}
 
 
 <!-- Content -->
@@ -18,7 +18,7 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {%- assign reports = site.data.reports -%}
+          {%- assign reports = site.data.ethereum-reports -%}
           {%- for report in reports -%}
             <tr>
               <td>{{report.author}}</td>

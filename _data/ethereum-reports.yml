@@ -1,0 +1,19 @@
+# SCHEMA
+# - title:  # string; report title
+#   author: # string; author of report
+#   link:   # string; link to report
+
+
+# Template to copy for new entries
+# - title: 
+#   author: 
+#   link: 
+#   date: 
+
+
+# Entries shown in order listed
+- title: Building the World Ledger
+  author: growthepie
+  link: https://www.growthepie.com/quick-bites/anniversary-report
+  date: 2025-08-12
+
