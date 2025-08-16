@@ -282,8 +282,10 @@
       items:
         - title: Beam
           link: https://beamroadmap.vercel.app/
-        - title: EIP 4844
-          link: https://www.eip4844.com/
+        - title: Block-Level Access Lists (EIP-7928)
+          link: https://blockaccesslist.xyz/
+        # - title: EIP 4844
+        #   link: https://www.eip4844.com/
         - title: ERC 7683
           link: https://www.erc7683.org/
         - title: Fabric
