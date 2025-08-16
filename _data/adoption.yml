@@ -92,7 +92,6 @@
   status: live
   entities:
     - Emirates
-    - Air Arabia
     - Travala
     - Alternative Airlines
   products:
