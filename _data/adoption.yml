@@ -88,6 +88,20 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-08-16
+  status: live
+  entities:
+    - Emirates
+    - Air Arabia
+    - Travala
+    - Alternative Airlines
+  products:
+    - ETH Payments
+  chains:
+    - 
+  sources:
+    - "https://cointelegraph.com/news/how-to-book-a-flight-with-crypto-in-the-uae-step-by-step-guide"
+    - "https://www.emirates.com/media-centre/emirates-signs-mou-with-cryptocom-for-future-integration-of-cryptocom-pay-as-a-payment-option-for-customers/#"
 - date: 2025-07-31
   status: live
   entities:
@@ -640,7 +654,7 @@
   sources:
     - "https://venturebeat.com/games/lamborghini-and-animocas-motorverse-tap-base-blockchain-for-in-game-assets/"
     - "https://x.com/TheMotorverse/status/1853477186097086959"
-- date: 2024-01-04
+- date: 2024-11-04
   status: live
   entities:
     - Robinhood
@@ -1197,6 +1211,17 @@
     - Mainnet
   sources:
     - "https://www.audd.digital/audd-now-live-on-ethereum/"
+- date: 2023-10-14
+  status: live
+  entities:
+    - Ferrari
+  products:
+    - ETH Payments
+  chains:
+    - 
+  sources:
+    - "https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/"
+    - "https://www.ferrari.com/en-EN/corporate/articles/ferrari-extends-cryptocurrency-payments-to-european-dealers"
 - date: 2023-10-12
   status: live
   entities:
