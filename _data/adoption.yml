@@ -88,6 +88,16 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-08-21
+  status: dev
+  entities:
+    - DBS
+  products:
+    - Tokenized Notes
+  chains:
+    - Mainnet
+  sources:
+    - "https://archive.fo/uUlEH"
 - date: 2025-08-16
   status: live
   entities:
