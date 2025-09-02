@@ -88,6 +88,33 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-09-02
+  status: dev
+  entities:
+    - Yunfeng Financial Group
+  products:
+    - Strategic Ether Reserve
+  chains:
+    - 
+  sources:
+    - "https://doc.irasia.com/listco/hk/yunfeng/announcement/a250902.pdf"
+    - "https://www.yff.com/en/trends-detail/#373"
+- date: 2025-08-28
+  status: live
+  entities:
+    - U.S. Department of Commerce
+  products:
+    - Onchain Macroeconomic Data
+  chains:
+    - Mainnet
+    - Arbitrum
+    - Base
+    - Linea
+    - Mantle
+    - OP Mainnet
+    - ZKsync
+  sources:
+    - "https://blog.chain.link/united-states-department-of-commerce-macroeconomic-data/"
 - date: 2025-08-21
   status: dev
   entities:
