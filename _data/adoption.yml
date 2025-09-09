@@ -125,6 +125,21 @@
     - Mainnet
   sources:
     - "https://www.dbs.com/newsroom/DBS_expands_blockchain_capabilities_by_tokenising_and_distributing_structured_notes"
+- date: 2025-08-19
+  status: live
+  entities:
+    - State of Wyoming
+  products:
+    - FRNT Stablecoin
+  chains:
+    - Mainnet
+    - Arbitrum
+    - Base
+    - OP Mainnet
+    - Polygon
+  sources:
+    - "https://content.govdelivery.com/accounts/WYGOV/bulletins/3ee734a"
+    - "https://stabletoken.wyo.gov/pages/BSE"
 - date: 2025-08-16
   status: live
   entities:
