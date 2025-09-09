@@ -136,7 +136,7 @@
     - Arbitrum
     - Base
     - OP Mainnet
-    - Polygon
+    # - Polygon
   sources:
     - "https://content.govdelivery.com/accounts/WYGOV/bulletins/3ee734a"
     - "https://stabletoken.wyo.gov/pages/BSE"
