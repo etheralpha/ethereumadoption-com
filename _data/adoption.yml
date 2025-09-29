@@ -86,10 +86,292 @@
 #     - "https://www.wisdomtreeprime.com/digital-funds-insights/stablecoin-strategy-2025/"
 
 
+
+
 # Please enter in date order
 # 2025
-- date: 2025-09-02
+- date: 2025-12-04
+  status: live
+  entities:
+    - WisdomTree
+  products:
+    - Staked ETH ETP
+  chains:
+    - 
+  sources:
+    - "https://blog.lido.fi/wisdomtree-launches-first-fully-staked-eth-etp-backed-by-steth/"
+- date: 2025-12-01
+  status: live
+  entities:
+    - Bhutan
+  products:
+    - ETH Staking
+  chains:
+    - Mainnet
+  sources:
+    - "https://coinmarketcap.com/academy/article/bhutan-stakes-dollar970k-ethereum-via-figment-in-validator-push"
+- date: 2025-12-01
   status: dev
+  entities:
+    - Kyrgyzstan
+  products:
+    - Gold-Backed USDKG Stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://cdn.prod.website-files.com/675ee2248e357f63d8256c8d/6895fd6cc933876e216aa9f9_USDKG%20Whitepaper.pdf"
+    - "https://www.reuters.com/press-releases/kyrgyzstan-launches-50m-gold-backed-usdkg-stablecoin-2025-12-01/"
+# - date: 2025-11-18
+#   status: live
+#   entities:
+#     - Revolut
+#   products:
+#     - Stablecoin Payments/Transfers
+#   chains:
+#     # - Polygon
+#   sources:
+#     - "https://polygon.technology/blog/revolut-integrates-polygon-for-payments-trading-and-staking-processing-690m-to-date"
+# - date: 2025-11-18
+#   status: live
+#   entities:
+#     - Mastercard
+#   products:
+#     - Crypto Credential
+#   chains:
+#     # - Polygon
+#   sources:
+#     - "https://polygon.technology/blog/mastercard-selects-polygon-to-power-verified-username-transfers-for-self-custody-wallets"
+# - date: 2025-11-12
+#   status: dev
+#   entities:
+#     - Calastone
+#   products:
+#     - Tokenized Fund
+#   chains:
+#     # - Polygon
+#   sources:
+#     - "https://polygon.technology/blog/calastone-brings-global-fund-distribution-onchain-with-polygon"
+- date: 2025-11-12
+  status: live
+  entities:
+    - JPMorgan
+  products:
+    - JPMD Stablecoin
+  chains:
+    - Base
+  sources:
+    - "https://www.jpmorgan.com/payments/newsroom/jpm-coin-usd-deposit-token-institutional-clients"
+- date: 2025-11-11
+  status: dev
+  entities:
+    - JPMorgan
+    - DBS Bank
+  products:
+    - Cross-Chain Interoperability
+  chains:
+    - 
+  sources:
+    - "https://www.ledgerinsights.com/dbs-kinexys-by-jp-morgan-to-create-tokenized-deposit-interoperability-standard/"
+- date: 2025-11-10
+  status: live
+  entities:
+    - State of Wyoming
+  products:
+    - tFRNT Faucet
+  chains:
+    - Mainnet
+    - Arbitrum
+    - OP Mainnet
+    - Base
+    # - Polygon
+  sources:
+    - "https://stabletoken.wyo.gov/pages/faucet"
+    - "https://sepolia.etherscan.io/address/0x81055Bc42D5F4eED4742233983fc598d6640B10a"
+- date: 2025-11-04
+  status: live
+  entities:
+    - Amundi
+    - CACEIS
+  products:
+    - AMUNDI FUNDS CASH EUR Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://int.media.amundi.com/news/amundi-launches-the-first-tokenized-share-of-one-of-its-money-market-funds-in-collaboration-with-caceis-434ab-b6afb.html"
+- date: 2025-11-04
+  status: live
+  entities:
+    - UBS
+  products:
+    - Fund Mint/Redemption
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.ubs.com/global/en/media/display-page-ndp/en-20251104-chainlink.html"
+- date: 2025-10-27
+  status: live
+  entities:
+    - JPYC
+  products:
+    - JPYC Stablecoin
+  chains:
+    - Mainnet
+    # - Polygon
+  sources:
+    - "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch"
+- date: 2025-10-29
+  status: live
+  entities:
+    - BNY Mellon
+  products:
+    - AAA CLO Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.bny.com/corporate/global/en/about-us/newsroom/company-news/securitize-launches-tokenized-aaa-clo-fund-with-services-provided-by-bny-bringing-institutional-structured-credit-on-chain.html"
+- date: 2025-10-24
+  status: dev # goes live end of year
+  entities:
+    - JPMorgan
+  products:
+    - ETH-Backed Loans
+  chains:
+    - 
+  sources:
+    - "https://archive.fo/edbhn"
+- date: 2025-10-14
+  status: dev
+  entities:
+    - Stripe
+  products:
+    - Stablecoin-Based Subscriptions
+  chains:
+    - Base
+    # - Polygon
+  sources:
+    - "https://stripe.com/blog/introducing-stablecoin-payments-for-subscriptions"
+- date: 2024-10-13
+  status: dev
+  entities:
+    - Bhutan
+  products:
+    - National Digital Identity (NDI)
+  chains:
+    - Mainnet
+  sources:
+    - "https://sumsub.com/media/news/bhutan-to-anchor-national-digital-id-on-ethereum/"
+- date: 2025-10-03
+  status: dev
+  entities:
+    - OnePay
+  products:
+    - ETH Payments
+  chains:
+    - 
+  sources:
+    - "https://www.cnbc.com/2025/10/03/walmart-onepay-is-rolling-out-crypto-to-mobile-banking-app.html"
+- date: 2025-10-01
+  status: dev
+  entities:
+    - First Abu Dhabi Bank (FAB)
+    - IHC
+    - ADQ
+  products:
+    - Dirham Stablecoin
+  chains:
+    - ADI Chain # ZKsync Elastic Network
+  sources:
+    - "https://www.adq.ae/newsroom/ihc-adq-and-fab-pioneer-uae-dirham-backed-stablecoin-for-the-digital-economy/"
+- date: 2025-10-01
+  status: dev # mainnet q4 2025
+  entities:
+    - IHC
+  products:
+    - ADI Chain
+  chains:
+    - ADI Chain
+  sources:
+    - "https://thedefiant.io/news/tradfi-and-fintech/abu-dhabi-investment-giant-ich-backs-l2-chain-for-dirham-backed-stablecoin"
+- date: 2025-09-30
+  status: live
+  entities:
+    - Societe Generale
+  products:
+    - EURCV & USDCV Lending
+  chains:
+    - 
+  protocol:
+    - Morpho
+  sources:
+    - "https://morpho.org/blog/societe-generale-forge-comes-onchain-with-morpho/"
+- date: 2025-09-16
+  status: live
+  entities:
+    - Google
+  products:
+    - Agent Payments Protocol (AP2)
+  chains:
+    - 
+  sources:
+    - "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol"
+- date: 2025-09-16
+  status: dev
+  entities:
+    - UBS
+    - PostFinance
+    - Sygnum Bank
+    - Swiss Bankers Association
+  products:
+    - Deposit Tokens
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.swissbanking.ch/_Resources/Persistent/7/9/e/a/79ea024daa9834c99fc299db5d5f69c4317525a2/20250916_Ergebnisbericht%20PoC%20Deposit%20Token_EN_FINAL.pdf"
+    - "https://www.coindesk.com/business/2025/09/16/ubs-postfinance-and-sygnum-do-cross-bank-payments-on-a-public-blockchain"
+- date: 2025-09-16
+  status: live
+  entities:
+    - Santander
+  products:
+    - ETH Trading Services
+  chains:
+    - 
+  sources:
+    - "https://www.santander.com/en/press-room/press-releases/2025/09/openbank-launches-cryptocurrency-trading-service"
+- date: 2025-09-15
+  status: live
+  entities:
+    - American Express
+  products:
+    - Amex Passport
+  chains:
+    - Base
+  sources:
+    - "https://www.americanexpress.com/en-us/newsroom/articles/travel-and-dining/american-express-launches-all-in-one-travel-app-and-digital-tool.html"
+    - "https://blockworks.co/news/amex-stamp-nfts-base/"
+# - date: 2025-09-15
+#   status: dev
+#   entities:
+#     - PayPal
+#   products:
+#     - P2P 
+#   chains:
+#     - 
+#   sources:
+#     - "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere#:~:text=Crypto%20will%20soon%20be%20directly,that%20support%20crypto%20and%20stablecoins"
+- date: 2025-09-09
+  status: live
+  entities:
+    - Fidelity
+  products:
+    - FDIT Token
+  chains:
+    - Mainnet
+    # - Polygon
+  sources:
+    - "https://ondo.finance/blog/fidelity-unveils-onchain-money-market-fund-anchored-by-ondo-finance"
+- date: 2025-09-02
+  status: live
   entities:
     - Yunfeng Financial Group
   products:
@@ -98,7 +380,6 @@
     - 
   sources:
     - "https://doc.irasia.com/listco/hk/yunfeng/announcement/a250902.pdf"
-    - "https://www.yff.com/en/trends-detail/#373"
 - date: 2025-08-28
   status: live
   entities:
@@ -115,6 +396,17 @@
     - ZKsync
   sources:
     - "https://blog.chain.link/united-states-department-of-commerce-macroeconomic-data/"
+# - date: 2025-08-25
+#   status: live
+#   entities:
+#     - ChinaAMC
+#   products:
+#     - CUMIU Money Market Fund
+#   chains:
+#     - Mainnet
+#   sources:
+#     - "https://app.rwa.xyz/assets/CUMIU"
+#     - "https://etherscan.io/tx/0x810b9fc4b3bfff6d84d517d27d3917a4b3ebb6c6df43d931c14ee004d7998a77"
 - date: 2025-08-21
   status: dev
   entities:
@@ -153,6 +445,16 @@
   sources:
     - "https://cointelegraph.com/news/how-to-book-a-flight-with-crypto-in-the-uae-step-by-step-guide"
     - "https://www.emirates.com/media-centre/emirates-signs-mou-with-cryptocom-for-future-integration-of-cryptocom-pay-as-a-payment-option-for-customers/#"
+- date: 2025-08-11
+  status: live
+  entities:
+    - Blue Origin
+  products:
+    - ETH Payments
+  chains:
+    - 
+  sources:
+    - "https://investors.shift4.com/news-events/press-releases/detail/273/blue-origin-spaceflights-aboard-new-shepard-can-now-be-purchased-with-crypto-and-stablecoins-through-shift4"
 - date: 2025-07-31
   status: live
   entities:
@@ -193,6 +495,17 @@
     - 
   sources:
     - "https://www.reuters.com/business/finance/jpmorgan-considers-offering-loans-backed-by-clients-cryptocurrency-holdings-ft-2025-07-22/"
+- date: 2025-07-15
+  status: live
+  entities:
+    - China Merchants Bank (CMBI)
+  products:
+    - ETH Trading Services
+  chains:
+    - 
+  sources:
+    - "https://archive.fo/k5LsW"
+    - "https://archive.fo/dzXLh"
 - date: 2025-07-09
   status: dev
   entities:
@@ -223,7 +536,7 @@
   products:
     - Robinhood Chain
   chains:
-    - Robinhood Chain
+    - Robinhood Chain # Arbitrum Orbit
   sources:
     - "https://newsroom.aboutrobinhood.com/robinhood-launches-stock-tokens-reveals-layer-2-blockchain-and-expands-crypto-suite-in-eu-and-us-with-perpetual-futures-and-staking"
     - "https://x.com/vladtenev/status/1940308314144883074"
@@ -232,7 +545,7 @@
   entities:
     - Robinhood
   products:
-    - ETH Staking
+    - ETH Staking Service
   chains:
     - 
   sources:
@@ -257,17 +570,6 @@
     - Mainnet
   sources:
     - "https://capitalpioneer.co.uk/revealed-first-uk-tokenised-fund/"
-- date: 2025-06-17
-  status: dev
-  entities:
-    - JPMorgan
-  products:
-    - JPMD Stablecoin
-  chains:
-    - Base
-  sources:
-    - "https://archive.fo/IR99q"
-    - "https://www.jpmorgan.com/payments/newsroom/kinexys-usd-digital-deposit-tokens"
 - date: 2025-06-12
   status: live
   entities:
@@ -308,6 +610,16 @@
     - 
   sources:
     - "https://www.actusnews.com/en/entreparticuliers/pr/2025/05/19/building-a-strategic-ether-reverse"
+- date: 2025-05-13
+  status: live
+  entities:
+    - Opera
+  products:
+    - MiniPay Wallet
+  chains:
+    - Celo
+  sources:
+    - "https://press.opera.com/2025/05/13/minipay-standalone-app-ios-android/"
 - date: 2025-05-12
   status: live
   entities:
@@ -329,7 +641,7 @@
   sources:
     - "https://stripe.com/newsroom/news/sessions-2025"
 - date: 2025-04-30 
-  status: dev
+  status: live
   entities:
     - Ant Digital
   products:
@@ -381,6 +693,16 @@
     - Immutable X
   sources:
     - "https://collectorclub.co.uk/trading-cards/ubisoft-announces-new-trading-card-game-might-magic-fates/"
+- date: 2025-04-08
+  status: live
+  entities:
+    - "@JAM EXPO"
+  products:
+    - Live Pass
+  chains:
+    - Soneium
+  sources:
+    - "https://soneium.org/en/blog/JAM-and-Soneium/"
 - date: 2025-04-03
   status: live
   entities:
@@ -434,6 +756,17 @@
   sources:
     - "https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race"
     - "https://www.sec.gov/Archives/edgar/data/917286/000113322825002995/ftdf-efp15119_485apos.htm"
+# - date: 2025-03-19 # hiding due to optics
+#   status: live
+#   entities:
+#     - Promsvyazbank
+#   products:
+#     - A7A5 Russian Rouble Stablecoin
+#   chains:
+#     - Mainnet
+#   sources:
+#     - "https://crystalintelligence.com/news/eu-considers-sanctionson-russias-ruble-backed-stablecoin/"
+#     - "https://etherscan.io/token/0x6fA0BE17e4beA2fCfA22ef89BF8ac9aab0AB0fc9"
 # - date: 2025-03-12 # unconfirmed source
 #   status: dev
 #   entities:
@@ -459,22 +792,32 @@
   entities:
     - Deutsche Boerse
   products:
-    - Ethereum Trading Services
+    - ETH Trading Services
   context: For Institutions
   chains:
     - 
   sources:
     - "https://www.reuters.com/technology/deutsche-boerses-clearstream-offer-bitcoin-ether-custody-services-2025-03-11/"
 - date: 2025-03-10
-  status: dev
+  status: live
   entities:
     - BBVA
   products:
-    - Ethereum Trading Services
+    - ETH Trading Services
   chains:
     - 
   sources:
     - "https://www.reuters.com/technology/spanish-lender-bbva-offer-bitcoin-ether-trading-2025-03-10/"
+- date: 2025-03-10
+  status: live
+  entities:
+    - Sony
+  products:
+    - Commemorative Aibo NFT
+  chains:
+    - Soneium
+  sources:
+    - "https://decrypt.co/309372/sony-aibo-robot-dog-ethereum-nft"
 - date: 2025-03-05
   status: live
   entities:
@@ -496,6 +839,28 @@
     - 
   sources:
     - "https://truthsocial.com/@realDonaldTrump/posts/114093946326587357"
+# - date: 2025-02-28
+#   status: live
+#   entities:
+#     - ChinaAMC
+#   products:
+#     - CAMMF Money Market Fund
+#   chains:
+#     - Mainnet
+#   sources:
+#     - "https://app.rwa.xyz/assets/CAMMF"
+#     - "https://etherscan.io/tx/0x369b62763f86b9115dc762597e00e4e265d73e7e497ac615b7a551cd7b9deffa"
+# - date: 2025-02-28
+#   status: live
+#   entities:
+#     - ChinaAMC
+#   products:
+#     - CAMMU Money Market Fund
+#   chains:
+#     - Mainnet
+#   sources:
+#     - "https://app.rwa.xyz/assets/CAMMU"
+#     - "https://etherscan.io/tx/0xe5e05125694705e69466928a4dbce9c96c7c69b708596945c3a39fa5a4b58385"
 - date: 2025-02-28
   status: live
   entities:
@@ -589,7 +954,7 @@
   entities:
     - PostFinance AG
   products:
-    - ETH Staking
+    - ETH Staking Service
   chains:
     - Mainnet
   sources:
@@ -657,7 +1022,7 @@
   entities:
     - Hong Kong ZA Bank
   products:
-    - Ethereum Trading Services
+    - ETH Trading Services
   chains:
     - 
   sources:
@@ -1451,6 +1816,16 @@
     - Mainnet
   sources:
     - "https://www.sgforge.com/societe-generale-forge-launches-coinvertible-the-first-institutional-stablecoin-deployed-on-a-public-blockchain/"
+# - date: 2023-04-13
+#   status: live
+#   entities:
+#     - Mastercard
+#   products:
+#     - Music Pass NFT
+#   chains:
+#     # - Polygon
+#   sources:
+#     - "https://www.mastercard.com/news/ap/en/newsroom/press-releases/en/2023/mastercard-music-pass-nft-opens-access-to-groundbreaking-web3-training-program-for-emerging-musical-artists/"
 - date: 2023-04-04
   status: live
   entities:
@@ -1704,6 +2079,16 @@
     - 
   sources:
     - "https://newsroom.paypal-corp.com/2022-06-07-PayPal-Users-Can-Now-Transfer-Send-and-Receive-Bitcoin-Ethereum-Bitcoin-Cash-and-Litecoin"
+- date: 2022-05-22
+  status: live
+  entities:
+    - Gucci
+  products:
+    - ETH Payments
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.bbc.com/news/business-61343255"
 - date: 2022-05-17
   status: live
   entities:

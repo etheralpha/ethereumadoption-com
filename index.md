@@ -10,8 +10,9 @@ layout: default
     <div class="col-lg-7 mx-auto">
       <p class="lead mb-4">Build on the most secure, liquid, and programmable blockchain ecosystem</p>
       <div class="d-flex justify-content-center gap-3 flex-wrap">
-        <a href="#build-l1" class="btn btn-primary pop">Build on L1</a>
-        <a href="#build-l2" class="btn btn-light pop">Build on L2</a>
+        <!-- <a href="#build-l1" class="btn btn-primary pop">Build on L1</a> -->
+        <!-- <a href="#build-l2" class="btn btn-light pop">Build on L2</a> -->
+        <a href="https://institutions.ethereum.org/" class="btn btn-light pop" target="_blank">Enterprise</a>
         <a href="/built-on-ethereum" class="btn btn-outline-light pop">Dashboard</a>
       </div>
       <div class="row g-4 my-4 text-center" data-sal="slide-up">

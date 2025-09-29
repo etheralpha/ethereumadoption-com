@@ -41,6 +41,10 @@
       link: "https://login.xyz/"
     - title: WalletConnect
       link: "https://walletconnect.com/"
+- category: Buy Now Pay Later
+  examples:
+    - title: Yumi
+      link: "https://www.yumi.finance/"
 - category: CBDC
   examples:
     - title: Reserve Bank of Australia eAUD
@@ -49,10 +53,10 @@
   examples:
     - title: Republic.com
       link: "https://republic.com/"
-- category: Content
+- category: Credit Cards
   examples:
-    - title: Paragraph
-      link: "https://paragraph.xyz/"
+    - title: Colossus
+      link: "https://colossus.credit/"
 - category: Dispute Resolution
   examples:
     - title: Kleros
@@ -133,6 +137,10 @@
 #   examples:
 #     - title:
 #       link: "https://blockchain.ey.com/products/contract-manager"
+- category: Newsletters
+  examples:
+    - title: Paragraph
+      link: "https://paragraph.xyz/"
 - category: Project Management
   examples:
     - title: Dework
@@ -208,7 +216,7 @@
       link: "https://www.tally.xyz/"
 - category: Workspace
   examples:
-    - title: Charmverse
-      link: "https://www.charmverse.io/"
+    - title: Fileverse
+      link: "https://fileverse.io/"
 
 
