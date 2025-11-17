@@ -266,9 +266,9 @@ layout: default
           <p class="card-text">
             <strong>Case Studies</strong>:
             <a class="text-underline" href="https://blog.celo.org/celo-l2-is-now-live-a-note-from-our-founders-c585bd57b5fa">Celo</a>,
-            <a class="text-underline" href="https://polygon.technology/blog/canto-to-migrate-to-a-zk-l2-powered-by-polygon-chain-development-kit">Canto</a>,
-            <a class="text-underline" href="https://lisk.com/blog/posts/lisk-user-mainnet-is-live/">Lisk</a>,
-            <a class="text-underline" href="https://blog.cronos.org/p/cronos-zkevm-launches-its-alpha-mainnet">Cronos</a>
+            <a class="text-underline" href="https://roninchain.com/blog/posts/ronins-homecoming-to-ethereum">Ronin</a>,
+            <a class="text-underline" href="https://nillion.com/news/the-next-frontier-for-nillion-ethereum/">Nillion</a>,
+            <a class="text-underline" href="/l1-l2-migrations/">+{{site.data.pivots-chains | size | minus: 3}} others</a>
           </p>
         </div>
       </div>
