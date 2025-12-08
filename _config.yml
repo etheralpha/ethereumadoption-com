@@ -24,10 +24,10 @@ bootstrap_css: <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css
 # Announcement
 announcement:
   enabled: true
-  theme: growthepie # default, ethereum, etherealize, growthepie, telegram, purple, red
-  img: /assets/img/announcements/growthepie.png # optional, leave blank for megaphone
-  text: "growthepie: Building the World Ledger"
-  link: https://www.growthepie.com/quick-bites/anniversary-report
+  theme: etherealize # default, ethereum, etherealize, growthepie, telegram, purple, red
+  img: /assets/img/announcements/etherealize.png # optional, leave blank for megaphone
+  text: "Etherealize: Ethereum's L2 Landscape"
+  link: https://cdn.prod.website-files.com/6728e9076a3b5a8ca8ec4816/6931c20f55129e498a8da223_%5BCompressed%5D%20L2s%20Report.pdf
   cta: Read ↗
 
 
