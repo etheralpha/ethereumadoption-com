@@ -2,7 +2,7 @@ name: Update Data Daily
 
 on:
   schedule:
-    - cron: '30 */24 * * *'
+    - cron: '0 */24 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
         git reset --hard origin/main
 
     - name: Run Python script
-      run: python _scripts/update_data.py
+      run: python _scripts/new_entries.py.py
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       
