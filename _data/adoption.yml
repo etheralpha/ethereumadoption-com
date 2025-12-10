@@ -8,16 +8,12 @@
 #     - # string; use proper capitalization
 #     - # create a new "-" entry for each product
 #   context: # string; specifying context of the product such as "for businesses"
-#   tags:
-#     - # string; use proper capitalization; add new tags below
-#       # Bond, Certification, Data, Fund, Government, Identification, L2, NFT, Note, Platform, Token, Tooling, Trading/Transfer, Reserve, RWA, Stablecoin, Supply Chain
+#   category: # string; options below, use proper capitalization
+#             # Tokenized Funds/RWAs, NFTs/Collectibles, Financial Services, Infrastructure, Stablecoins, Payments, Identity/Verification, Strategic Reserves
 #     - # create a new "-" entry for each tag
 #   chains:
 #     - # string; use "Mainnet" for Ethereum L1, create a new object if launching on a new chain at a later date
 #     - # create a new "-" entry for each chain
-#   stack:
-#     - # string; what tech stack is it built on (if applicable), for example "Optimism" for Base
-#     - # create a new "-" entry for each stack
 #   sources:
 #     - # string; should be from the earliest and most official source available
 #     - # create a new "-" entry for each source
@@ -32,12 +28,9 @@
 #     - DBS
 #   products:
 #     - Cross-Border Bond Repo
-#   tags:
-#     - Bonds
+#   tags: Tokenized Funds/RWAs
 #   chains:
 #     - Mainnet
-#   stack:
-#     - 
 #   sources:
 #     - "https://www.ubs.com/global/en/media/display-page-ndp/en-20231115-ubs-sbi-dbs-completed-worlds-first-cross-border.html"
 # - date: 2024-09-25
@@ -47,11 +40,8 @@
 #   products:
 #     - Ethereum Trading
 #     - External Transfers
-#   tags:
-#     - Trading/Transfers
+#   category: Financial Services
 #   context: For Businesses
-#   stack:
-#     - 
 #   chains:
 #     - 
 #   sources:
@@ -100,6 +90,26 @@
     - 
   sources:
     - "https://blog.lido.fi/wisdomtree-launches-first-fully-staked-eth-etp-backed-by-steth/"
+- date: 2025-12-01
+  status: dev
+  entities:
+    - Sony Bank
+  products:
+    - USD-Pegged Stablecoin
+  chains:
+    - Soneium
+  sources:
+    - "https://www.coinspeaker.com/sony-to-bring-usd-pegged-stablecoin-in-early-2026-for-in-game-settlements/"
+- date: 2025-12-01
+  status: dev
+  entities:
+    - Sony
+  products:
+    - Ecosystem Stablecoin Payments
+  chains:
+    - Soneium
+  sources:
+    - "https://www.coinspeaker.com/sony-to-bring-usd-pegged-stablecoin-in-early-2026-for-in-game-settlements/"
 - date: 2025-12-01
   status: live
   entities:
@@ -283,7 +293,7 @@
   sources:
     - "https://www.adq.ae/newsroom/ihc-adq-and-fab-pioneer-uae-dirham-backed-stablecoin-for-the-digital-economy/"
 - date: 2025-10-01
-  status: dev # mainnet q4 2025
+  status: live # mainnet q4 2025
   entities:
     - IHC
   products:
