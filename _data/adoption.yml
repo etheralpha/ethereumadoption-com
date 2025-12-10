@@ -101,16 +101,6 @@
   sources:
     - "https://www.coinspeaker.com/sony-to-bring-usd-pegged-stablecoin-in-early-2026-for-in-game-settlements/"
 - date: 2025-12-01
-  status: dev
-  entities:
-    - Sony
-  products:
-    - Ecosystem Stablecoin Payments
-  chains:
-    - Soneium
-  sources:
-    - "https://www.coinspeaker.com/sony-to-bring-usd-pegged-stablecoin-in-early-2026-for-in-game-settlements/"
-- date: 2025-12-01
   status: live
   entities:
     - Bhutan
