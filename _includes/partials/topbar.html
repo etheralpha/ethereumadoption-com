@@ -5,8 +5,6 @@
     max-height: 60px;
     min-height: 60px;
     border-bottom: 1px solid var(--brand-line-color);
-    /*margin-bottom: 0rem;*/
-    /*background-color: #fff;*/
     margin-left: -2rem;
     margin-right: -2rem;
     margin-bottom: 1.5rem;
@@ -28,7 +26,6 @@
     opacity: 95%;
     background-color: #1E2E3A;
     display: block;
-    border-radius: 15px;
   }
   .announcement .megaphone svg {
     margin-top: -2px;
@@ -37,7 +34,6 @@
   }
   .announcement img {
     height: 20px;
-    margin-top: -2px;
   }
   a.announcement {
     color: #fff !important;
@@ -46,22 +42,25 @@
   a.announcement:hover {
     text-decoration: none;
   }
+  .announcement .cta-wrapper {
+    margin: -1px -1px;
+  }
   .announcement .cta {
-    border-radius: 15px;
     padding: 1px 11px;
     background-color: #28455B;
     font-weight: 500;
     display: inline-block;
-    margin: -4px -1px;
     color: #4fabef;
+    white-space: nowrap;
+    height: 100%;
   }
-
   .announcement .bi-megaphone {
     margin-top: -2px;
     margin-left: 3px;
   }
 
 
+  /*turquoise*/
   .announcement.turquoise {
     background-color: #1f7e92;
     color: #d0f9ff !important;
@@ -74,7 +73,7 @@
     stroke: #d0f9ff;
   }
 
-
+  /*red*/
   .announcement.red {
     background-color: #921f1f;
     color: #ffe4e4 !important;
@@ -88,6 +87,7 @@
     stroke: #ffe4e4;
   }
 
+  /*purple*/
   .announcement.purple {
     background-color: #713e8c;
     color: #f9e4ff !important;
@@ -100,7 +100,7 @@
     stroke: #f9e4ff;
   }
 
-
+  /*etherealize*/
   .announcement.etherealize {
     background-color: #2f1748;
     color: #f9e4ff !important;
@@ -110,15 +110,26 @@
     color: #d56dff;
   }
 
+  /*emrc*/
+  .announcement.emrc {
+    background-color: #004851;
+    color: #f8f9f0;
+  }
+  .emrc .cta {
+    background-color: #e4ccff1f;
+    color: #dee987;
+  }
+
+  /*growthepie*/
   .announcement.growthepie {
     background-color: #12281c;
-    /*color: #f9e4ff !important;*/
   }
   .growthepie .cta {
     background-color: #ccffe81f;
     color: #ffde27;
   }
 
+  /*telegram*/
   .announcement.telegram {
     background-color: #1E2E3A;
   }
@@ -129,8 +140,9 @@
 </style>
 
 
+{%- comment -%}
 <div id="topBar" class="d-flex align-items-center">
-  <a class="announcement {{announcement.theme}} mx-auto" href="{{announcement.link}}">
+  <a class="announcement {{announcement.theme}} rounded-pill text-center mx-auto" href="{{announcement.link}}">
     {% if announcement.img -%}
       <img src="{{announcement.img}}">
     {%- else -%}
@@ -140,6 +152,25 @@
     <span class="cta">
       <span>{{announcement.cta}}</span>
     </span>
+  </a>
+</div>
+{%- endcomment -%}
+
+<div id="topBar" class="d-flex align-items-center">
+  <a class="announcement {{announcement.theme}} rounded-pill text-center mx-auto d-flex justify-content-between" href="{{announcement.link}}">
+    <div class="d-flex align-items-center">
+      {% if announcement.img -%}
+        <img src="{{announcement.img}}">
+      {%- else -%}
+        {{site.data.icons.megaphone}}
+      {%- endif -%}
+    </div>
+    <span class="mx-1">{{announcement.text}}</span>
+    <div class="cta-wrapper d-flex align-items-center">
+      <span class="cta rounded-pill d-flex align-items-center">
+        <span>Read ↗</span>
+      </span>
+    </div>
   </a>
 </div>
 
