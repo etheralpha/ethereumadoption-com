@@ -1,1 +1,1 @@
-[]
+[{"date": "2025-12-01", "status": "dev", "entities": ["Sony Bank"], "products": ["USD-Pegged Stablecoin"], "chains": ["Soneium"], "sources": ["https://www.coinspeaker.com/sony-to-bring-usd-pegged-stablecoin-in-early-2026-for-in-game-settlements/"], "is_recent": false}, {"date": "2025-10-01", "status": "live", "entities": ["IHC"], "products": ["ADI Chain"], "chains": ["ADI Chain"], "sources": ["https://thedefiant.io/news/tradfi-and-fintech/abu-dhabi-investment-giant-ich-backs-l2-chain-for-dirham-backed-stablecoin"], "is_recent": false}]
