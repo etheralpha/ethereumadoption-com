@@ -6,7 +6,7 @@
 
 import os
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, date
 import json
 import requests
 
@@ -38,15 +38,22 @@ print(f"current_adoption_list count: {len(current_adoption_list)}")
 # create list of new entries
 new_entries = []
 is_recent = True
+current_date = date.fromisoformat(datetime.now(timezone.utc).strftime('%Y-%m-%d'))
+# first_old_entry_date = old_adoption_list[0]['date']
 for current_entry in current_adoption_list:
   has_match = False
+  current_entry_date = date.fromisoformat(current_entry['date'])
   for old_entry in old_adoption_list:
     if current_entry == old_entry:
       has_match = True
-      is_recent = False
   if has_match == False:
     new_entry = dict(current_entry)
-    new_entry['is_recent'] = is_recent
+    new_entry['is_recent'] = False
+    acceptable_days_old = -60
+    within_x_days_of_now = (current_entry_date - current_date).days >= acceptable_days_old
+    # within_x_days_of_most_recent = (current_entry_date - first_old_entry_date).days >= -30
+    if within_x_days_of_now:
+      new_entry['is_recent'] = True
     new_entries.append(new_entry)
 print(f"new_entries count: {len(new_entries)}")
 
