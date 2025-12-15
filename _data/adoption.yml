@@ -80,6 +80,17 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-12-15
+  status: live
+  entities:
+    - JPMorgan
+  products:
+    - MONY Money Market Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://am.jpmorgan.com/us/en/asset-management/adv/about-us/media/press-releases/jp-morgan-asset-management-launches-its-first-tokenized-money-market-fund/"
+    - "https://etherscan.io/address/0x6a7c6aa2b8b8a6A891dE552bDEFFa87c3F53bD46"
 - date: 2025-12-04
   status: live
   entities:
@@ -495,6 +506,19 @@
     - 
   sources:
     - "https://www.reuters.com/business/finance/jpmorgan-considers-offering-loans-backed-by-clients-cryptocurrency-holdings-ft-2025-07-22/"
+- date: 2025-07-22
+  status: live
+  entities:
+    - WisdomTree
+  products:
+    - Stablecoin Interoperability Layer
+  chains:
+    - Mainnet
+    - Arbitrum
+    - Base
+    - OP Mainnet
+  sources:
+    - "https://www.wisdomtreeprime.com/digital-funds-insights/stablecoin-strategy-2025/"
 - date: 2025-07-15
   status: live
   entities:
@@ -529,6 +553,16 @@
     - 
   sources:
     - "https://investors.gamesquare.com/news/news-details/2025/GameSquare-Announces-Pricing-of-Underwritten-Public-Offering-to-Launch-Ethereum-Treasury-Strategy/default.aspx"
+- date: 2025-07-03
+  status: dev
+  entities:
+    - DTCC
+  products:
+    - Onchain Security Trading
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.youtube.com/watch?v=YKFrfW22eNM&t=721s"
 - date: 2025-06-30
   status: dev
   entities:
@@ -1159,7 +1193,7 @@
     - CACEIS
     - Twenty First Capital
   products:
-    - UCITS Money Market Funds 
+    - UCITS Money Market Fund 
   chains:
     - Mainnet
     - Arbitrum
