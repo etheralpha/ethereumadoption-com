@@ -12,10 +12,10 @@ import requests
 
 
 
-current_time = round(time.time()) # seconds
-date = datetime.now(timezone.utc).strftime('%Y-%m-%d') # yyyy-mm-dd
-print(f"Epoch: {current_time}")
-print(f"Date: {date}")
+time_now = round(time.time()) # seconds
+date_now = datetime.now(timezone.utc).strftime('%Y-%m-%d') # yyyy-mm-dd
+print(f"Epoch: {time_now}")
+print(f"Date: {date_now}")
 
 
 # load/sort old adoption list
@@ -38,7 +38,7 @@ print(f"current_adoption_list count: {len(current_adoption_list)}")
 # create list of new entries
 new_entries = []
 is_recent = True
-current_date = date.fromisoformat(datetime.now(timezone.utc).strftime('%Y-%m-%d'))
+current_date = date.fromisoformat(date_now)
 # first_old_entry_date = old_adoption_list[0]['date']
 for current_entry in current_adoption_list:
   has_match = False
