@@ -80,6 +80,16 @@
 
 # Please enter in date order
 # 2025
+- date: 2025-12-18
+  status: dev
+  entities:
+    - SoFi
+  products:
+    - SoFiUSD Stablecoin
+  chains:
+    - Mainnet
+  sources:
+    - "https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments"
 - date: 2025-12-15
   status: live
   entities:
@@ -183,6 +193,16 @@
     - 
   sources:
     - "https://www.ledgerinsights.com/dbs-kinexys-by-jp-morgan-to-create-tokenized-deposit-interoperability-standard/"
+- date: 2025-11-11
+  status: live
+  entities:
+    - ETH Trading
+  products:
+    - SoFi
+  chains:
+    - 
+  sources:
+    - "https://www.businesswire.com/news/home/20251111406660/en/SoFi-Bank-Becomes-the-First-and-Only-Nationally-Chartered-Bank-to-Launch-Crypto-Trading-for-Consumers"
 - date: 2025-11-10
   status: live
   entities:
@@ -261,6 +281,19 @@
     # - Polygon
   sources:
     - "https://stripe.com/blog/introducing-stablecoin-payments-for-subscriptions"
+- date: 2025-10-22
+  status: live
+  entities:
+    - Federated Hermes
+  products:
+    - Short-Term Sterling Prime Fund
+    - Short-Term U.S. Prime Fund
+  chains:
+    - Mainnet
+    - Arbitrum
+    # - Polygon
+  sources:
+    - "https://archive.fo/Y9fzE"
 - date: 2024-10-13
   status: dev
   entities:
@@ -496,6 +529,16 @@
     - Mainnet
   sources:
     - "https://www.investing.com/news/company-news/etoro-expands-245-trading-plans-tokenized-stocks-on-ethereum-93CH-4157860"
+- date: 2025-07-23
+  status: 
+  entities:
+    - 
+  products:
+    - 
+  chains:
+    - 
+  sources:
+    - "https://www.goldmansachs.com/pressroom/press-releases/2025/bny-goldman-sachs-launch-tokenized-money-market-funds-solution"
 - date: 2025-07-22
   status: dev
   entities:
