@@ -120,6 +120,10 @@
           link: https://optimism.io/build
         - title: ZKsync Era
           link: https://docs.zksync.io/zksync-era
+        - title: Cartesi
+          link: https://cartesi.io/
+        - title: Surge (Coming Soon)
+          link: https://www.surge.wtf/#solution-1
         - title: Explore others
           link: https://l2beat.com
     - header: Resources
