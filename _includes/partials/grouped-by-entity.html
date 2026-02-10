@@ -5,7 +5,7 @@
     {%- assign entities = entities | append: "|||" | append: entity_stripped -%}
   {%- endfor -%}
 {%- endfor -%}
-{%- assign entities = entities | split: "|||" | uniq | sort -%}
+{%- assign entities = entities | split: "|||" | uniq | alphabetize -%}
 {%- assign entity_count = entities | size -%}
 
 <select class="form-select mb-2" aria-label="Entity section select" onchange="selectAnchor(this)">

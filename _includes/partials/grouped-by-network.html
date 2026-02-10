@@ -4,7 +4,7 @@
     {%- assign networks = networks | append: chain | append: "," -%}
   {%- endfor -%}
 {%- endfor -%}
-{%- assign networks = networks | split: "," | uniq | sort -%}
+{%- assign networks = networks | split: "," | uniq | alphabetize | remove_blank -%}
 
 
 <div class="mb-2">

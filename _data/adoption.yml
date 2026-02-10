@@ -205,7 +205,7 @@
   products:
     - Cross-Chain Interoperability
   chains:
-    - 
+    - Base
   sources:
     - "https://www.ledgerinsights.com/dbs-kinexys-by-jp-morgan-to-create-tokenized-deposit-interoperability-standard/"
 - date: 2025-11-11
@@ -276,7 +276,7 @@
   sources:
     - "https://www.bny.com/corporate/global/en/about-us/newsroom/company-news/securitize-launches-tokenized-aaa-clo-fund-with-services-provided-by-bny-bringing-institutional-structured-credit-on-chain.html"
 - date: 2025-10-24
-  status: dev # goes live end of year
+  status: live
   entities:
     - JPMorgan
   products:
@@ -330,13 +330,13 @@
   sources:
     - "https://www.cnbc.com/2025/10/03/walmart-onepay-is-rolling-out-crypto-to-mobile-banking-app.html"
 - date: 2025-10-01
-  status: dev
+  status: live
   entities:
     - First Abu Dhabi Bank (FAB)
     - IHC
     - ADQ
   products:
-    - Dirham Stablecoin
+    - AED Stablecoin
   chains:
     - ADI Chain # ZKsync Elastic Network
   sources:
@@ -1104,6 +1104,7 @@
   products:
     - Stablecoin Reserve Management
   chains: # no chains mentioned in article but the USDG and USDL they will manage are on Mainnet (both) and Artbitrum (USGL)
+    - 
     # - Mainnet
     # - Arbitrum
   sources:

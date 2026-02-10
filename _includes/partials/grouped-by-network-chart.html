@@ -5,16 +5,20 @@
   // create object of { ${network}: ${occurances}, ... }
   let networkData = {};
   adoption.forEach((item) => {
-    item.chains.forEach((chain) => {
-      if (chain != null) {
-        if (chain in networkData) {
-          networkData[chain] += 1;
-        } else {
-          networkData[chain] = 1;
+    if (Object.hasOwn(item, 'chains')) {
+      console.log(item)
+      item.chains.forEach((chain) => {
+        if (chain != null) {
+          if (chain in networkData) {
+            networkData[chain] += 1;
+          } else {
+            networkData[chain] = 1;
+          }
         }
-      }
-    });
+      });
+    };
   });
+  console.log(networkData['chains'])
 
   // create array of [ {'network': ${network}, 'count': ${occurances}}, ... ]
   let networkDataSorted = [];
@@ -65,6 +69,7 @@
         },
         x: {
           ticks: {
+            autoSkip: false,
             color: 'rgba(255,255,255,0.5)'
           },
           grid: {
