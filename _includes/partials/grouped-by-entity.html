@@ -18,6 +18,18 @@
   {%- endfor -%}
 </select>
 
+
+<details>
+  <summary>&nbsp;Full Entity List</summary>
+  <div class="scroll-content">
+    {%- for entity in entities -%}
+      {%- if entity != "" -%}
+        <div>{{entity}}</div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+</details>
+
 {% include partials/legend.html %}
 
 {%- assign adoption = site.data.adoption | sort: "date" | reverse -%}

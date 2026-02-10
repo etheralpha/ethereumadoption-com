@@ -176,6 +176,8 @@ a:visited {
   border-radius: var(--brand-radius);
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3e%3cpath fill='%23fff' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e");
   cursor: pointer;
+  font-size: 90%;
+  padding: 6px 15px;
 }
 
 
@@ -241,6 +243,11 @@ input::placeholder {
   transition: all 0.3s ease;
   transform: scale(1.025);
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+}
+.scroll-content {
+  max-height: 300px;
+  overflow-y: scroll;
+  margin-bottom: 0.25rem;
 }
 
 
@@ -362,6 +369,57 @@ table .btn {
 table .sort svg {
   margin-top: -3px;
   cursor: pointer;
+}
+
+
+
+main details {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  padding: 6px 15px;
+  border-radius: var(--brand-radius);
+  background-color: var(--brand-slate);
+  text-align: left;
+  border-color: var(--brand-line-color) !important;
+  max-width: 100%;
+  word-wrap: break-word;
+  font-size: 90%;
+}
+main details p {
+}
+main details summary::marker {
+  margin-right: 10px;
+}
+main details summary {
+  cursor: pointer;
+  display: list-item;
+}
+main details[open] summary {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  /*border-bottom: var(--brand-line-color) solid 1px;*/
+  border-bottom: var(--brand-gray-dark) solid 1px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+main details details,
+main details[open] details {
+  padding: 0;
+  margin: 0;
+  padding-left: 10px;
+}
+main details[open] details[open] {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 10px 20px;
+  margin-top: -11px;
+  margin-bottom: 10px;
+  border: solid 1px gold !important;
+}
+main details[open] details[open] summary {
+  color: gold;
+  margin-left: -11px;
 }
 
 
