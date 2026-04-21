@@ -24,10 +24,10 @@ bootstrap_css: <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css
 # Announcement
 announcement:
   enabled: true
-  theme: emrc # default, emrc, ethereum, etherealize, growthepie, telegram, purple, red
-  img: /assets/img/announcements/emcr.png # optional, leave blank for megaphone
-  text: "EMRC: A Trillion-Dollar Public Goods Valuation Framework"
-  link: https://ethmrc.com/the-internets-blueprint-for-ethereum-a-trillion-dollar-public-goods-valuation-framework/
+  theme: etherealize # default, emrc, ethereum, etherealize, growthepie, telegram, purple, red
+  img: /assets/img/announcements/etherealize.png # optional, leave blank for megaphone
+  text: "Etherealize: Ethereum and the Era of Productive Money"
+  link: https://www.productivemoney.org/
   cta: Read ↗
 
 
