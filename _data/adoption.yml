@@ -80,6 +80,81 @@
 
 # Please enter in date order
 # 2026
+- date: 2026-04-16
+  status: live
+  entities:
+    - Charles Schwab
+  products:
+    - Schwab Crypto
+  chains:
+    - 
+  sources:
+    - "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Announces-Details-of-Spot-Crypto-Trading-Launch/default.aspx"
+- date: 2026-03-17
+  status: live
+  entities:
+    - Mastercard
+  products:
+    - BVNK
+  chains:
+    - Mainnet
+    # - Polygon
+  sources:
+    - "https://www.businesswire.com/news/home/20260317174940/en/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-Fiat-Rails"
+- date: 2026-03-17
+  status: dev
+  entities:
+    - Huntington Bancshares
+    - First Horizon
+    - M&T Bank
+    - KeyCorp
+    - Old National Bancorp
+  products:
+    - Cari Network
+  chains:
+    - Cari # zksync
+  sources:
+    - "https://www.zksync.io/blog/cari-selects-zksyncs-prividium"
+- date: 2026-03-02
+  status: dev
+  entities:
+    - Morgan Stanley
+  products:
+    - Custody Services
+  chains:
+    - 
+  sources:
+    - "https://www.bankingexchange.com/news-feed/item/10559-morgan-stanley-looks-to-bring-crypto-custody-in-house"
+- date: 2026-02-20
+  status: dev
+  entities:
+    - BNP Paribas
+  products:
+    - Tokenized French MMF
+  chains:
+    - Mainnet
+  sources:
+    - "https://group.bnpparibas/en/press-release/bnp-paribas-explores-public-blockchain-infrastructure-for-money-market-fund-tokenisation"
+- date: 2026-02-16
+  status: live
+  entities:
+    - Harvard Management Company
+  products:
+    - Strategic Ether Reserve
+  chains:
+    - 
+  sources:
+    - "https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings"
+- date: 2026-02-10
+  status: live
+  entities:
+    - Goldman Sachs
+  products:
+    - Strategic Ether Reserve
+  chains:
+    - 
+  sources:
+    - "https://finance.yahoo.com/news/goldman-sachs-reveals-2-3-213127878.html"
 - date: 2026-01-28
   status: dev
   entities:
@@ -211,9 +286,9 @@
 - date: 2025-11-11
   status: live
   entities:
-    - ETH Trading
-  products:
     - SoFi
+  products:
+    - ETH Trading
   chains:
     - 
   sources:
