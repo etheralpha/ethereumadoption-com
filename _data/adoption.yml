@@ -80,6 +80,17 @@
 
 # Please enter in date order
 # 2026
+- date: 2026-05-12
+  status: dev
+  entities:
+    - JPMorgan
+  products:
+    - JLTXX Money Market Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://archive.fo/H1xwH"
+    - "https://www.sec.gov/Archives/edgar/data/1659326/000119312526217424/d44657d485bpos.htm"
 - date: 2026-05-08
   status: dev
   entities:
