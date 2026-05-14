@@ -80,12 +80,22 @@
 
 # Please enter in date order
 # 2026
+- date: 2026-05-13
+  status: live
+  entities:
+    - Fidelity
+  products:
+    - FILQ Fund
+  chains:
+    - Mainnet
+  sources:
+    - "https://www.theblock.co/post/401196/fidelity-internationals-first-tokenized-fund-receives-top-tier-aaa-mf-rating-from-moodys"
 - date: 2026-05-12
   status: dev
   entities:
     - JPMorgan
   products:
-    - JLTXX Money Market Fund
+    - JLTXX Fund
   chains:
     - Mainnet
   sources:
@@ -558,7 +568,7 @@
 #   entities:
 #     - ChinaAMC
 #   products:
-#     - CUMIU Money Market Fund
+#     - CUMIU Fund
 #   chains:
 #     - Mainnet
 #   sources:
@@ -1034,7 +1044,7 @@
 #   entities:
 #     - ChinaAMC
 #   products:
-#     - CAMMF Money Market Fund
+#     - CAMMF Fund
 #   chains:
 #     - Mainnet
 #   sources:
@@ -1045,7 +1055,7 @@
 #   entities:
 #     - ChinaAMC
 #   products:
-#     - CAMMU Money Market Fund
+#     - CAMMU Fund
 #   chains:
 #     - Mainnet
 #   sources:
@@ -1350,7 +1360,7 @@
     - CACEIS
     - Twenty First Capital
   products:
-    - UCITS Money Market Fund 
+    - UCITS Fund 
   chains:
     - Mainnet
     - Arbitrum
