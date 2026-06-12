@@ -80,6 +80,16 @@
 
 # Please enter in date order
 # 2026
+- date: 2026-06-11
+  status: dev
+  entities:
+    - LG Electronics
+  products:
+    - Ethereum L2
+  chains:
+    -  # Arbitrum Orbit
+  sources:
+    - "https://archive.fo/EtZxe"
 - date: 2026-05-13
   status: live
   entities:
@@ -189,7 +199,7 @@
   sources:
     - "https://finance.yahoo.com/news/goldman-sachs-reveals-2-3-213127878.html"
 - date: 2026-01-28
-  status: dev
+  status: live
   entities:
     - Fidelity
   products:
@@ -198,13 +208,14 @@
     - Mainnet
   sources:
     - "https://newsroom.fidelity.com/pressreleases/fidelity-investments--to-expand-digital-asset-investment-lineup-with-stablecoin-launch--fidelity-dig/s/3b55e2d1-1dba-4120-9528-1e07e632f3f4"
+    - "https://etherscan.io/address/0x7C135549504245B5eAe64fc0E99Fa5ebabb8e35D"
 
 
 
 
 # 2025
 - date: 2025-12-18
-  status: dev
+  status: live
   entities:
     - SoFi
   products:
