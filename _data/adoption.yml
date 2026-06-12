@@ -123,6 +123,17 @@
   sources:
     - "https://archive.fo/xr76e"
     - "https://www.sec.gov/Archives/edgar/data/97098/000119312526214958/d45978d485apos.htm"
+- date: 2026-05-04
+  status: live
+  entities:
+    - Tetra Trust
+  products:
+    - CADD Stablecoin
+  chains:
+    - Mainnet
+    - Base
+  sources:
+    - "https://www.businesswire.com/news/home/20260504197679/en/Tetra-Digital-Group-Launches-CADD-Canadas-First-CAD-Backed-Stablecoin-Issued-by-a-Financial-Institution"
 - date: 2026-04-16
   status: live
   entities:
